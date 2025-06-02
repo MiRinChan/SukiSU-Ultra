@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/mirin/SukiSU-Ultra/manager/app/.cxx/Debug/36s1d183/arm64-v8a'
+ninja: no work to do.

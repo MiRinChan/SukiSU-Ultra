@@ -1,0 +1,3 @@
+/home/mirin/SukiSU-Ultra/manager/app/.cxx/Release/1t1g6y72/x86_64/CMakeFiles/zako.dir
+/home/mirin/SukiSU-Ultra/manager/app/.cxx/Release/1t1g6y72/x86_64/CMakeFiles/edit_cache.dir
+/home/mirin/SukiSU-Ultra/manager/app/.cxx/Release/1t1g6y72/x86_64/CMakeFiles/rebuild_cache.dir

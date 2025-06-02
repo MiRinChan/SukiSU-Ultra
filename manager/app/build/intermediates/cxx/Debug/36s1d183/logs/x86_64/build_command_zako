@@ -1,0 +1,4 @@
+/home/mirin/Android/Sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /home/mirin/SukiSU-Ultra/manager/app/.cxx/Debug/36s1d183/x86_64 \
+  zako

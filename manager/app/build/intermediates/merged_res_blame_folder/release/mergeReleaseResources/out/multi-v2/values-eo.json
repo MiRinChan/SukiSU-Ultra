@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sukisu.ultra.app-mergeReleaseResources-78:/values-eo/values-eo.xml",
+            "map": [
+                {
+                    "source": "/home/mirin/.gradle/caches/8.12.1/transforms/2ad5cc72445919e3036b280688c12d22/transformed/list-1.3.0/res/values-eo/values-eo.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,161",
+                        "endColumns": "105,104",
+                        "endOffsets": "156,261"
+                    },
+                    "to": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "131,237",
+                        "endColumns": "105,104",
+                        "endOffsets": "232,337"
+                    }
+                },
+                {
+                    "source": "/home/mirin/.gradle/caches/8.12.1/transforms/d809468db5da1e4185aa1ffdbca2bb26/transformed/core-1.3.0/res/values-eo/values-eo.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,97",
+                        "endColumns": "41,33",
+                        "endOffsets": "92,126"
+                    }
+                }
+            ]
+        }
+    ]
+}

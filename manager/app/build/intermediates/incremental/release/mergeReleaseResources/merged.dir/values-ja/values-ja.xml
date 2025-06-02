@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d 件の新しい通知</item>
+    <item quantity="other">%d 件の新しい通知</item>
+  </plurals>
+    <string name="GKI_install_methods">AnyKernel3 をフラッシュ</string>
+    <string name="Lkm_install_methods">LKM の修復またはインストール</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"ホームに戻る"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"前に戻る"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"完了"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"OFF"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ON"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"検索…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>と共有"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"折りたたむ"</string>
+    <string name="about">アプリについて</string>
+    <string name="about_source_code"><![CDATA[ソースコードは %1$s で確認できます。<br/>%2$s チャンネルにご参加ください。]]></string>
+    <string name="action">アクション</string>
+    <string name="advanced_settings">高度な設定</string>
+    <string name="allowlist_backup_failed">許可リストのバックアップに失敗: %1$s</string>
+    <string name="allowlist_backup_success">許可リストのバックアップが成功しました</string>
+    <string name="allowlist_restore_confirm_message">この操作により許可リストが上書きされます。続行しますか？</string>
+    <string name="allowlist_restore_confirm_title">許可リストの復元を確認</string>
+    <string name="allowlist_restore_failed">許可リストの復元に失敗: %1$s</string>
+    <string name="allowlist_restore_success">許可リストの復元が成功しました</string>
+    <string name="app_dpi_summary">このアプリのみで画面表示密度を調整します</string>
+    <string name="app_dpi_title">DPI の変更を適用</string>
+    <string name="app_profile_export_to_clipboard">クリップボードからエクスポート</string>
+    <string name="app_profile_import_export">インポートとエクスポート</string>
+    <string name="app_profile_import_from_clipboard">クリップボードからインポート</string>
+    <string name="app_profile_template_create">テンプレートの作成</string>
+    <string name="app_profile_template_delete">消去</string>
+    <string name="app_profile_template_description">説明</string>
+    <string name="app_profile_template_edit">テンプレートの編集</string>
+    <string name="app_profile_template_export_empty">エクスポートするローカル テンプレートが見つかりません！</string>
+    <string name="app_profile_template_id">ID</string>
+    <string name="app_profile_template_id_exist">テンプレート ID はすでに存在します！</string>
+    <string name="app_profile_template_id_invalid">無効なテンプレート ID</string>
+    <string name="app_profile_template_import_empty">クリップボードが空です！</string>
+    <string name="app_profile_template_import_success">インポートが成功しました</string>
+    <string name="app_profile_template_name">名前</string>
+    <string name="app_profile_template_readonly">読み取り専用</string>
+    <string name="app_profile_template_save">保存</string>
+    <string name="app_profile_template_save_failed">テンプレートの保存に失敗しました</string>
+    <string name="app_profile_template_sync">オンラインテンプレートの同期</string>
+    <string name="app_profile_template_view">テンプレートを表示</string>
+    <string name="app_settings">アプリの設定</string>
+    <string name="appearance_settings">ツールバーをカスタマイズ</string>
+    <string name="apps_with_custom_profile">カスタマイズされたアプリ構成</string>
+    <string name="apps_with_root">root アプリの権限</string>
+    <string name="authorized">承認済み</string>
+    <string msgid="389117264260014992" name="autofill">"自動入力"</string>
+    <string name="back">戻る</string>
+    <string name="background_image_error">イメージを読み込めません</string>
+    <string name="background_removed">カスタム背景を削除しました</string>
+    <string name="background_set_success">背景の設定が成功しました</string>
+    <string name="backup">バックアップ</string>
+    <string name="backup_allowlist">許可リストをバックアップ</string>
+    <string name="backup_failed">バックアップに失敗: %1$s</string>
+    <string name="backup_modules">モジュールをバックアップ</string>
+    <string name="backup_success">バックアップが完了しました (tar.gz)</string>
+    <string name="batch_authorization">権限を付与</string>
+    <string name="batch_cancel_authorization">撤回する</string>
+    <string name="bottomsheet_action_collapse">ボトムシートを閉じる</string>
+    <string name="bottomsheet_action_expand">ボトムシートを開く</string>
+    <string name="bottomsheet_action_expand_halfway">下半分を展開</string>
+    <string name="bottomsheet_drag_handle_clicked">ドラッグ ハンドルをダブルタップしました</string>
+    <string name="bottomsheet_drag_handle_content_description">ドラッグ ハンドル</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"応答"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"ビデオ"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"拒否"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"通話終了"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"着信"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"通話中"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"着信をスクリーニング中"</string>
+    <string name="cancel">キャンセル</string>
+    <string name="character_counter_content_description">入力済み文字数: %1$d/%2$d</string>
+    <string name="character_counter_overflowed_content_description">文字数制限を超えています（%1$d/%2$d 文字）</string>
+    <string name="check_log">ログを確認してください</string>
+    <string name="choose_theme_color">テーマカラーを選択</string>
+    <string name="clear">削除</string>
+    <string name="clear_text_end_icon_content_description">テキストを消去</string>
+    <string name="close">閉じる</string>
+    <string msgid="406453423630273620" name="close_drawer">"ナビゲーションメニューを閉じる"</string>
+    <string name="close_notice">閉じる</string>
+    <string msgid="7573152094250666567" name="close_sheet">"シートを閉じる"</string>
+    <string name="collapse">折りたたむ</string>
+    <string name="color_default">ブルー</string>
+    <string name="color_gray">グレー</string>
+    <string name="color_green">グリーン</string>
+    <string name="color_orange">オレンジ</string>
+    <string name="color_pink">ピンク</string>
+    <string name="color_purple">パープル</string>
+    <string name="color_yellow">イエロー</string>
+    <string name="command_execution_failed">コマンドの実行に失敗しました: %1$s</string>
+    <string name="configuration">設定</string>
+    <string name="confirm">確認</string>
+    <string name="confirm_uninstall_confirm">アンインストール</string>
+    <string name="confirm_uninstall_content">次の KPM がアンインストールされます: %s</string>
+    <string name="confirm_uninstall_dismiss">キャンセル</string>
+    <string name="confirm_uninstall_title">アンインストールを確認</string>
+    <string name="confirm_uninstall_title_with_filename">アンインストール</string>
+    <string name="copy_failed">ファイルのコピーに失敗しました</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"リンクをクリップボードにコピーしました"</string>
+    <string name="current_slot">現在のスロット: %1$s </string>
+    <string name="currently_selected">現在</string>
+    <string name="custom_settings">カスタム設定</string>
+    <string msgid="8038256446254964252" name="default_error_message">"入力値が無効です"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"ポップアップウィンドウ"</string>
+    <string name="direct_install">直接インストール (推奨)</string>
+    <string name="dpi_applied_success">DPI は %1$d に変更されました。アプリの再起動後に適用されます。</string>
+    <string name="dpi_apply_settings">DPI の設定を適用する</string>
+    <string name="dpi_confirm_message">アプリの DPI を %1$d から %2$d に変更してもよろしいですか？</string>
+    <string name="dpi_confirm_summary">変更した DPI 設定を適用するにはアプリを再起動する必要がありますが、システムステータスバーや他のアプリには影響しません</string>
+    <string name="dpi_confirm_title">DPI の変更を確認</string>
+    <string name="dpi_settings">DPI の設定</string>
+    <string name="dpi_size_custom">カスタマイズ</string>
+    <string name="dpi_size_extra_large">特大</string>
+    <string name="dpi_size_large">大</string>
+    <string name="dpi_size_medium">中 </string>
+    <string name="dpi_size_small">小 </string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"プルダウン メニュー"</string>
+    <string name="dynamic_color_summary">システムテーマのダイナミックカラーを使用します</string>
+    <string name="dynamic_color_title">ダイナミックカラー</string>
+    <string name="enable_web_debugging">WebView デバッグを有効化する</string>
+    <string name="enable_web_debugging_summary">WebUI のデバッグに使用できます。必要な場合でのみ有効化してください</string>
+    <string name="engine_auto_select">Automatic Selection</string>
+    <string name="engine_force_ksu">Mandatory use of KSU WebUI</string>
+    <string name="engine_force_webuix">Force the use of WebUI X</string>
+    <string name="error_a11y_label">エラー: 無効</string>
+    <string name="error_code">エラーコード</string>
+    <string name="error_icon_content_description">エラー</string>
+    <string name="expand">展開する</string>
+    <string name="exposed_dropdown_menu_content_description">プルダウン メニューを表示</string>
+    <string name="failed_reboot">再起動に失敗しました</string>
+    <string name="failed_to_update_app_profile">%s のアプリのプロファイルの更新をできませでした</string>
+    <string name="failed_to_update_sepolicy">SELinux ルールの更新に失敗しました %s</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"リンクをコピー"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"ブラウザで開く"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"リンクの共有"</string>
+    <string name="flash_failed">フラッシュに失敗しました</string>
+    <string name="flash_failed_message">フラッシュに失敗しました</string>
+    <string name="flash_option">ブラシの設定</string>
+    <string name="flash_option_tip">フラッシュするファイルを選択</string>
+    <string name="flash_success">フラッシュが成功しました</string>
+    <string name="flashing">フラッシュ</string>
+    <string formatted="false" name="force_stop_app">強制停止</string>
+    <string name="grant_root_failed">root の付与に失敗しました！</string>
+    <string name="hide_kernel_kernelsu_version">カーネルのバージョンを非表示</string>
+    <string name="hide_kernel_kernelsu_version_summary">カーネルのバージョンを非表示にします</string>
+    <string name="hide_link_card">リンクカードのステータスを非表示</string>
+    <string name="hide_link_card_summary">ホームページ上のリンクカード情報を非表示にします</string>
+    <string name="hide_other_info">その他の情報を非表示</string>
+    <string name="hide_other_info_summary">ホームページ上のスーパーユーザー、モジュール、KPM モジュールの数に関する情報を非表示にします</string>
+    <string name="hide_susfs_status">SuSFS ステータスを非表示</string>
+    <string name="hide_susfs_status_summary">ホームページ上の SuSFS ステータス情報を非表示にします</string>
+    <string name="hide_system_apps">システムアプリを非表示</string>
+    <string name="home">ホーム</string>
+    <string name="home_ContributionCard_kernelsu">SukiSU Ultra の今後にご期待ください</string>
+    <string name="home_android_version">Android のバージョン</string>
+    <string name="home_click_to_ContributionCard_kernelsu">SukiSU Ultra は将来的に KSU から比較的に独立したブランチになりますが、公式の KernelSU や MKSU などの貢献に感謝しています！</string>
+    <string name="home_click_to_install">タップでインストール</string>
+    <string name="home_click_to_learn_kernelsu">KernelSU のインストール方法やモジュールの使い方を学習できます。</string>
+    <string name="home_device_model">デバイスモデル</string>
+    <string name="home_fingerprint">Fingerprint</string>
+    <string name="home_kernel">カーネルのバージョン</string>
+    <string name="home_kpm_module">"KPM モジュールの数: %d "</string>
+    <string name="home_kpm_version">KPM のバージョン</string>
+    <string name="home_learn_kernelsu">KernelSU について学ぶ</string>
+    <string name="home_learn_kernelsu_url">https://kernelsu.org/ja_JP/guide/what-is-kernelsu.html</string>
+    <string name="home_manager_version">マネージャーのバージョン</string>
+    <string name="home_module_count">モジュール: %d</string>
+    <string name="home_not_installed">未インストール</string>
+    <string name="home_selinux_status">SELinux のステータス</string>
+    <string name="home_superuser_count">スーパーユーザー: %d</string>
+    <string name="home_support_content">KernelSU は今後も無料でオープンソースです。ですが、寄付をして頂けると開発者への貢献になります。</string>
+    <string name="home_support_title">支援する</string>
+    <string name="home_susfs">SuSFS: %s</string>
+    <string name="home_susfs_sus_su">SuS SU</string>
+    <string name="home_susfs_version">SuSFS のバージョン</string>
+    <string name="home_unsupported">非対応</string>
+    <string name="home_unsupported_reason">カーネルの KernelSU ドライバが未検出です。カーネルが間違ってませんか？</string>
+    <string name="home_working">動作中</string>
+    <string name="home_working_version">バージョン: %d</string>
+    <string name="horizon_cleaning_files">ファイルを削除中…</string>
+    <string name="horizon_copy_failed">コピーに失敗しました</string>
+    <string name="horizon_copying_files">ファイルをコピー中…</string>
+    <string name="horizon_extracting_tool">フラッシュツールを展開中…</string>
+    <string name="horizon_flash_complete">フラッシュが完了しました</string>
+    <string name="horizon_flash_complete_status">フラッシュが完了しました</string>
+    <string name="horizon_flash_title">カーネルをフラッシュ</string>
+    <string name="horizon_flashing">カーネルをフラッシュ中…</string>
+    <string name="horizon_getting_original_slot">オリジナルのスロットを取得</string>
+    <string name="horizon_kernel">AnyKernel3 をインストール</string>
+    <string name="horizon_kernel_summary">AnyKernel3 カーネルファイルをフラッシュします</string>
+    <string name="horizon_logs_label">ログ:</string>
+    <string name="horizon_patching_script">フラッシュスクリプトをパッチ中…</string>
+    <string name="horizon_preparing">準備中…</string>
+    <string name="horizon_restoring_original_slot">デフォルトのスロットに復元</string>
+    <string name="horizon_setting_target_slot">指定するスロットを設定</string>
+    <string name="horizon_unknown_error">不明なエラー</string>
+    <string name="icon_content_description">ダイアログ アイコン</string>
+    <string name="image_editor_hint">2 本の指で画像を拡大、1 本の指でドラッグで位置を調整します</string>
+    <string name="image_editor_title">背景画像を調整</string>
+    <string msgid="6827826412747255547" name="in_progress">"処理しています"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"一部 ON"</string>
+    <string name="install">インストール</string>
+    <string name="install_inactive_slot">非アクティブなスロットにインストール (OTA 後)</string>
+    <string name="install_inactive_slot_warning">再起動後、デバイスは**強制的に**、現在非アクティブなスロットから起動します。
+\nこのオプションは、OTA が完了した後にのみ使用してください。
+\n続行しますか？</string>
+    <string name="install_next">次へ</string>
+    <string name="installing_module">モジュール設置中 %1$d/%2$d</string>
+    <string name="invalid_file_type">ファイルの種類が間違っています！.kpm ファイルを選択してください。</string>
+    <string name="item_view_role_description">タブ</string>
+    <string name="kernel_flashing">カーネルをフラッシュ中</string>
+    <string name="kernel_module_notice">以下のカーネルモジュール関数は KernelPatch によって開発され、SukiSU Ultra のカーネルモジュール関数を含むように変更されました</string>
+    <string name="kernel_not_enabled">カーネルは未設定です</string>
+    <string name="kernel_patched">カーネルはパッチされていません</string>
+    <string name="kernel_version_log">カーネルのバージョン: %1$s</string>
+    <string name="kpm_args">パラメータ</string>
+    <string name="kpm_author">作者</string>
+    <string name="kpm_control">実行</string>
+    <string name="kpm_control_failed">失敗</string>
+    <string name="kpm_control_success">成功</string>
+    <string name="kpm_empty">カーネルモジュールは現在インストールされていません</string>
+    <string name="kpm_install">インストール</string>
+    <string name="kpm_install_failed">KPM モジュールの読み込みに失敗しました</string>
+    <string name="kpm_install_mode">KPM をインストール</string>
+    <string name="kpm_install_mode_description">選択してください: %1\$s モジュールのインストールモード \n\n読み込む: モジュールを一時的に読み込みます\n埋め込む: システムで恒久的にインストールします</string>
+    <string name="kpm_install_mode_embed">埋め込む</string>
+    <string name="kpm_install_mode_load">読み込む</string>
+    <string name="kpm_install_success">KPM モジュールの読み込みに成功しました</string>
+    <string name="kpm_invalid_file">無効な KPM ファイル</string>
+    <string name="kpm_title">KPM</string>
+    <string name="kpm_uninstall">アンインストール</string>
+    <string name="kpm_uninstall_failed">アンインストールに失敗しました</string>
+    <string name="kpm_uninstall_success">アンインストールに失敗しました</string>
+    <string name="kpm_version">バージョン</string>
+    <string name="language_changed">言語の変更を適用するために再起動しています</string>
+    <string name="language_follow_system">システムに従う</string>
+    <string name="language_setting">アプリの言語</string>
+    <string name="launch_app">起動</string>
+    <string name="log_failed_to_check_module_file">モジュールファイルの存在を確認できませんでした</string>
+    <string name="log_saved">保存されたログ</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"ボトムシートを折りたたみます"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"ボトムシートを閉じます"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"ドラッグ ハンドル"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"ボトムシートを開きます"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"ボトムシート"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"入力された日付"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"入力された日付: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"想定パターンと一致しない日付: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"許可されない日付: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"想定される年の範囲（%1$s～%2$s）から日付が外れています"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"日付"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"なし"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"日付の選択"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"選択した日付"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"現在の選択: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"年に移動 %1$s"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"なし"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"これより前の年を表示するにはスクロールしてください"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"これより後の年を表示するにはスクロールしてください"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"カレンダー入力モードに切り替え"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"スワイプして年を選択するか、タップして日付の選択に戻ります"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"テキスト入力モードに切り替え"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"翌月に変更"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"前月に変更"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"年の選択に切り替え"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"日付の選択"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"今日"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"年の選択ツールの表示"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"入力された期間は無効です"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"日付の入力"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"範囲内"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"終了日"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"翌月を表示するにはスクロールしてください"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"前月を表示するにはスクロールしてください"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"開始日"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"日付の選択"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"ダイアログ"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"閉じています"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"開いています"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"プルダウン メニューを切り替えます"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"検索"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"閉じる"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"検索候補は次のとおりです"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"AM"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"時間"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d 時間"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"時刻を選択"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d 時"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"（時間単位）"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"分"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"分を選択"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d 分"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"（分単位）"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"午前または午後を選択"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"ツールチップを表示"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"ツールチップ"</string>
+    <string name="manual_hook">手動でフック</string>
+    <string name="material_clock_toggle_content_description">午前または午後を選択</string>
+    <string name="material_hour_24h_suffix">%1$s 時間</string>
+    <string name="material_hour_selection">時刻を選択してください</string>
+    <string name="material_hour_suffix">%1$s時</string>
+    <string name="material_minute_selection">分を選択</string>
+    <string name="material_minute_suffix">%1$s分</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">時刻を時計で入力するモードに切り替えます。</string>
+    <string name="material_timepicker_hour">時間</string>
+    <string name="material_timepicker_minute">分</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">時間を選択</string>
+    <string name="material_timepicker_text_input_mode_description">時刻をテキストで入力するモードに切り替えます。</string>
+    <string msgid="2792228137354697160" name="mc2_snackbar_pane_title">"アラート"</string>
+    <string name="module">モジュール</string>
+    <string name="module_author">作者</string>
+    <string name="module_changelog">変更履歴</string>
+    <string name="module_changelog_failed">変更ログの取得に失敗しました: %s</string>
+    <string name="module_download_error">モデルのダウンロードに失敗しました</string>
+    <string name="module_downloading">モジュールをダウンロード中: %s</string>
+    <string name="module_empty">モジュールがインストールされていません</string>
+    <string name="module_failed_count">%d モジュールのインストールに失敗しました</string>
+    <string name="module_failed_to_disable">%s モジュールを OFF にできませんでした</string>
+    <string name="module_failed_to_enable">%s モジュールを ON にできませんでした</string>
+    <string name="module_install">インストール</string>
+    <string name="module_install_confirm">%1$s のモジュールをインストールしますか？</string>
+    <string name="module_install_multiple_confirm">選択した %d 個のモジュールをインストールしてもよろしいですか？</string>
+    <string name="module_install_multiple_confirm_with_names">%1$d 個のモジュールをインストールしてもよろしいですか？\n\n%2$s</string>
+    <string name="module_magisk_conflict">モジュールが Magisk との競合により利用できません！</string>
+    <string name="module_sort_action_first">並べ替え (アクション優先)</string>
+    <string name="module_sort_enabled_first">並べ替え (最初に有効)</string>
+    <string name="module_start_downloading">ダウンロードを開始: %s</string>
+    <string name="module_uninstall_confirm">モジュール %s をアンインストールしますか？</string>
+    <string name="module_uninstall_failed">%s をアンインストールできませんでした</string>
+    <string name="module_uninstall_success">%s はアンインストールされました</string>
+    <string name="module_update">更新</string>
+    <string name="module_version">バージョン</string>
+    <string name="more_settings">その他の設定</string>
+    <string name="mtrl_badge_numberless_content_description">新しい通知</string>
+    <string name="mtrl_checkbox_state_description_checked">オン</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">一部オン</string>
+    <string name="mtrl_checkbox_state_description_unchecked">オフ</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s を削除します</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">%1$d 件以上の新しい通知</string>
+    <string name="mtrl_picker_a11y_next_month">翌月に変更</string>
+    <string name="mtrl_picker_a11y_prev_month">前月に変更</string>
+    <string name="mtrl_picker_announce_current_range_selection">開始日の選択: %1$s – 終了日の選択: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">現在の選択: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">なし</string>
+    <string name="mtrl_picker_cancel">キャンセル</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">日付を選択してください</string>
+    <string name="mtrl_picker_date_header_unselected">選択した日付</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">終了日 %1$s</string>
+    <string name="mtrl_picker_invalid_format">形式が無効です。</string>
+    <string name="mtrl_picker_invalid_format_example">例: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">使用: %1$s</string>
+    <string name="mtrl_picker_invalid_range">範囲が無効です。</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">現在の年（%1$d）に移動</string>
+    <string name="mtrl_picker_navigate_to_year_description">%1$d 年に移動</string>
+    <string name="mtrl_picker_out_of_range">範囲外: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">開始日～%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s～終了日</string>
+    <string name="mtrl_picker_range_header_selected">%1$s～%2$s</string>
+    <string name="mtrl_picker_range_header_title">期間を選択してください</string>
+    <string name="mtrl_picker_range_header_unselected">開始日～終了日</string>
+    <string name="mtrl_picker_save">保存</string>
+    <string name="mtrl_picker_start_date_description">開始日 %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">日付</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">終了日</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">開始日</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_today_description">今日（%1$s）</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">カレンダー入力モードに切り替え</string>
+    <string name="mtrl_picker_toggle_to_day_selection">タップするとカレンダー表示に切り替わります</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">テキスト入力モードに切り替え</string>
+    <string name="mtrl_picker_toggle_to_year_selection">タップすると年表示に切り替わります</string>
+    <string name="mtrl_timepicker_cancel">キャンセル</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string msgid="542007171693138492" name="navigation_menu">"ナビゲーションメニュー"</string>
+    <string name="new_version_available">新しいバージョン %s が利用可能です。タップしてダウンロード。</string>
+    <string name="no">いいえ</string>
+    <string name="no_apps_found">アプリがありません</string>
+    <string msgid="6610465462668679431" name="not_selected">"未選択"</string>
+    <string name="not_supported">非対応</string>
+    <string name="ok">了解</string>
+    <string name="open">開く</string>
+    <string name="other_apps">その他のアプリ</string>
+    <string name="password_toggle_content_description">パスワードを表示</string>
+    <string name="profile_capabilities">ケーパビリティ</string>
+    <string name="profile_custom">カスタム</string>
+    <string name="profile_default">デフォルト</string>
+    <string name="profile_groups">グループ</string>
+    <string name="profile_name">プロファイル名</string>
+    <string name="profile_namespace">名前空間のマウント</string>
+    <string name="profile_namespace_global">共通</string>
+    <string name="profile_namespace_individual">分離</string>
+    <string name="profile_namespace_inherited">継承</string>
+    <string name="profile_selinux_context">SELinux コンテキスト</string>
+    <string name="profile_selinux_domain">ドメイン</string>
+    <string name="profile_selinux_rules">ルール</string>
+    <string name="profile_template">テンプレート</string>
+    <string name="profile_umount_modules">モジュールのアンマウント</string>
+    <string name="profile_umount_modules_disable">カスタムアンインストールモジュールを無効にする</string>
+    <string name="profile_umount_modules_summary">このオプションを有効にすると、KernelSU はこのアプリのモジュールによって変更されたファイルを復元できるようになります。</string>
+    <string msgid="5941395253238309765" name="range_end">"範囲の末尾"</string>
+    <string msgid="7097486360902471446" name="range_start">"範囲の先頭"</string>
+    <string name="reboot">再起動</string>
+    <string name="reboot_bootloader">ブートローダーで再起動</string>
+    <string name="reboot_complete_msg">すぐに再起動しますか？</string>
+    <string name="reboot_complete_title">スクラブが完了しました</string>
+    <string name="reboot_download">ダウンロードモードで再起動</string>
+    <string name="reboot_edl">EDL で再起動</string>
+    <string name="reboot_recovery">リカバリーで再起動</string>
+    <string name="reboot_to_apply">再起動すると有効化されます</string>
+    <string name="reboot_userspace">ソフトリブート</string>
+    <string name="refresh">更新</string>
+    <string name="reprovision">再プロビジョニング</string>
+    <string name="requireNewVersion_cannot_load_webui">WebUI X を読み込めません</string>
+    <string name="requireNewVersion_refresh">更新</string>
+    <string name="requireNewVersion_require_text">最低限必要: 最新の %1$s >=</string>
+    <string name="requireNewVersion_try_the_following">次のことをお試しください:</string>
+    <string name="requireNewVersion_try_the_following_one">Google Play または GitHub のリリースから %1$s を最新バージョンに更新する。</string>
+    <string name="requireNewVersion_try_the_following_two">回避策については、モジュールの開発者にお問い合わせください。</string>
+    <string formatted="false" name="require_kernel_version">現在の KernelSU のバージョン %d は低すぎるため、マネージャーは正常に動作しません。バージョン %d 以上に更新してください！</string>
+    <string name="restart_app">再起動</string>
+    <string name="restart_now">今すぐ再起動</string>
+    <string name="restore">復元</string>
+    <string name="restore_allowlist">許可リストを復元</string>
+    <string name="restore_confirm_message">この操作によりモジュールが上書きされます。続行しますか？</string>
+    <string name="restore_confirm_title">モジュールの復元を確認</string>
+    <string name="restore_failed">復元に失敗: %1$s</string>
+    <string name="restore_modules">モジュールを復元</string>
+    <string name="restore_success">モジュールは正常に復元されました、再起動が必要です</string>
+    <string name="root_require_for_install">root 権限が必要です</string>
+    <string name="root_required">root 権限が必要です</string>
+    <string name="safe_mode">セーフモード</string>
+    <string name="save_log">ログを保存</string>
+    <string name="scd_list_dialog_max_choices" translatable="true">最大%1$d個のオプションを選択してください。</string>
+    <string name="scd_list_dialog_min_choices" translatable="true">少なくとも%1$d個のオプションを選択してください。</string>
+    <string name="scroll_to_bottom">画面下</string>
+    <string name="scroll_to_bottom_description">下までスクロールします</string>
+    <string name="scroll_to_top">上詰め</string>
+    <string name="scroll_to_top_description">一番上までスクロール</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"検索"</string>
+    <string name="searchview_clear_text_content_description">テキストを消去</string>
+    <string name="searchview_navigation_content_description">戻る</string>
+    <string name="select">オプション</string>
+    <string name="select_file">パッチを行うイメージを選択してください</string>
+    <string name="select_file_tip">%1$s のパーティションイメージを推奨します</string>
+    <string name="select_kmi">KMI を選択してください</string>
+    <string name="select_slot_description">フラッシュする boot のターゲットスロットを選択</string>
+    <string name="select_slot_title">フラッシュ先のスロットを選択</string>
+    <string name="selected">選択中</string>
+    <string name="selected_lkm">選択された LKM: %s</string>
+    <string name="selected_slot">選択したスロット: %1$s</string>
+    <string name="selinux">SELinux</string>
+    <string name="selinux_change_failed">SELinux ステータスの変更に失敗しました</string>
+    <string name="selinux_disabled">無効</string>
+    <string name="selinux_disabled_toast">SELinux 無効</string>
+    <string name="selinux_enabled">有効</string>
+    <string name="selinux_enabled_toast">SELinux 有効</string>
+    <string name="selinux_status_disabled">無効</string>
+    <string name="selinux_status_enforcing">Enforcing</string>
+    <string name="selinux_status_permissive">Permissive</string>
+    <string name="selinux_status_unknown">不明</string>
+    <string name="send_log">ログを送信する</string>
+    <string name="settings">設定</string>
+    <string name="settings_card_alpha">ナビゲーションバーの透過</string>
+    <string name="settings_card_dim">カードの暗さを調整</string>
+    <string name="settings_check_update">更新を確認する</string>
+    <string name="settings_check_update_summary">アプリの起動時に更新を自動で確認します</string>
+    <string name="settings_custom_background">アプリの背景を変更</string>
+    <string name="settings_custom_background_summary">背景にする画像を選択してください</string>
+    <string name="settings_disable_su">su の互換性を無効化する</string>
+    <string name="settings_disable_su_summary">su コマンドを使用してアプリが root 権限を取得する動作を一時的に無効化します (既存の root プロセスは影響を受けません)。</string>
+    <string name="settings_profile_template">アプリプロファイルのテンプレート</string>
+    <string name="settings_profile_template_summary">アプリプロファイルのローカルおよびオンラインテンプレートを管理します</string>
+    <string name="settings_restore_default">デフォルトに復元</string>
+    <string name="settings_restore_stock_image">ストックイメージを復元</string>
+    <string name="settings_restore_stock_image_message">バックアップが存在する場合、工場出荷時のイメージを復元できます (OTA の前に使用してください)。KernelSU をアンインストールする必要がある場合は、「完全にアンインストールする」を使用してください。</string>
+    <string name="settings_susfs_toggle">kprobe フックを無効化</string>
+    <string name="settings_susfs_toggle_summary">KernelSU によって作成された kprobe フックを無効化して、代替となるインラインフックを使用します。これは、非 GKI カーネルのフック方式に似た物になります。</string>
+    <string name="settings_umount_modules_default">デフォルトでモジュールのマウントを解除する</string>
+    <string name="settings_umount_modules_default_summary">アプリプロファイルの「モジュールのアンマウント」の共通となるデフォルト値です。 有効にすると、プロファイルセットを持たないアプリのシステムに対するすべてのモジュールの変更が削除されます。</string>
+    <string name="settings_uninstall">アンインストール</string>
+    <string name="settings_uninstall_permanent">完全にアンインストールする</string>
+    <string name="settings_uninstall_permanent_message">KernelSU (root およびすべてのモジュール) を完全かつ恒久的にアンインストールします。</string>
+    <string name="settings_uninstall_temporary">一時的にアンインストールする</string>
+    <string name="settings_uninstall_temporary_message">KernelSU を一時的にアンインストールし、次回の再起動後に元の状態に戻します。</string>
+    <string name="show_kpm_info">KPM 機能を表示</string>
+    <string name="show_kpm_info_summary">KPM の情報と機能をホームとボトムバーに表示します (アプリを開き直す必要があります)</string>
+    <string name="show_system_apps">システムアプリを表示</string>
+    <string name="side_sheet_accessibility_pane_title">サイドシート</string>
+    <string name="simple_mode">シンプルモード</string>
+    <string name="simple_mode_summary">ON にすると不要なカードを非表示にします</string>
+    <string name="slot_a">スロット A</string>
+    <string name="slot_b">スロット B</string>
+    <string name="snackbar_failed_to_check_module_file">モジュールファイルが存在するか確認できません</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"アラート"</string>
+    <string msgid="4139871816613051306" name="state_empty">"なし"</string>
+    <string msgid="5834637030682409883" name="state_off">"OFF"</string>
+    <string msgid="1490883874751719580" name="state_on">"ON"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_not_supported">非対応</string>
+    <string name="status_supported">対応</string>
+    <string name="status_unknown">不明</string>
+    <string name="su_not_allowed">%s にスーパーユーザー権限を付与することはできません</string>
+    <string name="superuser">スーパーユーザー</string>
+    <string name="supported">対応</string>
+    <string name="sus_su_mode">SuS SU モード:</string>
+    <string name="susfs_disabled">SuSFS 無効</string>
+    <string name="susfs_enabled">SuSFS 有効</string>
+    <string msgid="2561197295334830845" name="switch_role">"切り替える"</string>
+    <string msgid="1672349317127674378" name="tab">"タブ"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g>パーセント。"</string>
+    <string name="theme_color">テーマカラー</string>
+    <string name="theme_dark">ダーク</string>
+    <string name="theme_follow_system">システムに従う</string>
+    <string name="theme_light">ライト</string>
+    <string name="theme_mode">テーマ</string>
+    <string name="tool_version_log">パッチ適用ツールの使用: %1$s</string>
+    <string name="tools">ツール</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"ツールチップ"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"ツールチップを表示"</string>
+    <string name="unauthorized">未認証</string>
+    <string name="uninstall">アンインストール</string>
+    <string name="unknown_error">不明なエラー</string>
+    <string name="unknown_module">不明なモジュール</string>
+    <string name="use_webuix">Select the WebUI engine to use</string>
+    <string name="use_webuix_eruda">WebUI に Eruda をインジェクトする</string>
+    <string name="use_webuix_eruda_summary">デバッグを容易にするために WebUI X にデバッグコンソールを挿入します。Web デバッグが ON になっている必要があります。</string>
+    <string name="using_mksu_manager">SukiSU Beta Manager を使用しています。</string>
+    <string name="yes">はい</string>
+</resources>

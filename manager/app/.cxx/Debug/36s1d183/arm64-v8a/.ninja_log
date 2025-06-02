@@ -1,0 +1,4 @@
+# ninja log v5
+0	10	1748845787061970591	CMakeFiles/zako.dir/jni.cc.o	44291cb68e0d5d53
+1	10	1748845787061970591	CMakeFiles/zako.dir/ksu.cc.o	c437a11da13eb9af
+11	77	1748845787125970158	/home/mirin/SukiSU-Ultra/manager/app/build/intermediates/cxx/Debug/36s1d183/obj/arm64-v8a/libzako.so	10dc6a37bb6b7cd5

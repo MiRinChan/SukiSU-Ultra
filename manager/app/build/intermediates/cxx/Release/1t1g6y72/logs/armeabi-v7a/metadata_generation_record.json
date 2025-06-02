@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 26 min SDK version: armeabi-v7a",
+    "file_": "/home/mirin/SukiSU-Ultra/manager/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /home/mirin/SukiSU-Ultra/manager/app/.cxx/Release/1t1g6y72/armeabi-v7a/android_gradle_build.json due to:",
+    "file_": "/home/mirin/SukiSU-Ultra/manager/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "/home/mirin/SukiSU-Ultra/manager/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "/app/extra/android-studio/jbr/bin/java \\\n  --class-path \\\n  /home/mirin/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.1.0/aa32fec809c44fa531f01dcfb739b5b3304d3050/cli-2.1.0-all.jar \\\n  com.google.prefab.cli.AppKt \\\n  --build-system \\\n  cmake \\\n  --platform \\\n  android \\\n  --abi \\\n  armeabi-v7a \\\n  --os-version \\\n  26 \\\n  --stl \\\n  none \\\n  --ndk-version \\\n  28 \\\n  --output \\\n  /tmp/agp-prefab-staging7639582494229160730/staged-cli-output \\\n  /home/mirin/.gradle/caches/8.12.1/transforms/bdb59e250da252941f77b7f21331fcf1/transformed/libcxx-27.0.12077973/prefab\n",
+    "file_": "/home/mirin/SukiSU-Ultra/manager/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Received process result: 0",
+    "file_": "/home/mirin/SukiSU-Ultra/manager/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/home/mirin/SukiSU-Ultra/manager/app/.cxx/Release/1t1g6y72/armeabi-v7a\u0027",
+    "file_": "/home/mirin/SukiSU-Ultra/manager/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/home/mirin/SukiSU-Ultra/manager/app/.cxx/Release/1t1g6y72/armeabi-v7a\u0027",
+    "file_": "/home/mirin/SukiSU-Ultra/manager/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake /home/mirin/Android/Sdk/cmake/3.22.1/bin/cmake \\\n  -H/home/mirin/SukiSU-Ultra/manager/app/src/main/cpp \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d26 \\\n  -DANDROID_PLATFORM\u003dandroid-26 \\\n  -DANDROID_ABI\u003darmeabi-v7a \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a \\\n  -DANDROID_NDK\u003d/home/mirin/Android/Sdk/ndk/28.0.13004108 \\\n  -DCMAKE_ANDROID_NDK\u003d/home/mirin/Android/Sdk/ndk/28.0.13004108 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/home/mirin/Android/Sdk/ndk/28.0.13004108/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/home/mirin/Android/Sdk/cmake/3.22.1/bin/ninja \\\n  \"-DCMAKE_C_FLAGS\u003d-std\u003dc2x -Wall -Qunused-arguments -fno-rtti -fvisibility\u003dhidden -fvisibility-inlines-hidden -fno-exceptions -fno-stack-protector -fomit-frame-pointer -Wno-builtin-macro-redefined -Wno-unused-value -D__FILE__\u003d__FILE_NAME__ -flto -ffunction-sections -fdata-sections -Wl,--gc-sections -fno-unwind-tables -fno-asynchronous-unwind-tables -Wl,--exclude-libs,ALL\" \\\n  \"-DCMAKE_CXX_FLAGS\u003d-std\u003dc++2b -Wall -Qunused-arguments -fno-rtti -fvisibility\u003dhidden -fvisibility-inlines-hidden -fno-exceptions -fno-stack-protector -fomit-frame-pointer -Wno-builtin-macro-redefined -Wno-unused-value -D__FILE__\u003d__FILE_NAME__ -flto -ffunction-sections -fdata-sections -Wl,--gc-sections -fno-unwind-tables -fno-asynchronous-unwind-tables -Wl,--exclude-libs,ALL\" \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/mirin/SukiSU-Ultra/manager/app/build/intermediates/cxx/Release/1t1g6y72/obj/armeabi-v7a \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/mirin/SukiSU-Ultra/manager/app/build/intermediates/cxx/Release/1t1g6y72/obj/armeabi-v7a \\\n  -DCMAKE_FIND_ROOT_PATH\u003d/home/mirin/SukiSU-Ultra/manager/app/.cxx/Release/1t1g6y72/prefab/armeabi-v7a/prefab \\\n  -B/home/mirin/SukiSU-Ultra/manager/app/.cxx/Release/1t1g6y72/armeabi-v7a \\\n  -GNinja \\\n  -DANDROID_CCACHE\u003d/usr/bin/ccache \\\n  -DANDROID_STL\u003dnone \\\n  -DCMAKE_BUILD_TYPE\u003dRelease \\\n  \"-DCMAKE_CXX_FLAGS_RELEASE\u003d-Oz -DNDEBUG\" \\\n  \"-DCMAKE_C_FLAGS_RELEASE\u003d-Oz -DNDEBUG\" \\\n  -DDEBUG_SYMBOLS_PATH\u003d/home/mirin/SukiSU-Ultra/manager/build/symbols\n",
+    "file_": "/home/mirin/SukiSU-Ultra/manager/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "/home/mirin/Android/Sdk/cmake/3.22.1/bin/cmake \\\n  -H/home/mirin/SukiSU-Ultra/manager/app/src/main/cpp \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d26 \\\n  -DANDROID_PLATFORM\u003dandroid-26 \\\n  -DANDROID_ABI\u003darmeabi-v7a \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a \\\n  -DANDROID_NDK\u003d/home/mirin/Android/Sdk/ndk/28.0.13004108 \\\n  -DCMAKE_ANDROID_NDK\u003d/home/mirin/Android/Sdk/ndk/28.0.13004108 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/home/mirin/Android/Sdk/ndk/28.0.13004108/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/home/mirin/Android/Sdk/cmake/3.22.1/bin/ninja \\\n  \"-DCMAKE_C_FLAGS\u003d-std\u003dc2x -Wall -Qunused-arguments -fno-rtti -fvisibility\u003dhidden -fvisibility-inlines-hidden -fno-exceptions -fno-stack-protector -fomit-frame-pointer -Wno-builtin-macro-redefined -Wno-unused-value -D__FILE__\u003d__FILE_NAME__ -flto -ffunction-sections -fdata-sections -Wl,--gc-sections -fno-unwind-tables -fno-asynchronous-unwind-tables -Wl,--exclude-libs,ALL\" \\\n  \"-DCMAKE_CXX_FLAGS\u003d-std\u003dc++2b -Wall -Qunused-arguments -fno-rtti -fvisibility\u003dhidden -fvisibility-inlines-hidden -fno-exceptions -fno-stack-protector -fomit-frame-pointer -Wno-builtin-macro-redefined -Wno-unused-value -D__FILE__\u003d__FILE_NAME__ -flto -ffunction-sections -fdata-sections -Wl,--gc-sections -fno-unwind-tables -fno-asynchronous-unwind-tables -Wl,--exclude-libs,ALL\" \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/mirin/SukiSU-Ultra/manager/app/build/intermediates/cxx/Release/1t1g6y72/obj/armeabi-v7a \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/mirin/SukiSU-Ultra/manager/app/build/intermediates/cxx/Release/1t1g6y72/obj/armeabi-v7a \\\n  -DCMAKE_FIND_ROOT_PATH\u003d/home/mirin/SukiSU-Ultra/manager/app/.cxx/Release/1t1g6y72/prefab/armeabi-v7a/prefab \\\n  -B/home/mirin/SukiSU-Ultra/manager/app/.cxx/Release/1t1g6y72/armeabi-v7a \\\n  -GNinja \\\n  -DANDROID_CCACHE\u003d/usr/bin/ccache \\\n  -DANDROID_STL\u003dnone \\\n  -DCMAKE_BUILD_TYPE\u003dRelease \\\n  \"-DCMAKE_CXX_FLAGS_RELEASE\u003d-Oz -DNDEBUG\" \\\n  \"-DCMAKE_C_FLAGS_RELEASE\u003d-Oz -DNDEBUG\" \\\n  -DDEBUG_SYMBOLS_PATH\u003d/home/mirin/SukiSU-Ultra/manager/build/symbols\n",
+    "file_": "/home/mirin/SukiSU-Ultra/manager/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Received process result: 0",
+    "file_": "/home/mirin/SukiSU-Ultra/manager/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of /home/mirin/SukiSU-Ultra/manager/app/.cxx/Release/1t1g6y72/armeabi-v7a/compile_commands.json.bin normally",
+    "file_": "/home/mirin/SukiSU-Ultra/manager/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/home/mirin/SukiSU-Ultra/manager/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "hard linked /home/mirin/SukiSU-Ultra/manager/app/.cxx/Release/1t1g6y72/armeabi-v7a/compile_commands.json to /home/mirin/SukiSU-Ultra/manager/app/.cxx/tools/release/armeabi-v7a/compile_commands.json",
+    "file_": "/home/mirin/SukiSU-Ultra/manager/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/home/mirin/SukiSU-Ultra/manager/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  }
+]

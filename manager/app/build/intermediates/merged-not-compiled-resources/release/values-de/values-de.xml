@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d neue Benachrichtigung</item>
+    <item quantity="other">%d neue Benachrichtigungen</item>
+  </plurals>
+    <string name="GKI_install_methods">Flashing AnyKernel3</string>
+    <string name="Lkm_install_methods">LKM Reparatur/Installation</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Zur Startseite"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Nach oben"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Weitere Optionen"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Fertig"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Alle anzeigen"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"App auswählen"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"AUS"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AN"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Strg +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Löschen"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Eingabetaste"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funktionstaste +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta-Taste +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Umschalttaste +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Leertaste"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym-Taste +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menütaste +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Suchen…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Suchanfrage löschen"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Suchanfrage"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Suche"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Anfrage senden"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Sprachsuche"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Teilen mit"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Mit <ns1:g id="APPLICATION_NAME">%s</ns1:g> teilen"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <string name="about">Über KernelSU</string>
+    <string name="about_source_code"><![CDATA[Den Quellcode finden Sie unter %1$s<br/>Begleiten Sie uns %2$s-Kanal]]></string>
+    <string name="action">Aktion</string>
+    <string name="advanced_settings">Erweiterte Einstellungen</string>
+    <string name="allowlist_backup_failed">Sicherung der erlaubten Liste fehlgeschlagen: %1$s</string>
+    <string name="allowlist_backup_success">Sicherung erfolgreich erlaubt</string>
+    <string name="allowlist_restore_confirm_message">Dieser Vorgang wird die aktuelle Berechtigungsliste überschreiben. Fortfahren?</string>
+    <string name="allowlist_restore_confirm_title">Allowlist-Wiederherstellung bestätigen</string>
+    <string name="allowlist_restore_failed">Wiederherstellung der erlaubten Liste fehlgeschlagen: %1$s</string>
+    <string name="allowlist_restore_success">Liste erfolgreich wiederhergestellt</string>
+    <string name="app_dpi_summary">Bildschirmanzahl nur für die aktuelle Anwendung anpassen</string>
+    <string name="app_dpi_title">Angewendeter DPI</string>
+    <string name="app_profile_export_to_clipboard">In Zwischenablage exportieren</string>
+    <string name="app_profile_import_export">Import/Export</string>
+    <string name="app_profile_import_from_clipboard">Aus Zwischenablage importieren</string>
+    <string name="app_profile_template_create">Vorlage erstellen</string>
+    <string name="app_profile_template_delete">Löschen</string>
+    <string name="app_profile_template_description">Beschreibung</string>
+    <string name="app_profile_template_edit">Vorlage bearbeiten</string>
+    <string name="app_profile_template_export_empty">Kann lokale Vorlage nicht finden!</string>
+    <string name="app_profile_template_id">ID</string>
+    <string name="app_profile_template_id_exist">Vorlagen-ID existiert bereits!</string>
+    <string name="app_profile_template_id_invalid">Ungültige Vorlagen-ID</string>
+    <string name="app_profile_template_import_empty">Zwischenablage ist leer!</string>
+    <string name="app_profile_template_import_success">Erfolgreich importiert</string>
+    <string name="app_profile_template_name">Name</string>
+    <string name="app_profile_template_readonly">Schreibgeschützt</string>
+    <string name="app_profile_template_save">Speichern</string>
+    <string name="app_profile_template_save_failed">Schlug beim Speichern der Vorlage fehl</string>
+    <string name="app_profile_template_sync">Online-Vorlagen synchronisieren</string>
+    <string name="app_profile_template_view">Vorlage ansehen</string>
+    <string name="app_settings">Anwendungs-Einstellungen</string>
+    <string name="appearance_settings">Passt die Symbolleiste an.</string>
+    <string name="apps_with_custom_profile">Anwendungen mit angepassten Konfigurationen</string>
+    <string name="apps_with_root">Anwendungen mit Root-Rechten</string>
+    <string name="authorized">Autorisiert</string>
+    <string msgid="389117264260014992" name="autofill">"Automatisch ausfüllen"</string>
+    <string name="back">Comeback</string>
+    <string name="background_image_error">Bild konnte nicht geladen werden</string>
+    <string name="background_removed">Eigene Hintergründe entfernt</string>
+    <string name="background_set_success">Hintergrund erfolgreich gesetzt</string>
+    <string name="backup">Sicherung</string>
+    <string name="backup_allowlist">Sicherungsliste</string>
+    <string name="backup_failed">Sicherung fehlgeschlagen: %1$s</string>
+    <string name="backup_modules">sicherungsmodule</string>
+    <string name="backup_success">Sicherung erfolgreich (tar.gz)</string>
+    <string name="batch_authorization">empowern</string>
+    <string name="batch_cancel_authorization">abheben</string>
+    <string name="bottomsheet_action_collapse">Ansicht am unteren Rand minimieren</string>
+    <string name="bottomsheet_action_expand">Ansicht am unteren Rand maximieren</string>
+    <string name="bottomsheet_action_expand_halfway">Zur Hälfte maximieren</string>
+    <string name="bottomsheet_drag_handle_clicked">Auf Ziehpunkt doppelt getippt</string>
+    <string name="bottomsheet_drag_handle_content_description">Ziehpunkt</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Annehmen"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Ablehnen"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Auflegen"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Eingehender Anruf"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Aktueller Anruf"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Filter für eingehenden Anruf"</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="character_counter_content_description">Eingegebene Zeichen: %1$d von %2$d</string>
+    <string name="character_counter_overflowed_content_description">Zeichenbeschränkung überschritten: %1$d/%2$d</string>
+    <string name="check_log">Bitte überprüfen Sie das Log</string>
+    <string name="choose_theme_color">Wähle eine Theme-Farbe</string>
+    <string name="clear">Entfernen</string>
+    <string name="clear_text_end_icon_content_description">Text löschen</string>
+    <string name="close">Schließen</string>
+    <string msgid="406453423630273620" name="close_drawer">"Navigationsmenü schließen"</string>
+    <string name="close_notice">Schließen</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Tabelle schließen"</string>
+    <string name="collapse">wegziehen</string>
+    <string name="color_default">Blau</string>
+    <string name="color_gray">Grau</string>
+    <string name="color_green">Grün</string>
+    <string name="color_orange">Orange</string>
+    <string name="color_pink">Pink</string>
+    <string name="color_purple">Lila</string>
+    <string name="color_yellow">Gelb</string>
+    <string name="command_execution_failed">Befehlsausführung fehlgeschlagen: %1$s</string>
+    <string name="configuration">Konfigurieren</string>
+    <string name="confirm">Bestätigen</string>
+    <string name="confirm_uninstall_confirm">Deinstallieren</string>
+    <string name="confirm_uninstall_content">Folgende KPM wird deinstalliert: %s</string>
+    <string name="confirm_uninstall_dismiss">Abbrechen</string>
+    <string name="confirm_uninstall_title">Deinstallation bestätigen.</string>
+    <string name="confirm_uninstall_title_with_filename">Deinstallieren</string>
+    <string name="copy_failed">Datei-Kopierfehler</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Link in Zwischenablage kopiert"</string>
+    <string name="current_slot">Aktueller Slot：%1$s </string>
+    <string name="currently_selected">Derzeit</string>
+    <string name="custom_settings">Eigene Einstellungen</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Ungültige Eingabe"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Pop-up-Fenster"</string>
+    <string name="direct_install">Direkte Installation (empfohlen)</string>
+    <string name="dpi_applied_success">DPI wurde auf %1$dgesetzt, wirksam nach dem Neustart der Anwendung</string>
+    <string name="dpi_apply_settings">DPI-Einstellungen anwenden</string>
+    <string name="dpi_confirm_message">Sind Sie sicher, dass Sie die Anwendung DPI von %1$d auf %2$d ändern möchten?</string>
+    <string name="dpi_confirm_summary">Die Anwendung muss neu gestartet werden, um die neuen DPI-Einstellungen zu übernehmen, hat keine Auswirkungen auf die System-Statusleiste oder andere Anwendungen</string>
+    <string name="dpi_confirm_title">DPI-Änderung bestätigen</string>
+    <string name="dpi_settings">DPI-Einstellung</string>
+    <string name="dpi_size_custom">anpassbar</string>
+    <string name="dpi_size_extra_large">übergröße</string>
+    <string name="dpi_size_large">Groß</string>
+    <string name="dpi_size_medium">Mittel </string>
+    <string name="dpi_size_small">Klein </string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Drop-down-Menü"</string>
+    <string name="dynamic_color_summary">Dynamische Farben mit System-Themes</string>
+    <string name="dynamic_color_title">Dynamische Farbe</string>
+    <string name="enable_web_debugging">WebView-Debugging aktivieren</string>
+    <string name="enable_web_debugging_summary">Kann zum Fehlerbeheben der WebUI verwendet werden, bitte nur im Notfall aktivieren.</string>
+    <string name="engine_auto_select">Automatic Selection</string>
+    <string name="engine_force_ksu">Mandatory use of KSU WebUI</string>
+    <string name="engine_force_webuix">Force the use of WebUI X</string>
+    <string name="error_a11y_label">Fehler: ungültig</string>
+    <string name="error_code">fehlercode</string>
+    <string name="error_icon_content_description">Fehler</string>
+    <string name="expand">Seien Sie in vollem Gange</string>
+    <string name="exposed_dropdown_menu_content_description">Drop-down-Menü anzeigen</string>
+    <string name="failed_reboot">Neustart fehlgeschlagen</string>
+    <string name="failed_to_update_app_profile">App-Profilaktualisierung für %s fehlgeschlagen</string>
+    <string name="failed_to_update_sepolicy">Aktualisieren der SELinux-Regeln schlug fehl für: %s</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Link kopieren"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Im Browser öffnen"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Link teilen"</string>
+    <string name="flash_failed">Schreiben fehlgeschlagen</string>
+    <string name="flash_failed_message">Schreiben fehlgeschlagen</string>
+    <string name="flash_option">Pinseloptionen</string>
+    <string name="flash_option_tip">Wählen Sie die zu flashende Datei</string>
+    <string name="flash_success">Schreiben erfolgreich</string>
+    <string name="flashing">Schreibt</string>
+    <string formatted="false" name="force_stop_app">Stopp erzwingen</string>
+    <string name="grant_root_failed">Root-Zugriff konnte nicht gewährt werden!</string>
+    <string name="hide_kernel_kernelsu_version">Kernel-Version ausblenden</string>
+    <string name="hide_kernel_kernelsu_version_summary">Kernel-Version ausblenden</string>
+    <string name="hide_link_card">Link-Kartenstatus ausblenden</string>
+    <string name="hide_link_card_summary">Link Karteninformationen auf der Startseite ausblenden</string>
+    <string name="hide_other_info">Andere Infos ausblenden</string>
+    <string name="hide_other_info_summary">Versteckt Informationen über die Anzahl der Supernutzer, Module und KPM-Module auf der Startseite</string>
+    <string name="hide_susfs_status">SuSFS-Status ausblenden</string>
+    <string name="hide_susfs_status_summary">SuSFS Statusinformationen auf der Startseite ausblenden</string>
+    <string name="hide_system_apps">System-Apps ausblenden</string>
+    <string name="home">Startseite</string>
+    <string name="home_ContributionCard_kernelsu">SukiSU Ultra freut sich auf</string>
+    <string name="home_android_version">Androidversion</string>
+    <string name="home_click_to_ContributionCard_kernelsu">SukiSU Ultra wird in Zukunft ein relativ unabhängiger Zweig der KSU sein, aber wir schätzen immer noch die offiziellen KernelSU und MKSU usw. für ihre Beiträge!</string>
+    <string name="home_click_to_install">Tippe zum Installieren</string>
+    <string name="home_click_to_learn_kernelsu">Erfahre, wie KernelSU installiert wird und wie Module verwendet werden</string>
+    <string name="home_device_model">Geräteausführung</string>
+    <string name="home_fingerprint">Fingerabdruck</string>
+    <string name="home_kernel">Kernel</string>
+    <string name="home_kpm_module">"Anzahl der KPM-Module: %d "</string>
+    <string name="home_kpm_version">KPM-Version</string>
+    <string name="home_learn_kernelsu">KernelSU verstehen</string>
+    <string name="home_learn_kernelsu_url">https://kernelsu.org/guide/what-is-kernelsu.html</string>
+    <string name="home_manager_version">Manager-Version</string>
+    <string name="home_module_count">Module: %d</string>
+    <string name="home_not_installed">Nicht installiert</string>
+    <string name="home_selinux_status">SELinux Status</string>
+    <string name="home_superuser_count">Superuser: %d</string>
+    <string name="home_support_content">KernelSU ist und wird immer frei und quelloffen sein. Du kannst uns jedoch deine Unterstützung zeigen, indem du eine Spende tätigst.</string>
+    <string name="home_support_title">Unterstütze uns</string>
+    <string name="home_susfs">SuSFS: %s</string>
+    <string name="home_susfs_sus_su">SuS SU</string>
+    <string name="home_susfs_version">SuSFS version</string>
+    <string name="home_unsupported">Nicht unterstützt</string>
+    <string name="home_unsupported_reason">KernelSU unterstützt derzeit nur GKI-Kernel</string>
+    <string name="home_working">Funktioniert</string>
+    <string name="home_working_version">Version: %d</string>
+    <string name="horizon_cleaning_files">Bereinigung von Dateien…</string>
+    <string name="horizon_copy_failed">Kopieren fehlgeschlagen</string>
+    <string name="horizon_copying_files">Kopiere Datei…</string>
+    <string name="horizon_extracting_tool">Entpacken des Flash-Tools…</string>
+    <string name="horizon_flash_complete">Blitz abgeschlossen</string>
+    <string name="horizon_flash_complete_status">Blitz abgeschlossen</string>
+    <string name="horizon_flash_title">Kernel-Flashen</string>
+    <string name="horizon_flashing">Flashen des Kernels…</string>
+    <string name="horizon_getting_original_slot">Den ursprünglichen Slot erhalten</string>
+    <string name="horizon_kernel">Install Anykernel3</string>
+    <string name="horizon_kernel_summary">Flash AnyKernel3 Kernel-Datei</string>
+    <string name="horizon_logs_label">Logs:</string>
+    <string name="horizon_patching_script">Patcht Flash-Skript…</string>
+    <string name="horizon_preparing">Vorbereiten…</string>
+    <string name="horizon_restoring_original_slot">Standard wiederherstellen</string>
+    <string name="horizon_setting_target_slot">Setze den angegebenen Slot</string>
+    <string name="horizon_unknown_error">Ein unbekannter Fehler ist aufgetreten</string>
+    <string name="icon_content_description">Dialogfeldsymbol</string>
+    <string name="image_editor_hint">Verwende zwei Finger um das Bild zu vergrößern und einen Finger um die Position anzupassen</string>
+    <string name="image_editor_title">Hintergrundbild anpassen</string>
+    <string msgid="6827826412747255547" name="in_progress">"In Bearbeitung"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Teilweise aktiviert"</string>
+    <string name="install">Installieren</string>
+    <string name="install_inactive_slot">In inaktiven Slot installieren (nach OTA)</string>
+    <string name="install_inactive_slot_warning">Nach einem Neustart wird dein Gerät **GEZWUNGEN** in den derzeit inaktiven Slot zu starten!
+\nBenutze dies nur nach Fertigstellung des OTA.
+\nFortfahren?</string>
+    <string name="install_next">Weiter</string>
+    <string name="installing_module">Modul wird installiert %1$d/%2$d</string>
+    <string name="invalid_file_type">Falscher Dateityp! Bitte wählen Sie eine .kpm Datei.</string>
+    <string name="item_view_role_description">Tab</string>
+    <string name="kernel_flashing">Kernel Flashing</string>
+    <string name="kernel_module_notice">Die folgenden Kernel-Modulfunktionen wurden von KernelPatch entwickelt und so modifiziert, dass die Funktionen des Kernel-Moduls von SukiSU Ultra enthalten sind</string>
+    <string name="kernel_not_enabled">Kernel nicht konfiguriert</string>
+    <string name="kernel_patched">Kernel nicht gepatcht</string>
+    <string name="kernel_version_log">Kernel</string>
+    <string name="kpm_args">Parameter</string>
+    <string name="kpm_author">Autor</string>
+    <string name="kpm_control">Ausführen</string>
+    <string name="kpm_control_failed">Fehlgeschlagen</string>
+    <string name="kpm_control_success">Erfolgreich</string>
+    <string name="kpm_empty">Keine installierten Kernelmodule</string>
+    <string name="kpm_install">Installieren</string>
+    <string name="kpm_install_failed">Laden des kpm-Moduls fehlgeschlagen</string>
+    <string name="kpm_install_mode">KPM Install</string>
+    <string name="kpm_install_mode_description">Bitte wählen: %1\$s Modul-Installationsmodus \n\nLaden: Das Modul \ntemporär laden: Dauerhaft in das System installieren</string>
+    <string name="kpm_install_mode_embed">Einbetten</string>
+    <string name="kpm_install_mode_load">Laden</string>
+    <string name="kpm_install_success">Laden des kpm Moduls erfolgreich</string>
+    <string name="kpm_invalid_file">Ungültige KPM-Datei</string>
+    <string name="kpm_title">KPM</string>
+    <string name="kpm_uninstall">Deinstallieren</string>
+    <string name="kpm_uninstall_failed">Deinstallation fehlgeschlagen</string>
+    <string name="kpm_uninstall_success">Erfolgreich deinstalliert</string>
+    <string name="kpm_version">Version</string>
+    <string name="language_changed">Sprache geändert, Neustart um Änderungen zu übernehmen</string>
+    <string name="language_follow_system">Folge Systemeinstellung</string>
+    <string name="language_setting">App Sprache</string>
+    <string name="launch_app">Starten</string>
+    <string name="log_failed_to_check_module_file">Fehler beim Prüfen der Moduldatei-Existenz</string>
+    <string name="log_saved">Protokolle gespeichert</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Ansicht am unteren Rand minimieren"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Ansicht am unteren Rand schließen"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Ziehpunkt"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Ansicht am unteren Rand maximieren"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Ansicht am unteren Rand"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Eingabedatum"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Eingabedatum: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"Datum entspricht nicht dem erwarteten Format: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Unzulässiges Datum: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"Datum liegt außerhalb des erwarteten Jahresbereichs (%1$s–%2$s)"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Datum"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"Kein Datum"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Datum auswählen"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Ausgewähltes Datum"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Aktuelle Auswahl: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"Zum Jahr %1$s wechseln"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"Kein Datum"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Zum Ansehen vorheriger Jahre scrollen"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Zum Ansehen nachfolgender Jahre scrollen"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"In den Kalendereingabemodus wechseln"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Wischen, um ein Jahr auszuwählen, oder tippen, um zur Tagesauswahl zurückzukehren"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"In den Texteingabemodus wechseln"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Zum nächsten Monat wechseln"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Zum vorherigen Monat wechseln"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Zur Jahresauswahl wechseln"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Datum auswählen"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"Heute"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Jahresauswahl sichtbar"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"Angegebener Zeitraum ungültig"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Daten eingeben"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"Im Zeitraum"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Enddatum"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Zum Ansehen des nächsten Monats scrollen"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Zum Ansehen des vorherigen Monats scrollen"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Startdatum"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Daten auswählen"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Dialogfeld"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Minimiert"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Maximiert"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Drop-down-Menü maximieren/minimieren"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Suche"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Schließen"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Vorschläge unten"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"AM"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Stunde"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d Std."</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Stunde auswählen"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d Uhr"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"für Stunde"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Minute"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Minuten auswählen"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d Minuten"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"für Minuten"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Vormittags oder nachmittags auswählen"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"Nachmittags"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Kurzinfo anzeigen"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Kurzinfo"</string>
+    <string name="manual_hook">Manueller Hook</string>
+    <string name="material_clock_toggle_content_description">Vormittags oder Nachmittags auswählen</string>
+    <string name="material_hour_24h_suffix">%1$s Stunden</string>
+    <string name="material_hour_selection">Stunde auswählen</string>
+    <string name="material_hour_suffix">%1$s Uhr</string>
+    <string name="material_minute_selection">Minuten auswählen</string>
+    <string name="material_minute_suffix">%1$s Minuten</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">In den Uhrzeitmodus wechseln, um die Uhrzeit einzugeben.</string>
+    <string name="material_timepicker_hour">Stunde</string>
+    <string name="material_timepicker_minute">Minute</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Uhrzeit auswählen</string>
+    <string name="material_timepicker_text_input_mode_description">In den Texteingabemodus wechseln, um die Uhrzeit einzugeben.</string>
+    <string msgid="2792228137354697160" name="mc2_snackbar_pane_title">"Warnmeldung"</string>
+    <string name="module">Modul</string>
+    <string name="module_author">Autor</string>
+    <string name="module_changelog">Änderungsprotokoll</string>
+    <string name="module_changelog_failed">Konnte Veränderungs-Protokoll nicht laden: %s</string>
+    <string name="module_download_error">Modul-Download fehlgeschlagen</string>
+    <string name="module_downloading">Lädt Modul %s herunter</string>
+    <string name="module_empty">Keine Modul installiert</string>
+    <string name="module_failed_count">%d Fehler bei der Installation eines neuen Moduls</string>
+    <string name="module_failed_to_disable">Moduldeaktivierung fehlgeschlagen: %s</string>
+    <string name="module_failed_to_enable">Modulaktivierung fehlgeschlagen: %s</string>
+    <string name="module_install">Installieren</string>
+    <string name="module_install_confirm">das Installationsmodul %1$s bestätigen ?</string>
+    <string name="module_install_multiple_confirm">Sind Sie sicher, dass Sie die ausgewählten %d -Module installieren möchten?</string>
+    <string name="module_install_multiple_confirm_with_names">Möchten Sie die folgenden %1$d Module installieren? \n\n\n%2$s</string>
+    <string name="module_magisk_conflict">Module sind aufgrund eines Konfliktes mit Magisk nicht verfügbar!</string>
+    <string name="module_sort_action_first">Sortiere zuerst (Aktion)</string>
+    <string name="module_sort_enabled_first">Sortieren (zuerst aktiviert)</string>
+    <string name="module_start_downloading">Starte Download: %s</string>
+    <string name="module_uninstall_confirm">Möchtest du wirklich Modul %s deinstallieren?</string>
+    <string name="module_uninstall_failed">Deinstallation fehlgeschlagen: %s</string>
+    <string name="module_uninstall_success">%s deinstalliert</string>
+    <string name="module_update">Aktualisieren</string>
+    <string name="module_version">Version</string>
+    <string name="more_settings">Weitere Einstellungen</string>
+    <string name="mtrl_badge_numberless_content_description">Neue Benachrichtigung</string>
+    <string name="mtrl_checkbox_state_description_checked">Aktiviert</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Teilweise aktiviert</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Nicht aktiviert</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s entfernen</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Mehr als %1$d neue Benachrichtigungen</string>
+    <string name="mtrl_picker_a11y_next_month">Zum nächsten Monat wechseln</string>
+    <string name="mtrl_picker_a11y_prev_month">Zum vorherigen Monat wechseln</string>
+    <string name="mtrl_picker_announce_current_range_selection">Ausgewähltes Startdatum: %1$s – Ausgewähltes Enddatum: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Aktuelle Auswahl: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">Keines</string>
+    <string name="mtrl_picker_cancel">Abbrechen</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Datum auswählen</string>
+    <string name="mtrl_picker_date_header_unselected">Ausgewähltes Datum</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">Enddatum %1$s</string>
+    <string name="mtrl_picker_invalid_format">Ungültiges Format.</string>
+    <string name="mtrl_picker_invalid_format_example">Beispiel: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Format: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Ungültiger Bereich.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Zum aktuellen Jahr %1$d wechseln</string>
+    <string name="mtrl_picker_navigate_to_year_description">Zum Jahr %1$d wechseln</string>
+    <string name="mtrl_picker_out_of_range">Außerhalb des Bereichs: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Startdatum – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Enddatum</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Zeitraum auswählen</string>
+    <string name="mtrl_picker_range_header_unselected">Startdatum – Enddatum</string>
+    <string name="mtrl_picker_save">Speichern</string>
+    <string name="mtrl_picker_start_date_description">Startdatum %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Datum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Enddatum</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Startdatum</string>
+    <string name="mtrl_picker_text_input_day_abbr">T</string>
+    <string name="mtrl_picker_text_input_month_abbr">M</string>
+    <string name="mtrl_picker_text_input_year_abbr">J</string>
+    <string name="mtrl_picker_today_description">Heute %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">In den Kalendereingabemodus wechseln</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tippen, um zur Kalenderansicht zu wechseln</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">In den Texteingabemodus wechseln</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tippen, um zur Jahresansicht zu wechseln</string>
+    <string name="mtrl_timepicker_cancel">Abbrechen</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Navigationsmenü"</string>
+    <string name="new_version_available">Neue Version %s verfügbar, tippen zum Aktualisieren.</string>
+    <string name="no">Nein</string>
+    <string name="no_apps_found">Anwendung nicht gefunden</string>
+    <string msgid="6610465462668679431" name="not_selected">"Nicht ausgewählt"</string>
+    <string name="not_supported">Nicht unterstützt</string>
+    <string name="ok">Ok</string>
+    <string name="open">Öffnen</string>
+    <string name="other_apps">Anwendungen mit unveränderten Standardeinstellungen</string>
+    <string name="password_toggle_content_description">Passwort anzeigen</string>
+    <string name="profile_capabilities">Fähigkeiten</string>
+    <string name="profile_custom">Benutzerdefiniert</string>
+    <string name="profile_default">Standard</string>
+    <string name="profile_groups">Gruppen</string>
+    <string name="profile_name">Profilname</string>
+    <string name="profile_namespace">Namespace einhängen</string>
+    <string name="profile_namespace_global">Global</string>
+    <string name="profile_namespace_individual">Individuell</string>
+    <string name="profile_namespace_inherited">Geerbt</string>
+    <string name="profile_selinux_context">SELinux-Kontext</string>
+    <string name="profile_selinux_domain">Domäne</string>
+    <string name="profile_selinux_rules">Regeln</string>
+    <string name="profile_template">Vorlage</string>
+    <string name="profile_umount_modules">Module aushängen</string>
+    <string name="profile_umount_modules_disable">Eigenes Deinstallationsmodul deaktivieren</string>
+    <string name="profile_umount_modules_summary">Wenn du diese Option aktivierst, kann KernelSU alle von den Modulen für diese App geänderten Dateien wiederherstellen.</string>
+    <string msgid="5941395253238309765" name="range_end">"Bereichsende"</string>
+    <string msgid="7097486360902471446" name="range_start">"Bereichsstart"</string>
+    <string name="reboot">Neustarten</string>
+    <string name="reboot_bootloader">In den Bootloader-Modus neustarten</string>
+    <string name="reboot_complete_msg">Ob sofort neu gestartet werden soll?</string>
+    <string name="reboot_complete_title">Scrubbing abgeschlossen</string>
+    <string name="reboot_download">In den Download-Modus neustarten</string>
+    <string name="reboot_edl">In den EDL-Modus neustarten</string>
+    <string name="reboot_recovery">In den Recovery-Modus neustarten</string>
+    <string name="reboot_to_apply">Neustarten, damit Änderungen wirksam werden</string>
+    <string name="reboot_userspace">Soft-Reboot</string>
+    <string name="refresh">Aktualisieren</string>
+    <string name="reprovision">Rückzahlung</string>
+    <string name="requireNewVersion_cannot_load_webui">WebUI can nicht geladen werden</string>
+    <string formatted="false" name="require_kernel_version">Die aktuelle KernelSU-Version %d ist zu alt für diese Manager-Version. Bitte auf Version %d oder höher aktualisieren!</string>
+    <string name="restart_app">Neustarten</string>
+    <string name="restart_now">Jetzt Neustarten</string>
+    <string name="restore">Wiederherstellen</string>
+    <string name="restore_allowlist">Allowlist wiederherstellen</string>
+    <string name="restore_confirm_message">Diese Operation wird alle vorhandenen Module überschreiben. Fortfahren?</string>
+    <string name="restore_confirm_title">Modul-Wiederherstellung bestätigen</string>
+    <string name="restore_failed">Wiederherstellung fehlgeschlagen: %1$s</string>
+    <string name="restore_modules">wiederherstellen</string>
+    <string name="restore_success">Module erfolgreich wiederhergestellt, Neustart erforderlich</string>
+    <string name="root_require_for_install">Erfordert Root-Rechte</string>
+    <string name="root_required">Erfordert Root-Rechte</string>
+    <string name="safe_mode">Sicherer Modus</string>
+    <string name="save_log">Protokolle Speichern</string>
+    <string name="scd_list_dialog_max_choices" translatable="true">Wählen Sie höchstens %1$d Optionen aus.</string>
+    <string name="scd_list_dialog_min_choices" translatable="true">Wählen Sie mindestens %1$d Optionen aus.</string>
+    <string name="scroll_to_bottom">Unten</string>
+    <string name="scroll_to_bottom_description">Scrolle zum Ende</string>
+    <string name="scroll_to_top">Top</string>
+    <string name="scroll_to_top_description">Bildlauf nach oben scrollen</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Suche"</string>
+    <string name="searchview_clear_text_content_description">Text löschen</string>
+    <string name="searchview_navigation_content_description">Zurück</string>
+    <string name="select">variieren</string>
+    <string name="select_file">Datei auswählen</string>
+    <string name="select_file_tip">%1$s Partitionsabbild empfohlen</string>
+    <string name="select_kmi">KMI auswählen</string>
+    <string name="select_slot_description">Bitte wählen Sie den Ziel-Slot zum Blinken des Boots aus</string>
+    <string name="select_slot_title">Wähle Flash Slot</string>
+    <string name="selected">Ausgewählt</string>
+    <string name="selected_lkm">Wähle LKM: %s</string>
+    <string name="selected_slot">Wähle LKM: %1$s</string>
+    <string name="selinux">SELinux</string>
+    <string name="selinux_change_failed">SELinux Statusänderung fehlgeschlagen</string>
+    <string name="selinux_disabled">Deaktiviert</string>
+    <string name="selinux_disabled_toast">SELinux deaktiviert</string>
+    <string name="selinux_enabled">Aktiviert</string>
+    <string name="selinux_enabled_toast">SELinux aktiviert</string>
+    <string name="selinux_status_disabled">Deaktiviert</string>
+    <string name="selinux_status_enforcing">Erzwingen</string>
+    <string name="selinux_status_permissive">Permissiv</string>
+    <string name="selinux_status_unknown">Unbekannt</string>
+    <string name="send_log">Protokoll senden</string>
+    <string name="settings">Einstellungen</string>
+    <string name="settings_card_alpha">Transparenz der Navigationsleiste</string>
+    <string name="settings_card_dim">Kartenfinsternis Anpassung</string>
+    <string name="settings_check_update">Auf Aktualisierung prüfen</string>
+    <string name="settings_check_update_summary">Prüfe automatisch auf Aktualisierungen, wenn die App geöffnet wird</string>
+    <string name="settings_custom_background">Eigener App-Hintergrund</string>
+    <string name="settings_custom_background_summary">Wählen Sie ein Bild als Hintergrund</string>
+    <string name="settings_disable_su">Su Kompatibilität deaktivieren</string>
+    <string name="settings_disable_su_summary">Deaktivieren Sie temporär alle Anwendungen, die root-Privilegien über den Befehl &lt;unk> su zu erhalten (bestehende root-Prozesse werden nicht beeinflusst).</string>
+    <string name="settings_profile_template">App-Profil-Vorlage</string>
+    <string name="settings_profile_template_summary">Verwalte die lokale und online Vorlage des App-Profils</string>
+    <string name="settings_restore_default">Standard wiederherstellen</string>
+    <string name="settings_restore_stock_image">Standard-Abbild wiederherstellen</string>
+    <string name="settings_restore_stock_image_message">Das Standard Werksabbild wiederherstellen (falls ein Backup existiert), normalerweise vor einem OTA zu verwenden; falls Sie KernelSU deinstallieren müssen, nutzen Sie bitte \"Permanent deinstallieren\".</string>
+    <string name="settings_susfs_toggle">Kprobe-Hooks deaktivieren</string>
+    <string name="settings_susfs_toggle_summary">Deaktiviere kprobe Hooks die von KernelSU erstellt wurden und stattdessen inline Hooks verwenden, was der Nicht-GKI-Kernel-Hooking Methode ähnlich ist.</string>
+    <string name="settings_umount_modules_default">Module standardmäßig aushängen</string>
+    <string name="settings_umount_modules_default_summary">Globaler Standardwert für \"Module aushängen\" im App-Profil. Falls er aktiviert ist, werden alle Moduländerungen im System für alle Apps entfernt, für die kein Profil festgelegt ist.</string>
+    <string name="settings_uninstall">Deinstallieren</string>
+    <string name="settings_uninstall_permanent">Permanent deinstallieren</string>
+    <string name="settings_uninstall_permanent_message">KernelSU (Root und alle Module) vollständig und dauerhaft deinstallieren.</string>
+    <string name="settings_uninstall_temporary">Temporär deinstallieren</string>
+    <string name="settings_uninstall_temporary_message">KernelSU temporär deinstallieren, originalen Status nach dem nächsten Neustart wiederherstellen.</string>
+    <string name="show_kpm_info">KPM-Funktion anzeigen</string>
+    <string name="show_kpm_info_summary">KPM-Informationen und Funktion in der Home- und unteren Leiste anzeigen (muss die App erneut öffnen)</string>
+    <string name="show_system_apps">System-Apps anzeigen</string>
+    <string name="side_sheet_accessibility_pane_title">Seitenblatt</string>
+    <string name="simple_mode">Einfachheit Modus</string>
+    <string name="simple_mode_summary">Versteckt unnötige Karten beim Einschalten</string>
+    <string name="slot_a">Slot A</string>
+    <string name="slot_b">Steckplatz B</string>
+    <string name="snackbar_failed_to_check_module_file">Kann nicht überprüfen, ob die Moduldatei existiert</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"Warnmeldung"</string>
+    <string msgid="4139871816613051306" name="state_empty">"Leer"</string>
+    <string msgid="5834637030682409883" name="state_off">"Aus"</string>
+    <string msgid="1490883874751719580" name="state_on">"An"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_not_supported">Nicht unterstützt</string>
+    <string name="status_supported">Unterstützt:</string>
+    <string name="status_unknown">Unbekannt</string>
+    <string name="su_not_allowed">Superuser %s zu erlauben ist nicht erlaubt</string>
+    <string name="superuser">Superuser</string>
+    <string name="supported">Unterstützt:</string>
+    <string name="sus_su_mode">SuS SU-Modus:</string>
+    <string name="susfs_disabled">SuSFS deaktiviert</string>
+    <string name="susfs_enabled">SuSFS aktiviert</string>
+    <string msgid="2561197295334830845" name="switch_role">"Wechseln"</string>
+    <string msgid="1672349317127674378" name="tab">"Tab"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> Prozent."</string>
+    <string name="theme_color">Themenfarbe</string>
+    <string name="theme_dark">Dunkel</string>
+    <string name="theme_follow_system">Systemkonform</string>
+    <string name="theme_light">Licht</string>
+    <string name="theme_mode">Thema</string>
+    <string name="tool_version_log">Benutze das Patchwerkzeug：%1$s</string>
+    <string name="tools">Tools</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"Kurzinfo"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"Kurzinfo anzeigen"</string>
+    <string name="unauthorized">Unberechtigt</string>
+    <string name="uninstall">Deinstallieren</string>
+    <string name="unknown_error">Ein unbekannter Fehler ist aufgetreten</string>
+    <string name="unknown_module">unbekannter Modul</string>
+    <string name="use_webuix">Select the WebUI engine to use</string>
+    <string name="use_webuix_eruda">Eruda in WebUI X injizieren</string>
+    <string name="use_webuix_eruda_summary">Fügen Sie eine Debug-Konsole in WebUI X ein, um das Debuggen zu vereinfachen. Benötigt Debugging im WebUI X.</string>
+    <string name="using_mksu_manager">Sie verwenden den SukiSU Beta-Manager</string>
+    <string name="yes">Ja</string>
+</resources>

@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">새 알림 %d개</item>
+    <item quantity="other">새 알림 %d개</item>
+  </plurals>
+    <string name="GKI_install_methods">Flashing AnyKernel3</string>
+    <string name="Lkm_install_methods">LKM repair/installation</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"홈으로 이동"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"위로 이동"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"추가 옵션"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"완료"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"전체 보기"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"앱 선택"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"사용 중지"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"사용"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"스페이스바"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"검색..."</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"검색어 삭제"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"검색어"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"검색"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"검색어 보내기"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"음성 검색"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"공유 대상:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>과(와) 공유"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"접기"</string>
+    <string name="about">정보</string>
+    <string name="about_source_code"><![CDATA[View source code at %1$s<br/>Join our %2$s channel]]></string>
+    <string name="action">동작</string>
+    <string name="advanced_settings">Advanced Settings</string>
+    <string name="allowlist_backup_failed">Allowlist backup failed: %1$s</string>
+    <string name="allowlist_backup_success">Allowlist backup successful</string>
+    <string name="allowlist_restore_confirm_message">This operation will overwrite the current allowlist. Continue?</string>
+    <string name="allowlist_restore_confirm_title">Confirm Allowlist Restoration</string>
+    <string name="allowlist_restore_failed">Allowlist restore failed: %1$s</string>
+    <string name="allowlist_restore_success">Allowlist restored successfully</string>
+    <string name="app_dpi_summary">Adjust the screen display density for the current application only</string>
+    <string name="app_dpi_title">Applied DPI</string>
+    <string name="app_profile_export_to_clipboard">클립보드로 내보내기</string>
+    <string name="app_profile_import_export">불러오기/내보내기</string>
+    <string name="app_profile_import_from_clipboard">클립보드에서 불러오기</string>
+    <string name="app_profile_template_create">템플레이트 생성</string>
+    <string name="app_profile_template_delete">삭제</string>
+    <string name="app_profile_template_description">설명</string>
+    <string name="app_profile_template_edit">템플레이트 편집</string>
+    <string name="app_profile_template_export_empty">내보낼 로컬 템플레이트가 없습니다!</string>
+    <string name="app_profile_template_id">ID</string>
+    <string name="app_profile_template_id_exist">템플레이트 ID가 이미 존재합니다!</string>
+    <string name="app_profile_template_id_invalid">올바르지 않은 템플레이트 id</string>
+    <string name="app_profile_template_import_empty">클립보드가 비었습니다!</string>
+    <string name="app_profile_template_import_success">불러오기 성공</string>
+    <string name="app_profile_template_name">이름</string>
+    <string name="app_profile_template_readonly">읽기 전용</string>
+    <string name="app_profile_template_save">저장</string>
+    <string name="app_profile_template_save_failed">템플레이트 저장 실패</string>
+    <string name="app_profile_template_sync">온라인 템플레이트 동기화</string>
+    <string name="app_profile_template_view">템플레이트 보기</string>
+    <string name="app_settings">Application Settings</string>
+    <string name="appearance_settings">Customize the toolbar</string>
+    <string name="apps_with_custom_profile">Applications with customized configurations</string>
+    <string name="apps_with_root">Applications with root privileges</string>
+    <string name="authorized">authorized</string>
+    <string msgid="389117264260014992" name="autofill">"자동 완성"</string>
+    <string name="back">Comeback</string>
+    <string name="background_image_error">Could not load image</string>
+    <string name="background_removed">Removed custom backgrounds</string>
+    <string name="background_set_success">Background set successfully</string>
+    <string name="backup">Backup</string>
+    <string name="backup_allowlist">Backup Allowlist</string>
+    <string name="backup_failed">Backup failed: %1$s</string>
+    <string name="backup_modules">backup modules</string>
+    <string name="backup_success">Backup successful (tar.gz)</string>
+    <string name="batch_authorization">empower</string>
+    <string name="batch_cancel_authorization">withdraw</string>
+    <string name="bottomsheet_action_collapse">하단 시트 접기</string>
+    <string name="bottomsheet_action_expand">하단 시트 펼치기</string>
+    <string name="bottomsheet_action_expand_halfway">반만 펼치기</string>
+    <string name="bottomsheet_drag_handle_clicked">두 번 탭한 드래그 핸들</string>
+    <string name="bottomsheet_drag_handle_content_description">드래그 핸들</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"통화"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"동영상"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"거절"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"전화 끊기"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"수신 전화"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"진행 중인 통화"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"수신 전화 검사 중"</string>
+    <string name="cancel">Cancel</string>
+    <string name="character_counter_content_description">입력된 글자 %1$d/%2$d</string>
+    <string name="character_counter_overflowed_content_description">글자 수 제한이 초과되었습니다(%1$d/%2$d).</string>
+    <string name="check_log">Please check the log</string>
+    <string name="choose_theme_color">Choose a theme colour</string>
+    <string name="clear">Removals</string>
+    <string name="clear_text_end_icon_content_description">텍스트 삭제</string>
+    <string name="close">Close</string>
+    <string msgid="406453423630273620" name="close_drawer">"탐색 메뉴 닫기"</string>
+    <string name="close_notice">Close</string>
+    <string msgid="7573152094250666567" name="close_sheet">"시트 닫기"</string>
+    <string name="collapse">put away</string>
+    <string name="color_default">Blue</string>
+    <string name="color_gray">Gray</string>
+    <string name="color_green">Green</string>
+    <string name="color_orange">Orange</string>
+    <string name="color_pink">Pink</string>
+    <string name="color_purple">Purple</string>
+    <string name="color_yellow">Yellow</string>
+    <string name="command_execution_failed">Command execution failed: %1$s</string>
+    <string name="configuration">Configure</string>
+    <string name="confirm">Confirm</string>
+    <string name="confirm_uninstall_confirm">Uninstall</string>
+    <string name="confirm_uninstall_content">The following KPM will be uninstalled: %s</string>
+    <string name="confirm_uninstall_dismiss">Cancel</string>
+    <string name="confirm_uninstall_title">Confirm uninstallation</string>
+    <string name="confirm_uninstall_title_with_filename">Uninstall</string>
+    <string name="copy_failed">File Copy Failure</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"클립보드에 링크 복사됨"</string>
+    <string name="current_slot">Current Slot：%1$s </string>
+    <string name="currently_selected">Currently</string>
+    <string name="custom_settings">Custom settings</string>
+    <string msgid="8038256446254964252" name="default_error_message">"입력이 잘못됨"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"팝업 창"</string>
+    <string name="direct_install">직접 설치 (권장)</string>
+    <string name="dpi_applied_success">DPI has been set to %1$d, effective after restarting the application</string>
+    <string name="dpi_apply_settings">Applying DPI settings</string>
+    <string name="dpi_confirm_message">Are you sure you want to change the application DPI from %1$d to %2$d?</string>
+    <string name="dpi_confirm_summary">Application needs to be restarted to apply the new DPI settings, does not affect the system status bar or other applications</string>
+    <string name="dpi_confirm_title">Confirm DPI change</string>
+    <string name="dpi_settings">DPI setting</string>
+    <string name="dpi_size_custom">customizable</string>
+    <string name="dpi_size_extra_large">oversize</string>
+    <string name="dpi_size_large">Big</string>
+    <string name="dpi_size_medium">Medium </string>
+    <string name="dpi_size_small">Small </string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"드롭다운 메뉴"</string>
+    <string name="dynamic_color_summary">Dynamic colours using system themes</string>
+    <string name="dynamic_color_title">Dynamic colours</string>
+    <string name="enable_web_debugging">WebView 디버깅 활성화</string>
+    <string name="enable_web_debugging_summary">WebUI 디버깅에 사용 가능, 필요할 때만 활성화해주세요.</string>
+    <string name="engine_auto_select">Automatic Selection</string>
+    <string name="engine_force_ksu">Mandatory use of KSU WebUI</string>
+    <string name="engine_force_webuix">Force the use of WebUI X</string>
+    <string name="error_a11y_label">오류: 잘못됨</string>
+    <string name="error_code">error code</string>
+    <string name="error_icon_content_description">오류</string>
+    <string name="expand">Be in full swing</string>
+    <string name="exposed_dropdown_menu_content_description">드롭다운 메뉴 표시</string>
+    <string name="failed_reboot">Reboot Failed</string>
+    <string name="failed_to_update_app_profile">%s에 대한 앱 프로필 업데이트 실패</string>
+    <string name="failed_to_update_sepolicy">다음 앱에 대한 SELinux 규칙 업데이트 실패: %s</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"링크 복사"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"브라우저에서 열기"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"링크 공유"</string>
+    <string name="flash_failed">플래시 실패</string>
+    <string name="flash_failed_message">Flash failed</string>
+    <string name="flash_option">Brush Options</string>
+    <string name="flash_option_tip">Select the file to be flashed</string>
+    <string name="flash_success">플래시 성공</string>
+    <string name="flashing">플래시 중</string>
+    <string formatted="false" name="force_stop_app">강제 중지</string>
+    <string name="grant_root_failed">루트 부여 실패!</string>
+    <string name="hide_kernel_kernelsu_version">Hide kernel version</string>
+    <string name="hide_kernel_kernelsu_version_summary">Hide kernel version</string>
+    <string name="hide_link_card">Hide Link Card Status</string>
+    <string name="hide_link_card_summary">Hide link card information on the home page</string>
+    <string name="hide_other_info">Hide other info</string>
+    <string name="hide_other_info_summary">Hides information about the number of super users, modules and KPM modules on the home page</string>
+    <string name="hide_susfs_status">Hide SuSFS status</string>
+    <string name="hide_susfs_status_summary">Hide SuSFS status information on the home page</string>
+    <string name="hide_system_apps">시스템 앱 숨기기</string>
+    <string name="home">홈</string>
+    <string name="home_ContributionCard_kernelsu">SukiSU Ultra Look forward to</string>
+    <string name="home_android_version">Android version</string>
+    <string name="home_click_to_ContributionCard_kernelsu">SukiSU Ultra will be a relatively independent branch of KSU in the future, but we still appreciate the official KernelSU and MKSU etc. for their contributions!</string>
+    <string name="home_click_to_install">이 곳을 눌러 설치하기</string>
+    <string name="home_click_to_learn_kernelsu">KernelSU 설치 방법과 모듈 사용 방법을 확인합니다</string>
+    <string name="home_device_model">Device model</string>
+    <string name="home_fingerprint">빌드 정보</string>
+    <string name="home_kernel">커널</string>
+    <string name="home_kpm_module">"Number of KPM modules: %d "</string>
+    <string name="home_kpm_version">KPM Version</string>
+    <string name="home_learn_kernelsu">KernelSU 알아보기</string>
+    <string name="home_learn_kernelsu_url">https://kernelsu.org/guide/what-is-kernelsu.html</string>
+    <string name="home_manager_version">매니저 버전</string>
+    <string name="home_module_count">설치된 모듈: %d개</string>
+    <string name="home_not_installed">설치되지 않음</string>
+    <string name="home_selinux_status">SELinux 상태</string>
+    <string name="home_superuser_count">루트 권한: %d개</string>
+    <string name="home_support_content">KernelSU는 지금도, 앞으로도 항상 무료이며 오픈 소스로 유지됩니다. 기부를 통해 여러분의 관심을 보여주세요.</string>
+    <string name="home_support_title">지원이 필요합니다</string>
+    <string name="home_susfs">SuSFS: %s</string>
+    <string name="home_susfs_sus_su">SuS SU</string>
+    <string name="home_susfs_version">SuSFS Version</string>
+    <string name="home_unsupported">지원되지 않음</string>
+    <string name="home_unsupported_reason">KernelSU는 현재 GKI 커널만 지원합니다</string>
+    <string name="home_working">정상 작동 중</string>
+    <string name="home_working_version">버전: %d</string>
+    <string name="horizon_cleaning_files">Cleaning files…</string>
+    <string name="horizon_copy_failed">Copy failed</string>
+    <string name="horizon_copying_files">Copying files…</string>
+    <string name="horizon_extracting_tool">Extracting flash tool…</string>
+    <string name="horizon_flash_complete">Flash Complete</string>
+    <string name="horizon_flash_complete_status">Flash completed</string>
+    <string name="horizon_flash_title">Kernel Flashing</string>
+    <string name="horizon_flashing">Flashing kernel…</string>
+    <string name="horizon_getting_original_slot">Getting the original slot</string>
+    <string name="horizon_kernel">Install Anykernel3</string>
+    <string name="horizon_kernel_summary">Flash AnyKernel3 kernel file</string>
+    <string name="horizon_logs_label">Logs:</string>
+    <string name="horizon_patching_script">Patching flash script…</string>
+    <string name="horizon_preparing">Preparing…</string>
+    <string name="horizon_restoring_original_slot">Restore Default Slot</string>
+    <string name="horizon_setting_target_slot">Setting the specified slot</string>
+    <string name="horizon_unknown_error">Unknown error</string>
+    <string name="icon_content_description">대화상자 아이콘</string>
+    <string name="image_editor_hint">Use two fingers to zoom the image, and one finger to drag it to adjust the position</string>
+    <string name="image_editor_title">Adjust background image</string>
+    <string msgid="6827826412747255547" name="in_progress">"진행 중"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"일부 선택됨"</string>
+    <string name="install">설치</string>
+    <string name="install_inactive_slot">비활성 슬롯에 설치 (OTA 이후)</string>
+    <string name="install_inactive_slot_warning">재부팅 후 기기는 **강제로** 비활성 슬롯으로 부팅합니다!\nOTA를 진행한 후에만 이 옵션을 사용하세요.\n진행할까요?</string>
+    <string name="install_next">다음</string>
+    <string name="installing_module">Module being installed %1$d/%2$d</string>
+    <string name="invalid_file_type">Incorrect file type! Please select .kpm file.</string>
+    <string name="item_view_role_description">탭</string>
+    <string name="kernel_flashing">Kernel Flashing</string>
+    <string name="kernel_module_notice">The following kernel module functions were developed by KernelPatch and modified to include the kernel module functions of SukiSU Ultra</string>
+    <string name="kernel_not_enabled">Kernel not configured</string>
+    <string name="kernel_patched">Kernel not patched</string>
+    <string name="kernel_version_log">Kernel version：%1$s</string>
+    <string name="kpm_args">Parameters</string>
+    <string name="kpm_author">Author</string>
+    <string name="kpm_control">Execute</string>
+    <string name="kpm_control_failed">Failed</string>
+    <string name="kpm_control_success">Success</string>
+    <string name="kpm_empty">No installed kernel modules at this time</string>
+    <string name="kpm_install">Install</string>
+    <string name="kpm_install_failed">Load of kpm module failed</string>
+    <string name="kpm_install_mode">KPM Install</string>
+    <string name="kpm_install_mode_description">Please select: %1\$s Module Installation Mode \n\nLoad: Temporarily load the module \nEmbedded: Permanently install into the system</string>
+    <string name="kpm_install_mode_embed">Embed</string>
+    <string name="kpm_install_mode_load">Load</string>
+    <string name="kpm_install_success">Load of kpm module successful</string>
+    <string name="kpm_invalid_file">Invalid KPM file</string>
+    <string name="kpm_title">KPM</string>
+    <string name="kpm_uninstall">Uninstall</string>
+    <string name="kpm_uninstall_failed">Failed to uninstall</string>
+    <string name="kpm_uninstall_success">Uninstalled successfully</string>
+    <string name="kpm_version">Version</string>
+    <string name="language_changed">Language changed, restarting to apply changes</string>
+    <string name="language_follow_system">Follow System</string>
+    <string name="language_setting">App Language</string>
+    <string name="launch_app">실행</string>
+    <string name="log_failed_to_check_module_file">Failed to check module file existence</string>
+    <string name="log_saved">로그 저장됨</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"하단 시트 접기"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"하단 시트 닫기"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"드래그 핸들"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"하단 시트 펼치기"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"하단 시트"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"입력한 날짜"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"입력한 날짜: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"데이터가 예상 패턴과 일치하지 않음: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"데이터 허용 안 됨: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"데이터가 예상 연도 범위(%1$s~%2$s)를 벗어남"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"날짜"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"없음"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"날짜 선택"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"선택한 날짜"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"현재 선택사항: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"%1$s년으로 이동"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"없음"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"스크롤하여 이전 연도 보기"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"스크롤하여 이후 연도 보기"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"캘린더 입력 모드로 전환"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"스와이프하여 연도를 선택하거나 탭하여 날짜 선택으로 돌아가세요."</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"텍스트 입력 모드로 전환"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"다음 달로 변경"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"이전 달로 변경"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"연도 선택으로 전환"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"날짜 선택"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"오늘"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"연도 선택 도구 표시"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"잘못된 기간 입력"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"날짜 입력"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"범위 내"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"종료일"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"스크롤하여 다음 달 보기"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"스크롤하여 이전 달 보기"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"시작일"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"날짜 선택"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"대화상자"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"접힘"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"펼침"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"전환 드롭다운 메뉴"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"검색"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"닫기"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"아래의 추천 검색어"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"오전"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"시간"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d시간"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"시간 선택"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d시 정각"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"기간(시간)"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"분"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"분 선택"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d분"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"기간(분)"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"오전 또는 오후를 선택하세요."</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"오후"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"도움말 표시"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"도움말"</string>
+    <string name="manual_hook">Manual Hook</string>
+    <string name="material_clock_toggle_content_description">오전 또는 오후를 선택하세요.</string>
+    <string name="material_hour_24h_suffix">%1$s시간</string>
+    <string name="material_hour_selection">시간 선택</string>
+    <string name="material_hour_suffix">%1$s시 정각</string>
+    <string name="material_minute_selection">분 선택</string>
+    <string name="material_minute_suffix">%1$s분</string>
+    <string name="material_timepicker_am">오전</string>
+    <string name="material_timepicker_clock_mode_description">시간 입력을 위해 시계 모드로 전환합니다.</string>
+    <string name="material_timepicker_hour">시간</string>
+    <string name="material_timepicker_minute">분</string>
+    <string name="material_timepicker_pm">오후</string>
+    <string name="material_timepicker_select_time">시간 선택</string>
+    <string name="material_timepicker_text_input_mode_description">시간 입력을 위해 텍스트 입력 모드로 전환합니다.</string>
+    <string msgid="2792228137354697160" name="mc2_snackbar_pane_title">"주의"</string>
+    <string name="module">모듈</string>
+    <string name="module_author">제작자</string>
+    <string name="module_changelog">업데이트 내역</string>
+    <string name="module_changelog_failed">업데이트 내역 가져오기 실패: %s</string>
+    <string name="module_download_error">Module download failed</string>
+    <string name="module_downloading">모듈 받는 중: %s</string>
+    <string name="module_empty">설치된 모듈 없음</string>
+    <string name="module_failed_count">%d Failed to install a new module</string>
+    <string name="module_failed_to_disable">모듈 비활성화 실패: %s</string>
+    <string name="module_failed_to_enable">모듈 활성화 실패: %s</string>
+    <string name="module_install">설치</string>
+    <string name="module_install_confirm">confirm install module %1$s？</string>
+    <string name="module_install_multiple_confirm">Are you sure you want to install the selected %d modules?</string>
+    <string name="module_install_multiple_confirm_with_names">Sure you want to install the following %1$d modules? \n\n%2$s</string>
+    <string name="module_magisk_conflict">Magisk와 충돌로 모듈을 사용할 수 없습니다!</string>
+    <string name="module_sort_action_first">정렬 (동작이 있는 것 우선)</string>
+    <string name="module_sort_enabled_first">정렬 (활성화됨 우선)</string>
+    <string name="module_start_downloading">다운로드 시작: %s</string>
+    <string name="module_uninstall_confirm">%s 모듈을 삭제할까요?</string>
+    <string name="module_uninstall_failed">모듈 삭제 실패: %s</string>
+    <string name="module_uninstall_success">%s 모듈 삭제됨</string>
+    <string name="module_update">업데이트</string>
+    <string name="module_version">버전</string>
+    <string name="more_settings">More settings</string>
+    <string name="mtrl_badge_numberless_content_description">새 알림</string>
+    <string name="mtrl_checkbox_state_description_checked">선택됨</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">일부 선택됨</string>
+    <string name="mtrl_checkbox_state_description_unchecked">선택되지 않음</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s 삭제</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">새 알림 %1$d개 초과</string>
+    <string name="mtrl_picker_a11y_next_month">다음 달로 변경</string>
+    <string name="mtrl_picker_a11y_prev_month">이전 달로 변경</string>
+    <string name="mtrl_picker_announce_current_range_selection">시작일 선택: %1$s, 종료일 선택: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">현재 %1$s 선택됨</string>
+    <string name="mtrl_picker_announce_current_selection_none">없음</string>
+    <string name="mtrl_picker_cancel">취소</string>
+    <string name="mtrl_picker_confirm">확인</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">날짜 선택</string>
+    <string name="mtrl_picker_date_header_unselected">선택한 날짜</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">종료일: %1$s</string>
+    <string name="mtrl_picker_invalid_format">형식이 잘못되었습니다.</string>
+    <string name="mtrl_picker_invalid_format_example">예: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">올바른 형식: %1$s</string>
+    <string name="mtrl_picker_invalid_range">날짜 범위가 잘못되었습니다.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">현재 연도(%1$d)로 이동</string>
+    <string name="mtrl_picker_navigate_to_year_description">%1$d년으로 이동</string>
+    <string name="mtrl_picker_out_of_range">%1$s은 범위를 벗어난 날짜입니다.</string>
+    <string name="mtrl_picker_range_header_only_end_selected">시작일~%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s~종료일</string>
+    <string name="mtrl_picker_range_header_selected">%1$s~%2$s</string>
+    <string name="mtrl_picker_range_header_title">기간 선택</string>
+    <string name="mtrl_picker_range_header_unselected">시작일~종료일</string>
+    <string name="mtrl_picker_save">저장</string>
+    <string name="mtrl_picker_start_date_description">시작일: %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">날짜</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">종료일</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">시작일</string>
+    <string name="mtrl_picker_text_input_day_abbr">일</string>
+    <string name="mtrl_picker_text_input_month_abbr">월</string>
+    <string name="mtrl_picker_text_input_year_abbr">년</string>
+    <string name="mtrl_picker_today_description">오늘(%1$s)</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">캘린더 입력 모드로 전환</string>
+    <string name="mtrl_picker_toggle_to_day_selection">탭하여 캘린더 뷰로 전환</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">텍스트 입력 모드로 전환</string>
+    <string name="mtrl_picker_toggle_to_year_selection">탭하여 연도 뷰로 전환</string>
+    <string name="mtrl_timepicker_cancel">취소</string>
+    <string name="mtrl_timepicker_confirm">확인</string>
+    <string msgid="542007171693138492" name="navigation_menu">"탐색 메뉴"</string>
+    <string name="new_version_available">새 버전: %s이 사용 가능합니다, 여기를 눌러 업그레이드하세요.</string>
+    <string name="no">No</string>
+    <string name="no_apps_found">Application not found</string>
+    <string msgid="6610465462668679431" name="not_selected">"선택되지 않음"</string>
+    <string name="not_supported">Unsupported</string>
+    <string name="ok">Ok</string>
+    <string name="open">열기</string>
+    <string name="other_apps">Applications with unchanged defaults</string>
+    <string name="password_toggle_content_description">비밀번호 표시</string>
+    <string name="profile_capabilities">권한</string>
+    <string name="profile_custom">사용자 지정</string>
+    <string name="profile_default">기본값</string>
+    <string name="profile_groups">사용자 그룹</string>
+    <string name="profile_name">프로필 이름</string>
+    <string name="profile_namespace">이름 공간 마운트</string>
+    <string name="profile_namespace_global">전역</string>
+    <string name="profile_namespace_individual">개별</string>
+    <string name="profile_namespace_inherited">상속</string>
+    <string name="profile_selinux_context">SELinux 컨텍스트</string>
+    <string name="profile_selinux_domain">도메인</string>
+    <string name="profile_selinux_rules">규칙</string>
+    <string name="profile_template">템플릿</string>
+    <string name="profile_umount_modules">모듈 사용 해제</string>
+    <string name="profile_umount_modules_disable">Disable custom uninstallation module</string>
+    <string name="profile_umount_modules_summary">이 옵션이 활성화되면, KernelSU는 이 앱에 대한 모듈의 모든 수정사항을 복구합니다.</string>
+    <string msgid="5941395253238309765" name="range_end">"범위 끝"</string>
+    <string msgid="7097486360902471446" name="range_start">"범위 시작"</string>
+    <string name="reboot">다시 시작</string>
+    <string name="reboot_bootloader">부트로더로 다시 시작</string>
+    <string name="reboot_complete_msg">Whether to reboot immediately？</string>
+    <string name="reboot_complete_title">Scrubbing complete</string>
+    <string name="reboot_download">다운로드 모드로 다시 시작</string>
+    <string name="reboot_edl">EDL 모드로 다시 시작</string>
+    <string name="reboot_recovery">복구 모드로 다시 시작</string>
+    <string name="reboot_to_apply">다시 시작하여 변경 사항 적용</string>
+    <string name="reboot_userspace">빠른 다시 시작</string>
+    <string name="refresh">새로고침</string>
+    <string name="reprovision">Reprovision</string>
+    <string formatted="false" name="require_kernel_version">The current KernelSU version %d is too low for the manager to work properly. Please upgrade to version %d or higher!</string>
+    <string name="restart_app">다시 시작</string>
+    <string name="restart_now">Restart Now</string>
+    <string name="restore">Restore</string>
+    <string name="restore_allowlist">Restore Allowlist</string>
+    <string name="restore_confirm_message">This operation will overwrite all existing modules. Continue?</string>
+    <string name="restore_confirm_title">Confirm Module Restoration</string>
+    <string name="restore_failed">Restore failed: %1$s</string>
+    <string name="restore_modules">restore modules</string>
+    <string name="restore_success">Modules restored successfully, restart required</string>
+    <string name="root_require_for_install">Requires root privileges</string>
+    <string name="root_required">Requires root privileges</string>
+    <string name="safe_mode">안전 모드</string>
+    <string name="save_log">로그 저장</string>
+    <string name="scd_list_dialog_max_choices" translatable="true">최대 %1$d 개의 옵션을 선택하세요.</string>
+    <string name="scd_list_dialog_min_choices" translatable="true">적어도 %1$d개의 옵션을 선택하세요.</string>
+    <string name="scroll_to_bottom">Bottom</string>
+    <string name="scroll_to_bottom_description">Scroll to the bottom</string>
+    <string name="scroll_to_top">Top</string>
+    <string name="scroll_to_top_description">Scroll to top</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"검색"</string>
+    <string name="searchview_clear_text_content_description">텍스트 삭제</string>
+    <string name="searchview_navigation_content_description">뒤로</string>
+    <string name="select">option</string>
+    <string name="select_file">파일 선택</string>
+    <string name="select_file_tip">%1$s 파티션 이미지 권장됨</string>
+    <string name="select_kmi">KMI 선택</string>
+    <string name="select_slot_description">Please select the target slot for flashing boot</string>
+    <string name="select_slot_title">Select Flash Slot</string>
+    <string name="selected">Selected</string>
+    <string name="selected_lkm">선택된 LKM: %s</string>
+    <string name="selected_slot">Selected slot: %1$s</string>
+    <string name="selinux">SELinux</string>
+    <string name="selinux_change_failed">SELinux Status change failed</string>
+    <string name="selinux_disabled">Disabled</string>
+    <string name="selinux_disabled_toast">SELinux Disabled</string>
+    <string name="selinux_enabled">Enabled</string>
+    <string name="selinux_enabled_toast">SELinux Enabled</string>
+    <string name="selinux_status_disabled">비활성화됨</string>
+    <string name="selinux_status_enforcing">적용</string>
+    <string name="selinux_status_permissive">허용</string>
+    <string name="selinux_status_unknown">알 수 없음</string>
+    <string name="send_log">로그 보내기</string>
+    <string name="settings">설정</string>
+    <string name="settings_card_alpha">Navigation bar transparency</string>
+    <string name="settings_card_dim">Card Darkness Adjustment</string>
+    <string name="settings_check_update">업데이트 확인</string>
+    <string name="settings_check_update_summary">앱 실행시 자동으로 업데이트 확인</string>
+    <string name="settings_custom_background">Custom App Background</string>
+    <string name="settings_custom_background_summary">Select an image as background</string>
+    <string name="settings_disable_su">Disable su compatibility</string>
+    <string name="settings_disable_su_summary">Temporarily disable any applications from obtaining root privileges via the ⁠su command (existing root processes will not be affected).</string>
+    <string name="settings_profile_template">앱 프로필 템플레이트</string>
+    <string name="settings_profile_template_summary">앱 프로필의 로컬 및 온라인 템플레이트 관리</string>
+    <string name="settings_restore_default">Restore default</string>
+    <string name="settings_restore_stock_image">순정 이미지 복구</string>
+    <string name="settings_restore_stock_image_message">순정 이미지 복구 (백업이 존재한다면), OTA 전에 사용합니다; KernelSU를 삭제해야 한다면, \"영구적 삭제\"를 사용해 주세요.</string>
+    <string name="settings_susfs_toggle">Disable kprobe hooks</string>
+    <string name="settings_susfs_toggle_summary">Disable kprobe hooks created by KernelSU, using inline hooks instead, which is similar to non-GKI kernel hooking method.</string>
+    <string name="settings_umount_modules_default">기본값으로 모듈 사용 해제</string>
+    <string name="settings_umount_modules_default_summary">앱 프로필 메뉴의 \"모듈 마운트 해제\" 설정에 대한 전역 기본값을 설정합니다. 활성화 시, 개별 프로필이 설정되지 않은 앱은 시스템에 대한 모듈의 모든 수정사항이 적용되지 않습니다.</string>
+    <string name="settings_uninstall">삭제</string>
+    <string name="settings_uninstall_permanent">영구적 삭제</string>
+    <string name="settings_uninstall_permanent_message">완전히, 그리고 영구히 KernelSU (루트 및 모든 모듈)를 삭제합니다.</string>
+    <string name="settings_uninstall_temporary">임시적 삭제</string>
+    <string name="settings_uninstall_temporary_message">임시적으로 KernelSU를 삭제하고, 다음 재부팅에 원래대로 복구합니다.</string>
+    <string name="show_kpm_info">Display KPM Function</string>
+    <string name="show_kpm_info_summary">Display KPM information and Function in home and bottom bar (Need to reopen the app)</string>
+    <string name="show_system_apps">시스템 앱 보이기</string>
+    <string name="side_sheet_accessibility_pane_title">사이드 시트</string>
+    <string name="simple_mode">Simplicity mode</string>
+    <string name="simple_mode_summary">Hides unnecessary cards when turned on</string>
+    <string name="slot_a">Slot A</string>
+    <string name="slot_b">Slot B</string>
+    <string name="snackbar_failed_to_check_module_file">Unable to check if module file exists</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"주의"</string>
+    <string msgid="4139871816613051306" name="state_empty">"비어 있음"</string>
+    <string msgid="5834637030682409883" name="state_off">"사용 안함"</string>
+    <string msgid="1490883874751719580" name="state_on">"사용"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_not_supported">Not Supported</string>
+    <string name="status_supported">Supported</string>
+    <string name="status_unknown">Unknown</string>
+    <string name="su_not_allowed">Granting superuser to %s is not allowed</string>
+    <string name="superuser">슈퍼유저</string>
+    <string name="supported">Supported</string>
+    <string name="sus_su_mode">SuS SU mode:</string>
+    <string name="susfs_disabled">SuSFS disabled</string>
+    <string name="susfs_enabled">SuSFS enabled</string>
+    <string msgid="2561197295334830845" name="switch_role">"스위치"</string>
+    <string msgid="1672349317127674378" name="tab">"탭"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g>퍼센트"</string>
+    <string name="theme_color">Theme Color</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_follow_system">Follow system</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_mode">Theme</string>
+    <string name="tool_version_log">Using the patching tool：%1$s</string>
+    <string name="tools">Tools</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"도움말"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"도움말 표시"</string>
+    <string name="unauthorized">unauthorized</string>
+    <string name="uninstall">삭제</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="unknown_module">unknown module</string>
+    <string name="use_webuix">Select the WebUI engine to use</string>
+    <string name="use_webuix_eruda">Inject Eruda into WebUI X</string>
+    <string name="use_webuix_eruda_summary">Inject a debug console into WebUI X to make debugging easier. Requires web debugging to be on.</string>
+    <string name="using_mksu_manager">You are using the SukiSU Beta manager</string>
+    <string name="yes">Yes</string>
+</resources>

@@ -1,0 +1,4 @@
+/home/mirin/Android/Sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /home/mirin/SukiSU-Ultra/manager/app/.cxx/Release/1t1g6y72/armeabi-v7a \
+  zako

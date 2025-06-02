@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="zero">%d jaunu paziņojumu</item>
+    <item quantity="one">%d jauns paziņojums</item>
+    <item quantity="other">%d jauni paziņojumi</item>
+  </plurals>
+    <string name="GKI_install_methods">Flashing AnyKernel3</string>
+    <string name="Lkm_install_methods">LKM repair/installation</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Pārvietoties uz sākuma ekrānu"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Pārvietoties uz augšu"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Citas opcijas"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Gatavs"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Skatīt visu"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Izvēlieties lietotni"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"IZSLĒGT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"IESLĒGT"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alternēšanas taustiņš +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Vadīšanas taustiņš +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"dzēšanas taustiņš"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"ievadīšanas taustiņš"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funkcijas taustiņš +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta taustiņš +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Pārslēgšanas taustiņš +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"atstarpes taustiņš"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Simbolu taustiņš +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Poga Izvēlne +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Meklējiet…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Notīrīt vaicājumu"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Meklēšanas vaicājums"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Meklēt"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Iesniegt vaicājumu"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Meklēt ar balsi"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Kopīgot ar:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Kopīgot ar lietojumprogrammu <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Sakļaut"</string>
+    <string name="about">Par</string>
+    <string name="about_source_code"><![CDATA[View source code at %1$s<br/>Join our %2$s channel]]></string>
+    <string name="action">Action</string>
+    <string name="advanced_settings">Advanced Settings</string>
+    <string name="allowlist_backup_failed">Allowlist backup failed: %1$s</string>
+    <string name="allowlist_backup_success">Allowlist backup successful</string>
+    <string name="allowlist_restore_confirm_message">This operation will overwrite the current allowlist. Continue?</string>
+    <string name="allowlist_restore_confirm_title">Confirm Allowlist Restoration</string>
+    <string name="allowlist_restore_failed">Allowlist restore failed: %1$s</string>
+    <string name="allowlist_restore_success">Allowlist restored successfully</string>
+    <string name="app_dpi_summary">Adjust the screen display density for the current application only</string>
+    <string name="app_dpi_title">Applied DPI</string>
+    <string name="app_profile_export_to_clipboard">Eksportēt starpliktuvē</string>
+    <string name="app_profile_import_export">Importēt/Eksportēt</string>
+    <string name="app_profile_import_from_clipboard">Importēt no starpliktuves</string>
+    <string name="app_profile_template_create">Izveidot veidni</string>
+    <string name="app_profile_template_delete">Dzēst</string>
+    <string name="app_profile_template_description">Apraksts</string>
+    <string name="app_profile_template_edit">Rediģēt veidni</string>
+    <string name="app_profile_template_export_empty">Nevar atrast vietējo eksportējamo veidni!</string>
+    <string name="app_profile_template_id">id</string>
+    <string name="app_profile_template_id_exist">veidnes id jau pastāv!</string>
+    <string name="app_profile_template_id_invalid">Nederīgs veidnes id</string>
+    <string name="app_profile_template_import_empty">Starpliktuve ir tukša!</string>
+    <string name="app_profile_template_import_success">Importēts veiksmīgi</string>
+    <string name="app_profile_template_name">Vārds</string>
+    <string name="app_profile_template_readonly">tikai lasīt</string>
+    <string name="app_profile_template_save">Saglabāt</string>
+    <string name="app_profile_template_save_failed">Neizdevās saglabāt veidni</string>
+    <string name="app_profile_template_sync">Sinhronizēt tiešsaistes veidnes</string>
+    <string name="app_profile_template_view">Skatīt veidni</string>
+    <string name="app_settings">Application Settings</string>
+    <string name="appearance_settings">Customize the toolbar</string>
+    <string name="apps_with_custom_profile">Applications with customized configurations</string>
+    <string name="apps_with_root">Applications with root privileges</string>
+    <string name="authorized">authorized</string>
+    <string msgid="389117264260014992" name="autofill">"Automātiskā aizpilde"</string>
+    <string name="back">Comeback</string>
+    <string name="background_image_error">Could not load image</string>
+    <string name="background_removed">Removed custom backgrounds</string>
+    <string name="background_set_success">Background set successfully</string>
+    <string name="backup">Backup</string>
+    <string name="backup_allowlist">Backup Allowlist</string>
+    <string name="backup_failed">Backup failed: %1$s</string>
+    <string name="backup_modules">backup modules</string>
+    <string name="backup_success">Backup successful (tar.gz)</string>
+    <string name="batch_authorization">empower</string>
+    <string name="batch_cancel_authorization">withdraw</string>
+    <string name="bottomsheet_action_collapse">Sakļaut ekrāna apakšdaļas lapu</string>
+    <string name="bottomsheet_action_expand">Izvērst ekrāna apakšdaļas lapu</string>
+    <string name="bottomsheet_action_expand_halfway">Izvērst līdz pusei</string>
+    <string name="bottomsheet_drag_handle_clicked">Tika veikts dubultskāriens uz vilkšanas tura</string>
+    <string name="bottomsheet_drag_handle_content_description">Vilkšanas turis</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Atbildēt"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Noraidīt"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Pārtraukt"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Ienākošais zvans"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Pašreizējais zvans"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Ienākošā zvana filtrēšana"</string>
+    <string name="cancel">Cancel</string>
+    <string name="character_counter_content_description">Ievadītās rakstzīmes: %1$d no %2$d</string>
+    <string name="character_counter_overflowed_content_description">Pārsniegts rakstzīmju skaita ierobežojums (%1$d no %2$d)</string>
+    <string name="check_log">Please check the log</string>
+    <string name="choose_theme_color">Choose a theme colour</string>
+    <string name="clear">Removals</string>
+    <string name="clear_text_end_icon_content_description">Notīrīt tekstu</string>
+    <string name="close">Close</string>
+    <string msgid="406453423630273620" name="close_drawer">"Aizvērt navigācijas izvēlni"</string>
+    <string name="close_notice">Close</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Aizvērt izklājlapu"</string>
+    <string name="collapse">put away</string>
+    <string name="color_default">Blue</string>
+    <string name="color_gray">Gray</string>
+    <string name="color_green">Green</string>
+    <string name="color_orange">Orange</string>
+    <string name="color_pink">Pink</string>
+    <string name="color_purple">Purple</string>
+    <string name="color_yellow">Yellow</string>
+    <string name="command_execution_failed">Command execution failed: %1$s</string>
+    <string name="configuration">Configure</string>
+    <string name="confirm">Confirm</string>
+    <string name="confirm_uninstall_confirm">Uninstall</string>
+    <string name="confirm_uninstall_content">The following KPM will be uninstalled: %s</string>
+    <string name="confirm_uninstall_dismiss">Cancel</string>
+    <string name="confirm_uninstall_title">Confirm uninstallation</string>
+    <string name="confirm_uninstall_title_with_filename">Uninstall</string>
+    <string name="copy_failed">File Copy Failure</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Saite ir kopēta starpliktuvē."</string>
+    <string name="current_slot">Current Slot：%1$s </string>
+    <string name="currently_selected">Currently</string>
+    <string name="custom_settings">Custom settings</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Nederīga ievade"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Uznirstošais logs"</string>
+    <string name="direct_install">Tiešā instalēšana (Ieteicams)</string>
+    <string name="dpi_applied_success">DPI has been set to %1$d, effective after restarting the application</string>
+    <string name="dpi_apply_settings">Applying DPI settings</string>
+    <string name="dpi_confirm_message">Are you sure you want to change the application DPI from %1$d to %2$d?</string>
+    <string name="dpi_confirm_summary">Application needs to be restarted to apply the new DPI settings, does not affect the system status bar or other applications</string>
+    <string name="dpi_confirm_title">Confirm DPI change</string>
+    <string name="dpi_settings">DPI setting</string>
+    <string name="dpi_size_custom">customizable</string>
+    <string name="dpi_size_extra_large">oversize</string>
+    <string name="dpi_size_large">Big</string>
+    <string name="dpi_size_medium">Medium </string>
+    <string name="dpi_size_small">Small </string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Nolaižamā izvēlne"</string>
+    <string name="dynamic_color_summary">Dynamic colours using system themes</string>
+    <string name="dynamic_color_title">Dynamic colours</string>
+    <string name="enable_web_debugging">Iespējot WebView atkļūdošanu</string>
+    <string name="enable_web_debugging_summary">Var izmantot WebUI atkļūdošanai, lūdzu, izmantot tikai tad, kad tas ir nepieciešams.</string>
+    <string name="engine_auto_select">Automatic Selection</string>
+    <string name="engine_force_ksu">Mandatory use of KSU WebUI</string>
+    <string name="engine_force_webuix">Force the use of WebUI X</string>
+    <string name="error_a11y_label">Kļūda: nederīga</string>
+    <string name="error_code">error code</string>
+    <string name="error_icon_content_description">Kļūda</string>
+    <string name="expand">Be in full swing</string>
+    <string name="exposed_dropdown_menu_content_description">Rādīt nolaižamo izvēlni</string>
+    <string name="failed_reboot">Reboot Failed</string>
+    <string name="failed_to_update_app_profile">Neizdevās atjaunināt lietotnes profilu %s</string>
+    <string name="failed_to_update_sepolicy">Neizdevās atjaunināt SELinux noteikumus: %s</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Kopēt saiti"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Atvērt pārlūkprogrammā"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Kopīgot saiti"</string>
+    <string name="flash_failed">Instalēšana neizdevās</string>
+    <string name="flash_failed_message">Flash failed</string>
+    <string name="flash_option">Brush Options</string>
+    <string name="flash_option_tip">Select the file to be flashed</string>
+    <string name="flash_success">Instalēts veiksmīgi</string>
+    <string name="flashing">Instalē</string>
+    <string formatted="false" name="force_stop_app">Piespiedu apstāšana</string>
+    <string name="grant_root_failed">Neizdevās piešķirt sakni!</string>
+    <string name="hide_kernel_kernelsu_version">Hide kernel version</string>
+    <string name="hide_kernel_kernelsu_version_summary">Hide kernel version</string>
+    <string name="hide_link_card">Hide Link Card Status</string>
+    <string name="hide_link_card_summary">Hide link card information on the home page</string>
+    <string name="hide_other_info">Hide other info</string>
+    <string name="hide_other_info_summary">Hides information about the number of super users, modules and KPM modules on the home page</string>
+    <string name="hide_susfs_status">Hide SuSFS status</string>
+    <string name="hide_susfs_status_summary">Hide SuSFS status information on the home page</string>
+    <string name="hide_system_apps">Slēpt sistēmas lietotnes</string>
+    <string name="home">Sākums</string>
+    <string name="home_ContributionCard_kernelsu">SukiSU Ultra Look forward to</string>
+    <string name="home_android_version">Android version</string>
+    <string name="home_click_to_ContributionCard_kernelsu">SukiSU Ultra will be a relatively independent branch of KSU in the future, but we still appreciate the official KernelSU and MKSU etc. for their contributions!</string>
+    <string name="home_click_to_install">Noklikšķiniet, lai instalētu</string>
+    <string name="home_click_to_learn_kernelsu">Uzzināt, kā instalēt KernelSU un izmantot moduļus</string>
+    <string name="home_device_model">Device model</string>
+    <string name="home_fingerprint">Pirkstu nospiedums</string>
+    <string name="home_kernel">Kodols</string>
+    <string name="home_kpm_module">"Number of KPM modules: %d "</string>
+    <string name="home_kpm_version">KPM Version</string>
+    <string name="home_learn_kernelsu">Uzzināt par KernelSU</string>
+    <string name="home_learn_kernelsu_url">https://kernelsu.org/guide/what-is-kernelsu.html</string>
+    <string name="home_manager_version">Pārvaldnieka versija</string>
+    <string name="home_module_count">Moduļi: %d</string>
+    <string name="home_not_installed">Nav ieinstalēts</string>
+    <string name="home_selinux_status">SELinux statuss</string>
+    <string name="home_superuser_count">Superlietotāji: %d</string>
+    <string name="home_support_content">KernelSU ir un vienmēr būs bezmaksas un atvērtā koda. Tomēr jūs varat parādīt mums, ka jums rūp, veicot ziedojumu.</string>
+    <string name="home_support_title">Atbalsti mūs</string>
+    <string name="home_susfs">SuSFS: %s</string>
+    <string name="home_susfs_sus_su">SuS SU</string>
+    <string name="home_susfs_version">SuSFS Version</string>
+    <string name="home_unsupported">Neatbalstīts</string>
+    <string name="home_unsupported_reason">KernelSU atbalsta tikai GKI kodolus</string>
+    <string name="home_working">Darbojas</string>
+    <string name="home_working_version">Versija: %d</string>
+    <string name="horizon_cleaning_files">Cleaning files…</string>
+    <string name="horizon_copy_failed">Copy failed</string>
+    <string name="horizon_copying_files">Copying files…</string>
+    <string name="horizon_extracting_tool">Extracting flash tool…</string>
+    <string name="horizon_flash_complete">Flash Complete</string>
+    <string name="horizon_flash_complete_status">Flash completed</string>
+    <string name="horizon_flash_title">Kernel Flashing</string>
+    <string name="horizon_flashing">Flashing kernel…</string>
+    <string name="horizon_getting_original_slot">Getting the original slot</string>
+    <string name="horizon_kernel">Install Anykernel3</string>
+    <string name="horizon_kernel_summary">Flash AnyKernel3 kernel file</string>
+    <string name="horizon_logs_label">Logs:</string>
+    <string name="horizon_patching_script">Patching flash script…</string>
+    <string name="horizon_preparing">Preparing…</string>
+    <string name="horizon_restoring_original_slot">Restore Default Slot</string>
+    <string name="horizon_setting_target_slot">Setting the specified slot</string>
+    <string name="horizon_unknown_error">Unknown error</string>
+    <string name="icon_content_description">Dialoglodziņa ikona</string>
+    <string name="image_editor_hint">Use two fingers to zoom the image, and one finger to drag it to adjust the position</string>
+    <string name="image_editor_title">Adjust background image</string>
+    <string msgid="6827826412747255547" name="in_progress">"Notiek apstrāde"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Daļēji atzīmēta"</string>
+    <string name="install">Instalēt</string>
+    <string name="install_inactive_slot">Instalēt neaktīvajā slotā (pēc OTA)</string>
+    <string name="install_inactive_slot_warning">Pēc restartēšanas jūsu ierīce tiks **PIESPIESTI** palaista pašreizējā neaktīvajā slotā!
+\nIzmantojiet šo opciju tikai pēc OTA pabeigšanas
+\nTurpināt?</string>
+    <string name="install_next">Nākamais</string>
+    <string name="installing_module">Module being installed %1$d/%2$d</string>
+    <string name="invalid_file_type">Incorrect file type! Please select .kpm file.</string>
+    <string name="item_view_role_description">Cilne</string>
+    <string name="kernel_flashing">Kernel Flashing</string>
+    <string name="kernel_module_notice">The following kernel module functions were developed by KernelPatch and modified to include the kernel module functions of SukiSU Ultra</string>
+    <string name="kernel_not_enabled">Kernel not configured</string>
+    <string name="kernel_patched">Kernel not patched</string>
+    <string name="kernel_version_log">Kernel version：%1$s</string>
+    <string name="kpm_args">Parameters</string>
+    <string name="kpm_author">Author</string>
+    <string name="kpm_control">Execute</string>
+    <string name="kpm_control_failed">Failed</string>
+    <string name="kpm_control_success">Success</string>
+    <string name="kpm_empty">No installed kernel modules at this time</string>
+    <string name="kpm_install">Install</string>
+    <string name="kpm_install_failed">Load of kpm module failed</string>
+    <string name="kpm_install_mode">KPM Install</string>
+    <string name="kpm_install_mode_description">Please select: %1\$s Module Installation Mode \n\nLoad: Temporarily load the module \nEmbedded: Permanently install into the system</string>
+    <string name="kpm_install_mode_embed">Embed</string>
+    <string name="kpm_install_mode_load">Load</string>
+    <string name="kpm_install_success">Load of kpm module successful</string>
+    <string name="kpm_invalid_file">Invalid KPM file</string>
+    <string name="kpm_title">KPM</string>
+    <string name="kpm_uninstall">Uninstall</string>
+    <string name="kpm_uninstall_failed">Failed to uninstall</string>
+    <string name="kpm_uninstall_success">Uninstalled successfully</string>
+    <string name="kpm_version">Version</string>
+    <string name="language_changed">Language changed, restarting to apply changes</string>
+    <string name="language_follow_system">Follow System</string>
+    <string name="language_setting">App Language</string>
+    <string name="launch_app">Palaist</string>
+    <string name="log_failed_to_check_module_file">Failed to check module file existence</string>
+    <string name="log_saved">Logs saved</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Sakļaut ekrāna apakšdaļas lapu"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Noraidīt ekrāna apakšdaļas lapu"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Vilkšanas turis"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Izvērst ekrāna apakšdaļas lapu"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Ekrāna apakšdaļas lapa"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Ievadītais datums"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Ievadītais datums: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"Datums neatbilst paredzētajam formātam: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Datums nav atļauts: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"Datums nav paredzētajā gadu diapazonā (%1$s.–%2$s. g.)"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Datums"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"Nav"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Atlasīt datumu"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Atlasītais datums"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Pašreizējā atlase: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"Pāriet uz %1$s. gadu"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"Nav"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Lai rādītu iepriekšējos gadus, ritiniet"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Lai rādītu nākamos gadus, ritiniet"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"Pārslēgties uz kalendāra ievades režīmu"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Velciet, lai atlasītu gadu, vai pieskarieties, lai pārietu atpakaļ pie dienas atlases"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"Pārslēgties uz teksta ievades režīmu"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Mainīt uz nākamo mēnesi"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Mainīt uz iepriekšējo mēnesi"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Pāriet uz gada atlasi"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Atlasīt datumu"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"Šodien"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Redzams gada atlasītājs"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"Ievadīts nederīgs datumu diapazons."</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Ievadiet datumus"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"Atlasītajā diapazonā"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Beigu datums"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Lai rādītu nākamo mēnesi, ritiniet"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Lai rādītu iepriekšējo mēnesi, ritiniet"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Sākuma datums"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Atlasiet datumus"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Dialoglodziņš"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Sakļauta"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Izvērsta"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Pārslēgt nolaižamo izvēlni"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Meklēšana"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Nerādīt"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Tālāk ir sniegti ieteikumi"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"AM"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Stunda"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Atlasīt stundu"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"stundām"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Minūtes"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Atlasīt minūtes"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"Minūtes: %1$d"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"minūtēm"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Atlasīt “AM” (priekšpusdienā) vai “PM” (pēcpusdienā)"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Rādīt rīka padomu"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Rīka padoms"</string>
+    <string name="manual_hook">Manual Hook</string>
+    <string name="material_clock_toggle_content_description">Atlasiet “AM” (priekšpusdienā) vai “PM” (pēcpusdienā).</string>
+    <string name="material_hour_24h_suffix">%1$s stundas</string>
+    <string name="material_hour_selection">Atlasiet stundu</string>
+    <string name="material_hour_suffix">plkst. %1$s</string>
+    <string name="material_minute_selection">Atlasiet minūtes.</string>
+    <string name="material_minute_suffix">%1$s min</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Lai ievadītu laiku, ieslēdziet pulksteņa režīmu.</string>
+    <string name="material_timepicker_hour">Stunda</string>
+    <string name="material_timepicker_minute">Minūte</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Laika atlasīšana</string>
+    <string name="material_timepicker_text_input_mode_description">Lai ievadītu laiku, ieslēdziet teksta ievades režīmu.</string>
+    <string msgid="2792228137354697160" name="mc2_snackbar_pane_title">"Brīdinājums"</string>
+    <string name="module">Moduļi</string>
+    <string name="module_author">Autors</string>
+    <string name="module_changelog">Izmaiņu žurnāls</string>
+    <string name="module_changelog_failed">Izmaiņu žurnāla iegūšana neizdevās: %s</string>
+    <string name="module_download_error">Module download failed</string>
+    <string name="module_downloading">Lejupielādē moduli: %s</string>
+    <string name="module_empty">Nav instalētu moduļu</string>
+    <string name="module_failed_count">%d Failed to install a new module</string>
+    <string name="module_failed_to_disable">Neizdevās atspējot moduli: %s</string>
+    <string name="module_failed_to_enable">Neizdevās iespējot moduli: %s</string>
+    <string name="module_install">Instalēt</string>
+    <string name="module_install_confirm">confirm install module %1$s？</string>
+    <string name="module_install_multiple_confirm">Are you sure you want to install the selected %d modules?</string>
+    <string name="module_install_multiple_confirm_with_names">Sure you want to install the following %1$d modules? \n\n%2$s</string>
+    <string name="module_magisk_conflict">Moduļi ir atspējoti, jo tie konfliktē ar Magisk!</string>
+    <string name="module_sort_action_first">Sort (Action first)</string>
+    <string name="module_sort_enabled_first">Sort (Enabled first)</string>
+    <string name="module_start_downloading">Sākt lejupielādi: %s</string>
+    <string name="module_uninstall_confirm">Vai tiešām vēlaties atinstalēt moduli %s?</string>
+    <string name="module_uninstall_failed">Neizdevās atinstalēt: %s</string>
+    <string name="module_uninstall_success">%s ir atinstalēts</string>
+    <string name="module_update">Atjaunināt</string>
+    <string name="module_version">Versija</string>
+    <string name="more_settings">More settings</string>
+    <string name="mtrl_badge_numberless_content_description">Jauns paziņojums</string>
+    <string name="mtrl_checkbox_state_description_checked">Atzīmēta</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Daļēji atzīmēta</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Nav atzīmēta</string>
+    <string name="mtrl_chip_close_icon_content_description">Noņemt: %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Vairāk nekā %1$d jauni paziņojumi</string>
+    <string name="mtrl_picker_a11y_next_month">Pāriet uz nākamo mēnesi</string>
+    <string name="mtrl_picker_a11y_prev_month">Pāriet uz iepriekšējo mēnesi</string>
+    <string name="mtrl_picker_announce_current_range_selection">Sākuma datuma atlase: %1$s; beigu datuma atlase: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Pašreizējā atlase: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">nav</string>
+    <string name="mtrl_picker_cancel">Atcelt</string>
+    <string name="mtrl_picker_confirm">Labi</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Atlasiet datumu</string>
+    <string name="mtrl_picker_date_header_unselected">Atlasītais datums</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">Beigu datums: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Nederīgs formāts.</string>
+    <string name="mtrl_picker_invalid_format_example">Piemērs: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Izmantojiet: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Nederīgs diapazons.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Pāriet uz pašreizējo gadu (%1$d)</string>
+    <string name="mtrl_picker_navigate_to_year_description">Pāriet uz šo gadu: %1$d</string>
+    <string name="mtrl_picker_out_of_range">Ārpus diapazona: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Sākuma datums–%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s–beigu datums</string>
+    <string name="mtrl_picker_range_header_selected">%1$s–%2$s</string>
+    <string name="mtrl_picker_range_header_title">Atlasiet diapazonu</string>
+    <string name="mtrl_picker_range_header_unselected">Sākuma datums–beigu datums</string>
+    <string name="mtrl_picker_save">Saglabāt</string>
+    <string name="mtrl_picker_start_date_description">Sākuma datums: %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Datums</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Beigu datums</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Sākuma datums</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">g</string>
+    <string name="mtrl_picker_today_description">Šodien (%1$s)</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Pārslēgties uz kalendāra ievades režīmu</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Pieskarieties, lai pārslēgtos uz Kalendāra skatu</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Pārslēgties uz teksta ievades režīmu</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Pieskarieties, lai pārslēgtos uz gada skatu</string>
+    <string name="mtrl_timepicker_cancel">Atcelt</string>
+    <string name="mtrl_timepicker_confirm">Labi</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Navigācijas izvēlne"</string>
+    <string name="new_version_available">Jaunā versija: %s ir pieejama, noklikšķiniet, lai atjauninātu</string>
+    <string name="no">No</string>
+    <string name="no_apps_found">Application not found</string>
+    <string msgid="6610465462668679431" name="not_selected">"Nav atlasīts"</string>
+    <string name="not_supported">Unsupported</string>
+    <string name="ok">Labi</string>
+    <string name="open">Atvērt</string>
+    <string name="other_apps">Applications with unchanged defaults</string>
+    <string name="password_toggle_content_description">Rādīt paroli</string>
+    <string name="profile_capabilities">Iespējas</string>
+    <string name="profile_custom">Pielāgots</string>
+    <string name="profile_default">Noklusējums</string>
+    <string name="profile_groups">Grupas</string>
+    <string name="profile_name">Profila vārds</string>
+    <string name="profile_namespace">Mount nosaukumvieta</string>
+    <string name="profile_namespace_global">Globāli</string>
+    <string name="profile_namespace_individual">Individuāls</string>
+    <string name="profile_namespace_inherited">Mantots</string>
+    <string name="profile_selinux_context">SELinux konteksts</string>
+    <string name="profile_selinux_domain">Domēns</string>
+    <string name="profile_selinux_rules">Noteikumi</string>
+    <string name="profile_template">Veidne</string>
+    <string name="profile_umount_modules">Atvienot moduļus</string>
+    <string name="profile_umount_modules_disable">Disable custom uninstallation module</string>
+    <string name="profile_umount_modules_summary">Iespējojot šo opciju, KernelSU varēs atjaunot visus moduļos šīs lietojumprogrammas modificētos failus.</string>
+    <string msgid="5941395253238309765" name="range_end">"Diapazona beigas"</string>
+    <string msgid="7097486360902471446" name="range_start">"Diapazona sākums"</string>
+    <string name="reboot">Restartēt</string>
+    <string name="reboot_bootloader">Restartēt uz Bootloaderu</string>
+    <string name="reboot_complete_msg">Whether to reboot immediately？</string>
+    <string name="reboot_complete_title">Scrubbing complete</string>
+    <string name="reboot_download">Restartēt uz Download</string>
+    <string name="reboot_edl">Restartēt uz EDL</string>
+    <string name="reboot_recovery">Restartēt uz Recovery</string>
+    <string name="reboot_to_apply">Restartējiet, lai stātos spēkā</string>
+    <string name="reboot_userspace">Ātri restartēt</string>
+    <string name="refresh">Atjaunot</string>
+    <string name="reprovision">Reprovision</string>
+    <string name="requireNewVersion_cannot_load_webui">Nevar ielādēt WebUI</string>
+    <string name="requireNewVersion_refresh">Atsvaidzināt</string>
+    <string name="requireNewVersion_require_text">nepieciešams vismaz %1$s >=</string>
+    <string name="requireNewVersion_try_the_following">Izmēģiniet sekojošo:</string>
+    <string name="requireNewVersion_try_the_following_one">Atjauniniet %1$s uz jaunāko versiju Google veikalā vai lejupielādējot no GitHub izlaidumu vietnes.</string>
+    <string name="requireNewVersion_try_the_following_two">Lai atrastu iespējamo risinājumu, sazinieties ar moduļa izstrādātāju.</string>
+    <string formatted="false" name="require_kernel_version">The current KernelSU version %d is too low for the manager to work properly. Please upgrade to version %d or higher!</string>
+    <string name="restart_app">Restartēt aplikāciju</string>
+    <string name="restart_now">Restart Now</string>
+    <string name="restore">Restore</string>
+    <string name="restore_allowlist">Restore Allowlist</string>
+    <string name="restore_confirm_message">This operation will overwrite all existing modules. Continue?</string>
+    <string name="restore_confirm_title">Confirm Module Restoration</string>
+    <string name="restore_failed">Restore failed: %1$s</string>
+    <string name="restore_modules">restore modules</string>
+    <string name="restore_success">Modules restored successfully, restart required</string>
+    <string name="root_require_for_install">Requires root privileges</string>
+    <string name="root_required">Requires root privileges</string>
+    <string name="safe_mode">Drošais režīms</string>
+    <string name="save_log">Išsaugoti Žurnalus</string>
+    <string name="scd_list_dialog_max_choices" translatable="true">Izvēlieties ne vairāk kā %1$d opcijas.</string>
+    <string name="scd_list_dialog_min_choices" translatable="true">Izvēlieties vismaz %1$d opcijas</string>
+    <string name="scroll_to_bottom">Bottom</string>
+    <string name="scroll_to_bottom_description">Scroll to the bottom</string>
+    <string name="scroll_to_top">Top</string>
+    <string name="scroll_to_top_description">Scroll to top</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Meklēt"</string>
+    <string name="searchview_clear_text_content_description">Notīrīt tekstu</string>
+    <string name="searchview_navigation_content_description">Atpakaļ</string>
+    <string name="select">option</string>
+    <string name="select_file">Izvēlieties failu</string>
+    <string name="select_file_tip">Ieteicams %1$s nodalījuma attēls</string>
+    <string name="select_kmi">Izvēlieties KMI</string>
+    <string name="select_slot_description">Please select the target slot for flashing boot</string>
+    <string name="select_slot_title">Select Flash Slot</string>
+    <string name="selected">Selected</string>
+    <string name="selected_lkm">Izvēlētais lkm: %s</string>
+    <string name="selected_slot">Selected slot: %1$s</string>
+    <string name="selinux">SELinux</string>
+    <string name="selinux_change_failed">SELinux Status change failed</string>
+    <string name="selinux_disabled">Disabled</string>
+    <string name="selinux_disabled_toast">SELinux Disabled</string>
+    <string name="selinux_enabled">Enabled</string>
+    <string name="selinux_enabled_toast">SELinux Enabled</string>
+    <string name="selinux_status_disabled">Atspējots</string>
+    <string name="selinux_status_enforcing">Izpildīšana</string>
+    <string name="selinux_status_permissive">Visatļautība</string>
+    <string name="selinux_status_unknown">Nezināms</string>
+    <string name="send_log">Ziņot žurnālu</string>
+    <string name="settings">Iestatījumi</string>
+    <string name="settings_card_alpha">Navigation bar transparency</string>
+    <string name="settings_card_dim">Card Darkness Adjustment</string>
+    <string name="settings_check_update">Pārbaudīt atjauninājumus</string>
+    <string name="settings_check_update_summary">Automātiski pārbaudīt atjauninājumus atverot aplikāciju</string>
+    <string name="settings_custom_background">Custom App Background</string>
+    <string name="settings_custom_background_summary">Select an image as background</string>
+    <string name="settings_disable_su">Disable su compatibility</string>
+    <string name="settings_disable_su_summary">Temporarily disable any applications from obtaining root privileges via the ⁠su command (existing root processes will not be affected).</string>
+    <string name="settings_profile_template">Lietotnes profila veidne</string>
+    <string name="settings_profile_template_summary">Pārvaldiet vietējo un tiešsaistes lietotņu profila veidni</string>
+    <string name="settings_restore_default">Restore default</string>
+    <string name="settings_restore_stock_image">Atjaunot oriģinālo attēlu</string>
+    <string name="settings_restore_stock_image_message">Atjaunojot rūpnīcas attēlu (ja ir dublējums), ko parasti izmanto pirms OTA; ja nepieciešams atinstalēt KernelSU, lūdzu, izmantojiet \"Neatgriezeniski atinstalēt\".</string>
+    <string name="settings_susfs_toggle">Disable kprobe hooks</string>
+    <string name="settings_susfs_toggle_summary">Disable kprobe hooks created by KernelSU, using inline hooks instead, which is similar to non-GKI kernel hooking method.</string>
+    <string name="settings_umount_modules_default">Pēc noklusējuma atvienot moduļus</string>
+    <string name="settings_umount_modules_default_summary">Globālā noklusējuma vērtība vienumam “Atvienot moduļus” lietotņu profilos. Ja tas ir iespējots, lietojumprogrammām, kurām nav iestatīts profils, tiks noņemtas visas sistēmas moduļu modifikācijas.</string>
+    <string name="settings_uninstall">Atinstalēt</string>
+    <string name="settings_uninstall_permanent">Neatgriezeniski atinstalēt</string>
+    <string name="settings_uninstall_permanent_message">KernelSU (saknes un visu moduļu) pilnīga atinstalēšana.</string>
+    <string name="settings_uninstall_temporary">Pagaidu atinstalēšana</string>
+    <string name="settings_uninstall_temporary_message">Īslaicīgi atinstalēt KernelSU, pēc nākamās restartēšanas atjaunot sākotnējo stāvokli.</string>
+    <string name="show_kpm_info">Display KPM Function</string>
+    <string name="show_kpm_info_summary">Display KPM information and Function in home and bottom bar (Need to reopen the app)</string>
+    <string name="show_system_apps">Rādīt sistēmas lietotnes</string>
+    <string name="side_sheet_accessibility_pane_title">Sānu lapa</string>
+    <string name="simple_mode">Simplicity mode</string>
+    <string name="simple_mode_summary">Hides unnecessary cards when turned on</string>
+    <string name="slot_a">Slot A</string>
+    <string name="slot_b">Slot B</string>
+    <string name="snackbar_failed_to_check_module_file">Unable to check if module file exists</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"Brīdinājums"</string>
+    <string msgid="4139871816613051306" name="state_empty">"Tukšs"</string>
+    <string msgid="5834637030682409883" name="state_off">"Izslēgts"</string>
+    <string msgid="1490883874751719580" name="state_on">"Ieslēgts"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_not_supported">Not Supported</string>
+    <string name="status_supported">Supported</string>
+    <string name="status_unknown">Unknown</string>
+    <string name="su_not_allowed">Granting superuser to %s is not allowed</string>
+    <string name="superuser">SuperLietotājs</string>
+    <string name="supported">Supported</string>
+    <string name="sus_su_mode">SuS SU mode:</string>
+    <string name="susfs_disabled">SuSFS disabled</string>
+    <string name="susfs_enabled">SuSFS enabled</string>
+    <string msgid="2561197295334830845" name="switch_role">"Slēdzis"</string>
+    <string msgid="1672349317127674378" name="tab">"Cilne"</string>
+    <string msgid="5946805113151406391" name="template_percent">"Procenti: <ns1:g id="PERCENTAGE">%1$d</ns1:g>."</string>
+    <string name="theme_color">Theme Color</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_follow_system">Follow system</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_mode">Theme</string>
+    <string name="tool_version_log">Using the patching tool：%1$s</string>
+    <string name="tools">Tools</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"rīka padoms"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"rādīt rīka padomu"</string>
+    <string name="unauthorized">unauthorized</string>
+    <string name="uninstall">Atinstalēt</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="unknown_module">unknown module</string>
+    <string name="use_webuix">Select the WebUI engine to use</string>
+    <string name="use_webuix_eruda">Inject Eruda into WebUI X</string>
+    <string name="use_webuix_eruda_summary">Inject a debug console into WebUI X to make debugging easier. Requires web debugging to be on.</string>
+    <string name="using_mksu_manager">You are using the SukiSU Beta manager</string>
+    <string name="yes">Yes</string>
+</resources>

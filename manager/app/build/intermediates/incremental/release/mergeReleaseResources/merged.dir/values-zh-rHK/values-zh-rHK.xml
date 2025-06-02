@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d 個新通知</item>
+    <item quantity="other">%d 個新通知</item>
+  </plurals>
+    <string name="GKI_install_methods">正在刷寫AnyKernel3包</string>
+    <string name="Lkm_install_methods">LKM 修補/安裝</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"瀏覽主頁"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"向上瀏覽"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"更多選項"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"完成"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"選擇應用程式"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"關閉"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"開啟"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"刪除"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter 鍵"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"空白鍵"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"搜尋…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"清除查詢"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"搜尋查詢"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"搜尋"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"提交查詢"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"語音搜尋"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"分享對象"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"使用「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」分享"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"收合"</string>
+    <string name="about">關於</string>
+    <string name="about_source_code"><![CDATA[在 %1$s 查看源代碼<br/>加入我們的 %2$s 頻道]]></string>
+    <string name="action">行動</string>
+    <string name="advanced_settings">高級設置</string>
+    <string name="allowlist_backup_failed">授權列表備份失敗: %1$s</string>
+    <string name="allowlist_backup_success">授權列表備份成功</string>
+    <string name="allowlist_restore_confirm_message">此操作會覆蓋授權列表是否繼續？</string>
+    <string name="allowlist_restore_confirm_title">確定恢復授權列表</string>
+    <string name="allowlist_restore_failed">授權列表備份失敗: %1$s</string>
+    <string name="allowlist_restore_success">授權列表恢復成功</string>
+    <string name="app_dpi_summary">請調整當前應用的屏幕顯示密度</string>
+    <string name="app_dpi_title">應用DPI</string>
+    <string name="app_profile_export_to_clipboard">導出到剪貼板</string>
+    <string name="app_profile_import_export">匯出 / 匯入</string>
+    <string name="app_profile_import_from_clipboard">從剪貼簿匯入</string>
+    <string name="app_profile_template_create">創建模板</string>
+    <string name="app_profile_template_delete">刪除</string>
+    <string name="app_profile_template_description">描述</string>
+    <string name="app_profile_template_edit">編輯模板</string>
+    <string name="app_profile_template_export_empty">本地沒有模板可匯出！</string>
+    <string name="app_profile_template_id">模板 ID</string>
+    <string name="app_profile_template_id_exist">模板 ID 已存在！</string>
+    <string name="app_profile_template_id_invalid">模板 ID 無效</string>
+    <string name="app_profile_template_import_empty">剪貼簿沒有內容！</string>
+    <string name="app_profile_template_import_success">成功匯出</string>
+    <string name="app_profile_template_name">名字</string>
+    <string name="app_profile_template_readonly">只讀</string>
+    <string name="app_profile_template_save">儲存</string>
+    <string name="app_profile_template_save_failed">模板儲存失敗</string>
+    <string name="app_profile_template_sync">同步在線規則</string>
+    <string name="app_profile_template_view">查看模板</string>
+    <string name="app_settings">應用設置</string>
+    <string name="appearance_settings">自定義工具欄</string>
+    <string name="apps_with_custom_profile">應用已有特定配置</string>
+    <string name="apps_with_root">應用已擁有root權限</string>
+    <string name="authorized">已授權</string>
+    <string msgid="389117264260014992" name="autofill">"自動填入"</string>
+    <string name="back">返回</string>
+    <string name="background_image_error">加载图片失败</string>
+    <string name="background_removed">刪除背景</string>
+    <string name="background_set_success">背景設置成功</string>
+    <string name="backup">備份</string>
+    <string name="backup_allowlist">備份授權列表</string>
+    <string name="backup_failed">備份失敗: %1$s</string>
+    <string name="backup_modules">備份模塊</string>
+    <string name="backup_success">備份成功(tar.gz)</string>
+    <string name="batch_authorization">授權</string>
+    <string name="batch_cancel_authorization">撤銷</string>
+    <string name="bottomsheet_action_collapse">收合頁底面板</string>
+    <string name="bottomsheet_action_expand">展開頁底面板</string>
+    <string name="bottomsheet_action_expand_halfway">展開一半</string>
+    <string name="bottomsheet_drag_handle_clicked">㩒咗兩下拖曳控點</string>
+    <string name="bottomsheet_drag_handle_content_description">拖曳控點</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"接聽"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"視像"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"拒接"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"掛斷"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"來電"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"通話中"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"正在過濾來電"</string>
+    <string name="cancel">取消</string>
+    <string name="character_counter_content_description">已輸入 %1$d 個字元 (共 %2$d 個)</string>
+    <string name="character_counter_overflowed_content_description">超出字元限制 %1$d 個字元 (上限 %2$d 個字元)</string>
+    <string name="check_log">請檢查日志</string>
+    <string name="choose_theme_color">選擇主題顏色</string>
+    <string name="clear">清除</string>
+    <string name="clear_text_end_icon_content_description">清除文字</string>
+    <string name="close">關閉</string>
+    <string msgid="406453423630273620" name="close_drawer">"閂導覽選單"</string>
+    <string name="close_notice">關閉</string>
+    <string msgid="7573152094250666567" name="close_sheet">"閂表單"</string>
+    <string name="collapse">拉開</string>
+    <string name="color_default">藍色</string>
+    <string name="color_gray">棕色</string>
+    <string name="color_green">綠色</string>
+    <string name="color_orange">橙色</string>
+    <string name="color_pink">粉色</string>
+    <string name="color_purple">紫色</string>
+    <string name="color_yellow">黃色</string>
+    <string name="command_execution_failed">命令執行失敗: %1$s</string>
+    <string name="configuration">配置</string>
+    <string name="confirm">確定</string>
+    <string name="confirm_uninstall_confirm">卸载</string>
+    <string name="confirm_uninstall_content">將卸載以下 KPM: %s</string>
+    <string name="confirm_uninstall_dismiss">取消</string>
+    <string name="confirm_uninstall_title">安装配置失败</string>
+    <string name="confirm_uninstall_title_with_filename">卸载</string>
+    <string name="copy_failed">文件復制失敗</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"連結已複製到剪貼簿"</string>
+    <string name="current_slot">當前槽位：%1$s </string>
+    <string name="currently_selected">現在</string>
+    <string name="custom_settings">更多设置</string>
+    <string msgid="8038256446254964252" name="default_error_message">"輸入嘅資料無效"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"彈出式視窗"</string>
+    <string name="direct_install">直接安裝（建議）</string>
+    <string name="dpi_applied_success">DPI 已設定為 %1$d,在重新啟動應用程式後生效</string>
+    <string name="dpi_apply_settings">應用DPI設置</string>
+    <string name="dpi_confirm_message">你是想把應用的DPI從 %1$d 改到 %2$d 嗎?</string>
+    <string name="dpi_confirm_summary">應用需要重新啟動，以應用新的DPI設置, 不影響繫統狀態或其他應用程序</string>
+    <string name="dpi_confirm_title">確定修改DPI</string>
+    <string name="dpi_settings">DPI設置</string>
+    <string name="dpi_size_custom">自定義</string>
+    <string name="dpi_size_extra_large">超大</string>
+    <string name="dpi_size_large">大</string>
+    <string name="dpi_size_medium">中 </string>
+    <string name="dpi_size_small">小 </string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"下拉式選單"</string>
+    <string name="dynamic_color_summary">動態顏色跟隨繫統</string>
+    <string name="dynamic_color_title">動態顏色</string>
+    <string name="enable_web_debugging">啟用 WebView 偵錯</string>
+    <string name="enable_web_debugging_summary">可用於偵錯WebUI，請僅在需要時啟用。</string>
+    <string name="engine_auto_select">自動選擇</string>
+    <string name="engine_force_ksu">強制使用 KSU 的 WebUI</string>
+    <string name="engine_force_webuix">強制使用 WebUI X</string>
+    <string name="error_a11y_label">錯誤：冇效</string>
+    <string name="error_code">代碼錯誤</string>
+    <string name="error_icon_content_description">錯誤</string>
+    <string name="expand">處於活躍狀態</string>
+    <string name="exposed_dropdown_menu_content_description">顯示下拉式選單</string>
+    <string name="failed_reboot">重啟失敗</string>
+    <string name="failed_to_update_app_profile">無法更新 %s 應用程式設定檔</string>
+    <string name="failed_to_update_sepolicy">無法為 %s 更新 SELinux 規則</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"複製連結"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"在瀏覽器中開啟"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"分享連結"</string>
+    <string name="flash_failed">刷入失敗</string>
+    <string name="flash_failed_message">刷寫失敗</string>
+    <string name="flash_option">刷寫選項</string>
+    <string name="flash_option_tip">選擇刷寫文件</string>
+    <string name="flash_success">刷入成功</string>
+    <string name="flashing">刷入中</string>
+    <string formatted="false" name="force_stop_app">強制停止</string>
+    <string name="grant_root_failed">授予root權限失敗！</string>
+    <string name="hide_kernel_kernelsu_version">隱藏內核版本</string>
+    <string name="hide_kernel_kernelsu_version_summary">隱藏內核版本</string>
+    <string name="hide_link_card">隱藏鏈接卡片</string>
+    <string name="hide_link_card_summary">隱藏鏈接卡片信息</string>
+    <string name="hide_other_info">隱藏其他信息</string>
+    <string name="hide_other_info_summary">隱藏首頁上有關超級用戶、模組和KPM模組的數量資訊</string>
+    <string name="hide_susfs_status">隱藏 SuSFS 相關</string>
+    <string name="hide_susfs_status_summary">隱藏SuSFS 主頁的相關信息</string>
+    <string name="hide_system_apps">隱藏系統應用程式</string>
+    <string name="home">首頁</string>
+    <string name="home_ContributionCard_kernelsu">SukiSU Ultra未來展望</string>
+    <string name="home_android_version">安卓版本</string>
+    <string name="home_click_to_ContributionCard_kernelsu">SukiSU Ultra将来将成为一个相对独立嘅KSU分支, 但我們就会继续感谢KernelSU同MKSU等做出嘅贡献!</string>
+    <string name="home_click_to_install">按一下以安裝</string>
+    <string name="home_click_to_learn_kernelsu">瞭解如何安裝 KernelSU 以及如何開發模組</string>
+    <string name="home_device_model">設備</string>
+    <string name="home_fingerprint">指紋</string>
+    <string name="home_kernel">核心</string>
+    <string name="home_kpm_module">"KPM模块数量: %d "</string>
+    <string name="home_kpm_version">KPM版本</string>
+    <string name="home_learn_kernelsu">深入瞭解 KernelSU</string>
+    <string name="home_learn_kernelsu_url">https://kernelsu.org/zh_TW/guide/what-is-kernelsu.html</string>
+    <string name="home_manager_version">管理器版本</string>
+    <string name="home_module_count">已安裝模組：%d 個</string>
+    <string name="home_not_installed">未安裝</string>
+    <string name="home_selinux_status">SELinux 狀態</string>
+    <string name="home_superuser_count">超級使用者：%d 個</string>
+    <string name="home_support_content">KernelSU 將保持免費和開源，您可以考慮向開發人員贊助以表示支持。</string>
+    <string name="home_support_title">支援開發</string>
+    <string name="home_susfs">SuSFS: %s</string>
+    <string name="home_susfs_sus_su">SuSFS: %s</string>
+    <string name="home_susfs_version">SuSFS 版本</string>
+    <string name="home_unsupported">不支援</string>
+    <string name="home_unsupported_reason">KernelSU 現在僅支援 GKI 核心</string>
+    <string name="home_working">運作中</string>
+    <string name="home_working_version">KernelSU 版本：%d</string>
+    <string name="horizon_cleaning_files">正在清理文件…</string>
+    <string name="horizon_copy_failed">複製失敗</string>
+    <string name="horizon_copying_files">復制文件中…</string>
+    <string name="horizon_extracting_tool">提取刷寫工具中…</string>
+    <string name="horizon_flash_complete">刷寫完成</string>
+    <string name="horizon_flash_complete_status">刷寫完成</string>
+    <string name="horizon_flash_title">內核刷寫</string>
+    <string name="horizon_flashing">刷入內核…</string>
+    <string name="horizon_getting_original_slot">獲取原始槽位</string>
+    <string name="horizon_kernel">安裝 Anykernel3</string>
+    <string name="horizon_kernel_summary">刷寫 Anykernel3 內核文件</string>
+    <string name="horizon_logs_label">日志:</string>
+    <string name="horizon_patching_script">修補刷寫腳本中…</string>
+    <string name="horizon_preparing">準備中…</string>
+    <string name="horizon_restoring_original_slot">恢復原始槽位</string>
+    <string name="horizon_setting_target_slot">設定指定槽位</string>
+    <string name="horizon_unknown_error">未知錯誤</string>
+    <string name="icon_content_description">對話框圖示</string>
+    <string name="icon_switch_summary">將啟動器圖示變更為 KernelSU 圖示</string>
+    <string name="icon_switch_title">備選圖示</string>
+    <string name="icon_switched">圖示已切換</string>
+    <string name="image_editor_hint">使用兩只手指縮放圖像,用一只手指拖動圖像以調整位置</string>
+    <string name="image_editor_title">調整背景图片</string>
+    <string msgid="6827826412747255547" name="in_progress">"進行中"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"部分剔咗"</string>
+    <string name="install">安裝</string>
+    <string name="install_inactive_slot">安裝到非活動插槽（OTA 後）</string>
+    <string name="install_inactive_slot_warning">重新啟動後，您的裝置將強制啟動到目前非活動插槽！
+\n僅在 OTA 完成後使用此選項。
+\n繼續？</string>
+    <string name="install_next">下一個</string>
+    <string name="installing_module">正在安裝的模塊 %1$d/%2$d</string>
+    <string name="invalid_file_type">檔類型不正確!請選擇 .kpm 檔.</string>
+    <string name="item_view_role_description">分頁</string>
+    <string name="kernel_flashing">內核刷寫中</string>
+    <string name="kernel_module_notice">以下內核模組函數由 KernelPatch 開發並修改為包含 SukiSU Ultra 的內核模組函數</string>
+    <string name="kernel_not_enabled">內核仲未选项</string>
+    <string name="kernel_patched">內核仲未打布丁</string>
+    <string name="kernel_version_log">內核版本：%1$s</string>
+    <string name="kpm_args">參數</string>
+    <string name="kpm_author">作者</string>
+    <string name="kpm_control">執行</string>
+    <string name="kpm_control_failed">失败</string>
+    <string name="kpm_control_success">成功</string>
+    <string name="kpm_empty">暫無已安裝的內核模塊</string>
+    <string name="kpm_install">安裝</string>
+    <string name="kpm_install_failed">加載KPM模塊失敗</string>
+    <string name="kpm_install_mode">KPM 安装</string>
+    <string name="kpm_install_mode_description">請选择: %1\$s 模組安装方式 \n\n加载: 臨時載入模組 \n己嵌入: 永久安装都系統</string>
+    <string name="kpm_install_mode_embed">嵌入</string>
+    <string name="kpm_install_mode_load">加载</string>
+    <string name="kpm_install_success">加載KPM模塊成功</string>
+    <string name="kpm_invalid_file">无效嘅kpm文件</string>
+    <string name="kpm_title">KPM</string>
+    <string name="kpm_uninstall">卸載</string>
+    <string name="kpm_uninstall_failed">卸載失敗</string>
+    <string name="kpm_uninstall_success">卸載成功</string>
+    <string name="kpm_version">版本</string>
+    <string name="language_changed">應用的語言改變,正在重啟應用</string>
+    <string name="language_follow_system">遵循繫統</string>
+    <string name="language_setting">應用語言</string>
+    <string name="launch_app">啟動</string>
+    <string name="log_failed_to_check_module_file">无法检查模組是否存在</string>
+    <string name="log_saved">日志己存儲</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"收合頁底面板"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"關閉頁底面板"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"拖曳控點"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"展開頁底面板"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"頁底面板"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"已輸入的日期"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"已輸入的日期：%1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"日期格式不符：%1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"不允許的日期：%1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"日期超出預期的年份範圍：%1$s - %2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"日期"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"無"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"選取日期"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"所選日期"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"目前選項：%1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"前往 %1$s 年"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"無"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"碌去顯示舊啲嘅年份"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"碌去顯示新啲嘅年份"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"切換至日曆輸入模式"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"滑動可選取年分，或可輕按返回選取日期"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"切換至文字輸入模式"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"變更至下個月"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"變更至上個月"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"切換為選取年份"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"選取日期"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"今天"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"顯示年分挑選器"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"輸入的日期範圍無效"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"輸入日期"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"喺指定日期範圍內"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"結束日期"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"碌去顯示下一個月"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"碌去顯示上一個月"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"開始日期"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"選取日期"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"對話框"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"已收合"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"已展開"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"切換下拉式選單"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"搜尋"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"關閉"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"建議如下"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"上午"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"小時"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d 點"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"選取小時"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d 點"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"小時"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"分鐘"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"選取分鐘"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d 分鐘"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"分鐘"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"選取上午或下午"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"下午"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"顯示提示"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"提示"</string>
+    <string name="manual_hook">手動鉤子</string>
+    <string name="material_clock_toggle_content_description">選擇上午或下午</string>
+    <string name="material_hour_24h_suffix">%1$s 個鐘</string>
+    <string name="material_hour_selection">選取時段</string>
+    <string name="material_hour_suffix">%1$s 點</string>
+    <string name="material_minute_selection">選取分鐘</string>
+    <string name="material_minute_suffix">%1$s 分</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">切換至時鐘模式即可輸入時間。</string>
+    <string name="material_timepicker_hour">小時</string>
+    <string name="material_timepicker_minute">分鐘</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">選取時間</string>
+    <string name="material_timepicker_text_input_mode_description">切換至文字輸入模式即可輸入時間。</string>
+    <string msgid="2792228137354697160" name="mc2_snackbar_pane_title">"警示"</string>
+    <string name="module">模組</string>
+    <string name="module_author">作者</string>
+    <string name="module_changelog">變更記錄</string>
+    <string name="module_changelog_failed">獲取更新日誌失敗：%s</string>
+    <string name="module_download_error">模塊下載失敗</string>
+    <string name="module_downloading">正在下載模組：%s</string>
+    <string name="module_empty">尚未安裝模組</string>
+    <string name="module_failed_count">%d 安裝新模塊失敗</string>
+    <string name="module_failed_to_disable">無法停用模組：%s</string>
+    <string name="module_failed_to_enable">無法啟用模組：%s</string>
+    <string name="module_install">安裝</string>
+    <string name="module_install_confirm">確定安裝模組 %1$s？</string>
+    <string name="module_install_multiple_confirm">你確定你想要選擇安裝 %d 模塊嗎？</string>
+    <string name="module_install_multiple_confirm_with_names">確定要安裝以下 %1$d 個模塊嗎？\n\n%2$s</string>
+    <string name="module_magisk_conflict">模組已停用，因其與 Magisk 的模組存在衝突！</string>
+    <string name="module_sort_action_first">排序(活躍優先)</string>
+    <string name="module_sort_enabled_first">排序(已啟用優先)</string>
+    <string name="module_start_downloading">開始下載：%s</string>
+    <string name="module_uninstall_confirm">您確定要解除安裝模組「%s」嗎？</string>
+    <string name="module_uninstall_failed">無法解除安裝：%s</string>
+    <string name="module_uninstall_success">「%s」已解除安裝</string>
+    <string name="module_update">更新</string>
+    <string name="module_version">版本</string>
+    <string name="more_settings">更多設置</string>
+    <string name="mtrl_badge_numberless_content_description">新通知</string>
+    <string name="mtrl_checkbox_state_description_checked">已勾選</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">已勾選部分</string>
+    <string name="mtrl_checkbox_state_description_unchecked">未勾選</string>
+    <string name="mtrl_chip_close_icon_content_description">移除「%1$s」</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">超過 %1$d 則新通知</string>
+    <string name="mtrl_picker_a11y_next_month">變更為下個月</string>
+    <string name="mtrl_picker_a11y_prev_month">變更為上個月</string>
+    <string name="mtrl_picker_announce_current_range_selection">開始日期選項：%1$s – 結束日期選項：%2$s</string>
+    <string name="mtrl_picker_announce_current_selection">目前選取：%1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">冇</string>
+    <string name="mtrl_picker_cancel">取消</string>
+    <string name="mtrl_picker_confirm">確定</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">請選擇日期</string>
+    <string name="mtrl_picker_date_header_unselected">所選日期</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">結束日期係 %1$s</string>
+    <string name="mtrl_picker_invalid_format">格式無效。</string>
+    <string name="mtrl_picker_invalid_format_example">例如：%1$s</string>
+    <string name="mtrl_picker_invalid_format_use">使用：%1$s</string>
+    <string name="mtrl_picker_invalid_range">範圍無效。</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">去今個年度 %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">瀏覽至 %1$d 年</string>
+    <string name="mtrl_picker_out_of_range">超出範圍：%1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">開始日期 – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – 結束日期</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">請選擇範圍</string>
+    <string name="mtrl_picker_range_header_unselected">開始日期 – 結束日期</string>
+    <string name="mtrl_picker_save">儲存</string>
+    <string name="mtrl_picker_start_date_description">開始日期係 %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">日期</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">結束日期</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">開始日期</string>
+    <string name="mtrl_picker_text_input_day_abbr">日</string>
+    <string name="mtrl_picker_text_input_month_abbr">月</string>
+    <string name="mtrl_picker_text_input_year_abbr">年</string>
+    <string name="mtrl_picker_today_description">今日 %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">切換至日曆輸入模式</string>
+    <string name="mtrl_picker_toggle_to_day_selection">㩒一下就可以切換去日曆檢視模式</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">切換至文字輸入模式</string>
+    <string name="mtrl_picker_toggle_to_year_selection">㩒一下就可以切換去按年檢視模式</string>
+    <string name="mtrl_timepicker_cancel">取消</string>
+    <string name="mtrl_timepicker_confirm">確定</string>
+    <string msgid="542007171693138492" name="navigation_menu">"導覽選單"</string>
+    <string name="new_version_available">新版本：%s 已可供使用，按一下以升級</string>
+    <string name="no">否</string>
+    <string name="no_apps_found">未找到應用</string>
+    <string msgid="6610465462668679431" name="not_selected">"未揀"</string>
+    <string name="not_supported">未支持</string>
+    <string name="open">打開</string>
+    <string name="other_apps">應用未修改</string>
+    <string name="password_toggle_content_description">顯示密碼</string>
+    <string name="profile_capabilities">功能</string>
+    <string name="profile_custom">自訂</string>
+    <string name="profile_default">預設</string>
+    <string name="profile_groups">群組</string>
+    <string name="profile_name">設定檔名稱</string>
+    <string name="profile_namespace">掛載命名空間</string>
+    <string name="profile_namespace_global">全域</string>
+    <string name="profile_namespace_individual">個人</string>
+    <string name="profile_namespace_inherited">繼承</string>
+    <string name="profile_selinux_context">SELinux 環境</string>
+    <string name="profile_selinux_domain">網域</string>
+    <string name="profile_selinux_rules">規則</string>
+    <string name="profile_template">範本</string>
+    <string name="profile_umount_modules">卸載模組</string>
+    <string name="profile_umount_modules_disable">禁用自定義卸載模組</string>
+    <string name="profile_umount_modules_summary">啟用此選項將允許 KernelSU 為這個應用程式還原任何被模組修改過的檔案。</string>
+    <string msgid="5941395253238309765" name="range_end">"範圍結束"</string>
+    <string msgid="7097486360902471446" name="range_start">"範圍開始"</string>
+    <string name="reboot">重新啟動</string>
+    <string name="reboot_bootloader">重新啟動至 Bootloader</string>
+    <string name="reboot_complete_msg">是否立即重啟？</string>
+    <string name="reboot_complete_title">清理完成</string>
+    <string name="reboot_download">重新啟動至 Download</string>
+    <string name="reboot_edl">重新啟動至 EDL</string>
+    <string name="reboot_recovery">重新啟動至 Recovery</string>
+    <string name="reboot_to_apply">重新啟動以生效</string>
+    <string name="reboot_userspace">軟啟動</string>
+    <string name="refresh">重新整理</string>
+    <string name="reprovision">重新配置</string>
+    <string formatted="false" name="require_kernel_version">目前 KernelSU 版本 %d 過低，管理器無法正常運作。請升級至 %d 或更高版本！</string>
+    <string name="restart_app">重新啟動</string>
+    <string name="restart_now">立即恢復</string>
+    <string name="restore">恢復</string>
+    <string name="restore_allowlist">恢復授權列表</string>
+    <string name="restore_confirm_message">此操作將覆蓋所有模塊，確定繼續嗎？</string>
+    <string name="restore_confirm_title">確認恢復模塊</string>
+    <string name="restore_failed">恢復失敗: %1$s</string>
+    <string name="restore_modules">恢復模塊</string>
+    <string name="restore_success">模塊恢復成功，請重新恢復設備</string>
+    <string name="root_require_for_install">需要root權限</string>
+    <string name="root_required">需要root權限</string>
+    <string name="safe_mode">安全模式</string>
+    <string name="save_log">保存日志</string>
+    <string name="scroll_to_bottom">底部</string>
+    <string name="scroll_to_bottom_description">返回底部</string>
+    <string name="scroll_to_top">頂部</string>
+    <string name="scroll_to_top_description">回到置頂</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"搜尋"</string>
+    <string name="searchview_clear_text_content_description">清除文字</string>
+    <string name="searchview_navigation_content_description">返回</string>
+    <string name="select">選項</string>
+    <string name="select_file">選擇一個文件</string>
+    <string name="select_file_tip">建議使用 %1$s 分割區映像</string>
+    <string name="select_kmi">選擇KMI</string>
+    <string name="select_slot_description">選擇目標槽位以刷寫內核</string>
+    <string name="select_slot_title">選擇刷寫槽</string>
+    <string name="selected">已選擇</string>
+    <string name="selected_lkm">選擇 LKM: %s</string>
+    <string name="selected_slot">選擇槽位: %1$s</string>
+    <string name="selinux">SELinux</string>
+    <string name="selinux_change_failed">SELinux模式改變失敗</string>
+    <string name="selinux_disabled">寬容模式</string>
+    <string name="selinux_disabled_toast">寬容模式</string>
+    <string name="selinux_enabled">嚴格模式</string>
+    <string name="selinux_enabled_toast">嚴格模式</string>
+    <string name="selinux_status_disabled">已停用</string>
+    <string name="selinux_status_enforcing">強制</string>
+    <string name="selinux_status_permissive">寬鬆</string>
+    <string name="selinux_status_unknown">未知</string>
+    <string name="send_log">傳送記錄</string>
+    <string name="settings">設定</string>
+    <string name="settings_card_alpha">導航欄透明度</string>
+    <string name="settings_card_dim">卡片明暗度調整</string>
+    <string name="settings_check_update">檢查更新</string>
+    <string name="settings_check_update_summary">開啟應用程式時自動檢查更新</string>
+    <string name="settings_custom_background">設定應用背景</string>
+    <string name="settings_custom_background_summary">選擇一張圖片作為背景</string>
+    <string name="settings_disable_su">禁用su兼容性</string>
+    <string name="settings_disable_su_summary">禁止任何應用通過su獲取root權限(現在正在使用root的應用進程不受影響)。</string>
+    <string name="settings_profile_template">App Profile 模板</string>
+    <string name="settings_profile_template_summary">管理本地和線上的 App Profile 模板</string>
+    <string name="settings_restore_default">重置到默認</string>
+    <string name="settings_restore_stock_image">恢復鏡像</string>
+    <string name="settings_restore_stock_image_message">恢復原廠鏡像(如果有備份),通常在ota之前使用;如果你需要卸載KernelSU, 請使用徹底\"卸載\"。</string>
+    <string name="settings_susfs_toggle">關閉kprobe鉤子</string>
+    <string name="settings_susfs_toggle_summary">關閉KernelSU的kprobe鉤子,改用inline鉤子,這類似於非 GKI 內核鉤子方法.</string>
+    <string name="settings_umount_modules_default">預設解除安裝模組</string>
+    <string name="settings_umount_modules_default_summary">應用程式設定檔中「解除安裝模組」的全域預設值，如果啟用，將會為沒有設定檔的應用程式移除所有模組針對系統的修改。</string>
+    <string name="settings_uninstall">解除安裝</string>
+    <string name="settings_uninstall_permanent">永久卸載</string>
+    <string name="settings_uninstall_permanent_message">徹底卸載KernelSU(Root和所有模組)。</string>
+    <string name="settings_uninstall_temporary">暫時卸載</string>
+    <string name="settings_uninstall_temporary_message">永久卸載KernelSU, 重啟後將恢復到初始狀態.</string>
+    <string name="show_kpm_info">顯示KPM功能</string>
+    <string name="show_kpm_info_summary">顯示KPM功能和信息在主頁和工具欄(需要重新打開應用)</string>
+    <string name="show_system_apps">顯示系統應用程式</string>
+    <string name="side_sheet_accessibility_pane_title">側邊工作表</string>
+    <string name="simple_mode">簡單模式</string>
+    <string name="simple_mode_summary">開啟隱藏不必要卡片</string>
+    <string name="slot_a">槽位 A</string>
+    <string name="slot_b">槽位 B</string>
+    <string name="snackbar_failed_to_check_module_file">無法檢查模組檔是否存在</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"警示"</string>
+    <string msgid="4139871816613051306" name="state_empty">"空白"</string>
+    <string msgid="5834637030682409883" name="state_off">"閂"</string>
+    <string msgid="1490883874751719580" name="state_on">"開"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_not_supported">未支持</string>
+    <string name="status_supported">已支持</string>
+    <string name="status_unknown">未知</string>
+    <string name="su_not_allowed">不允許授予 %s 超級用戶權限</string>
+    <string name="superuser">超級使用者</string>
+    <string name="supported">己支持</string>
+    <string name="sus_su_mode">SuS SU 模組：</string>
+    <string name="susfs_disabled">SuSFS 未啟用</string>
+    <string name="susfs_enabled">SuSFS 已啟用</string>
+    <string msgid="2561197295334830845" name="switch_role">"按鈕裝置"</string>
+    <string msgid="1672349317127674378" name="tab">"分頁"</string>
+    <string msgid="5946805113151406391" name="template_percent">"百分之 <ns1:g id="PERCENTAGE">%1$d</ns1:g>。"</string>
+    <string name="theme_color">主题颜色</string>
+    <string name="theme_dark">深色</string>
+    <string name="theme_follow_system">跟隨繫統</string>
+    <string name="theme_light">明亮</string>
+    <string name="theme_mode">主題</string>
+    <string name="tool_version_log">使用補丁工具：%1$s</string>
+    <string name="tools">工具</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"提示"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"顯示提示"</string>
+    <string name="unauthorized">未授權</string>
+    <string name="uninstall">解除安裝</string>
+    <string name="unknown_error">未知錯誤</string>
+    <string name="unknown_module">未知模組</string>
+    <string name="use_webuix">選擇使用的 WebUI 引擎</string>
+    <string name="use_webuix_eruda">將 Eruda 注入 WebUI X</string>
+    <string name="use_webuix_eruda_summary">在 WebUI X 中注入調試控制臺,使調用更容易,需要啟用 WebView 調試</string>
+    <string name="using_mksu_manager">你正在使用Sukisu測試版管理器</string>
+    <string name="yes">是</string>
+</resources>

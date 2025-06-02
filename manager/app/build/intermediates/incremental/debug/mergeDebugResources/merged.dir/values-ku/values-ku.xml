@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">لابردنەوە</string>
+    <string name="ok">باشە</string>
+    <string name="scd_list_dialog_max_choices" translatable="true">هەڵبژاردنی %1$d هەڵبژارد بۆ دیاربکاتەوە</string>
+    <string name="scd_list_dialog_min_choices" translatable="true">تکایە کمێک لە %1$d هەڵبژێرە</string>
+</resources>

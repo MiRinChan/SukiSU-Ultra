@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/mirin/SukiSU-Ultra/manager/app/.cxx/Release/1t1g6y72/armeabi-v7a",
+  "command": "/home/mirin/Android/Sdk/ndk/28.0.13004108/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi26 --sysroot=/home/mirin/Android/Sdk/ndk/28.0.13004108/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dzako_EXPORTS -isystem /home/mirin/.gradle/caches/8.12.1/transforms/bdb59e250da252941f77b7f21331fcf1/transformed/libcxx-27.0.12077973/prefab/modules/cxx/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -nostdinc++ -std=c++2b -Wall -Qunused-arguments -fno-rtti -fvisibility=hidden -fvisibility-inlines-hidden -fno-exceptions -fno-stack-protector -fomit-frame-pointer -Wno-builtin-macro-redefined -Wno-unused-value -D__FILE__=__FILE_NAME__ -flto -ffunction-sections -fdata-sections -Wl,--gc-sections -fno-unwind-tables -fno-asynchronous-unwind-tables -Wl,--exclude-libs,ALL -O3 -DNDEBUG -Oz -DNDEBUG -fPIC -o CMakeFiles/zako.dir/jni.cc.o -c /home/mirin/SukiSU-Ultra/manager/app/src/main/cpp/jni.cc",
+  "file": "/home/mirin/SukiSU-Ultra/manager/app/src/main/cpp/jni.cc"
+},
+{
+  "directory": "/home/mirin/SukiSU-Ultra/manager/app/.cxx/Release/1t1g6y72/armeabi-v7a",
+  "command": "/home/mirin/Android/Sdk/ndk/28.0.13004108/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi26 --sysroot=/home/mirin/Android/Sdk/ndk/28.0.13004108/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dzako_EXPORTS -isystem /home/mirin/.gradle/caches/8.12.1/transforms/bdb59e250da252941f77b7f21331fcf1/transformed/libcxx-27.0.12077973/prefab/modules/cxx/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -nostdinc++ -std=c++2b -Wall -Qunused-arguments -fno-rtti -fvisibility=hidden -fvisibility-inlines-hidden -fno-exceptions -fno-stack-protector -fomit-frame-pointer -Wno-builtin-macro-redefined -Wno-unused-value -D__FILE__=__FILE_NAME__ -flto -ffunction-sections -fdata-sections -Wl,--gc-sections -fno-unwind-tables -fno-asynchronous-unwind-tables -Wl,--exclude-libs,ALL -O3 -DNDEBUG -Oz -DNDEBUG -fPIC -o CMakeFiles/zako.dir/ksu.cc.o -c /home/mirin/SukiSU-Ultra/manager/app/src/main/cpp/ksu.cc",
+  "file": "/home/mirin/SukiSU-Ultra/manager/app/src/main/cpp/ksu.cc"
+}
+]

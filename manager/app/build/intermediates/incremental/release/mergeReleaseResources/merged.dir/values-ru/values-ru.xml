@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d новое уведомление</item>
+    <item quantity="few">%d новых уведомления</item>
+    <item quantity="many">%d новых уведомлений</item>
+    <item quantity="other">%d нового уведомления</item>
+  </plurals>
+    <string name="GKI_install_methods">Прошить AnyKernel3</string>
+    <string name="Lkm_install_methods">Ремонт/установка LKM</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Ещё"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Выберите приложение"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ВЫКЛ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ВКЛ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Ввод"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Пробел"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Меню +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Введите запрос"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Поделиться с помощью"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Поделиться с помощью <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="about">О приложении</string>
+    <string name="about_source_code"><![CDATA[Просмотреть исходный код на %1$s<br/>Присоединяйтесь к нашему %2$s каналу]]></string>
+    <string name="action">Действие</string>
+    <string name="advanced_settings">Расширенные настройки</string>
+    <string name="allowlist_backup_failed">Ошибка резервного копирования списка: %1$s</string>
+    <string name="allowlist_backup_success">Резервное копирование успешно завершено</string>
+    <string name="allowlist_restore_confirm_message">Эта операция перезапишет текущий список разрешений. Продолжить?</string>
+    <string name="allowlist_restore_confirm_title">Подтвердите восстановление списка</string>
+    <string name="allowlist_restore_failed">Не удалось восстановить список: %1$s</string>
+    <string name="allowlist_restore_success">Список успешно восстановлен</string>
+    <string name="app_dpi_summary">Регулировка плотности экрана только для текущего приложения</string>
+    <string name="app_dpi_title">Изменить DPI</string>
+    <string name="app_profile_export_to_clipboard">Экспортировать в буфер обмена</string>
+    <string name="app_profile_import_export">Импорт/Экспорт</string>
+    <string name="app_profile_import_from_clipboard">Импортировать из буфера обмена</string>
+    <string name="app_profile_template_create">Создать шаблон</string>
+    <string name="app_profile_template_delete">Удалить</string>
+    <string name="app_profile_template_description">Описание</string>
+    <string name="app_profile_template_edit">Редактирование шаблона</string>
+    <string name="app_profile_template_export_empty">Нет локальных шаблонов для экспорта!</string>
+    <string name="app_profile_template_id">Идентификационный номер</string>
+    <string name="app_profile_template_id_exist">Шаблон с таким ID уже существует!</string>
+    <string name="app_profile_template_id_invalid">Неверный ID шаблона</string>
+    <string name="app_profile_template_import_empty">Буфер обмена пуст!</string>
+    <string name="app_profile_template_import_success">Успешный импорт</string>
+    <string name="app_profile_template_name">Название</string>
+    <string name="app_profile_template_readonly">Только чтение</string>
+    <string name="app_profile_template_save">Сохранить</string>
+    <string name="app_profile_template_save_failed">Не удалось сохранить шаблон</string>
+    <string name="app_profile_template_sync">Синхронизировать онлайн-шаблоны</string>
+    <string name="app_profile_template_view">Просмотр шаблона</string>
+    <string name="app_settings">Настройки приложения</string>
+    <string name="appearance_settings">Настройка панели инструментов.</string>
+    <string name="apps_with_custom_profile">Приложения с настроенными конфигурациями</string>
+    <string name="apps_with_root">Приложения с привилегиями root</string>
+    <string name="authorized">авторизован</string>
+    <string msgid="389117264260014992" name="autofill">"Заполнить автоматически"</string>
+    <string name="back">Возвращение</string>
+    <string name="background_image_error">Не удалось загрузить изображение</string>
+    <string name="background_removed">Удалить свой фон</string>
+    <string name="background_set_success">Фон успешно установлен</string>
+    <string name="backup">Резервное копирование</string>
+    <string name="backup_allowlist">Резервное копирование списка</string>
+    <string name="backup_failed">Ошибка резервного копирования: %1$s</string>
+    <string name="backup_modules">Резервное копирование модулей</string>
+    <string name="backup_success">Успешная резервная копия (tar.gz)</string>
+    <string name="batch_authorization">расширить власть</string>
+    <string name="batch_cancel_authorization">расход</string>
+    <string name="bottomsheet_action_collapse">Свернуть нижний экран</string>
+    <string name="bottomsheet_action_expand">Развернуть нижний экран</string>
+    <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
+    <string name="bottomsheet_drag_handle_clicked">Двойное нажатие на маркер перемещения</string>
+    <string name="bottomsheet_drag_handle_content_description">Маркер перемещения</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Ответить"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Видео"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Отклонить"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Завершить"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Входящий вызов"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Текущий вызов"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Фильтрация входящего вызова"</string>
+    <string name="cancel">Отмена</string>
+    <string name="character_counter_content_description">Введено символов: %1$d из %2$d</string>
+    <string name="character_counter_overflowed_content_description">Превышено ограничение на количество символов (%1$d из %2$d)</string>
+    <string name="check_log">Пожалуйста, проверьте журнал</string>
+    <string name="choose_theme_color">Выберите цвет темы</string>
+    <string name="clear">Удаление</string>
+    <string name="clear_text_end_icon_content_description">Очистить текстовое поле</string>
+    <string name="close">Закрыть</string>
+    <string msgid="406453423630273620" name="close_drawer">"Закрыть меню навигации"</string>
+    <string name="close_notice">Закрыть</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Закрыть лист"</string>
+    <string name="collapse">Свернуть</string>
+    <string name="color_default">Синий</string>
+    <string name="color_gray">Серый</string>
+    <string name="color_green">Зеленый</string>
+    <string name="color_orange">Оранжевый</string>
+    <string name="color_pink">Розовый</string>
+    <string name="color_purple">Фиолетовый</string>
+    <string name="color_yellow">Желтый</string>
+    <string name="command_execution_failed">Выполнение команды не удалось: %1$s</string>
+    <string name="configuration">Настройка</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="confirm_uninstall_confirm">Удалить</string>
+    <string name="confirm_uninstall_content">Следующие KPM будут удалены: %s</string>
+    <string name="confirm_uninstall_dismiss">Отмена</string>
+    <string name="confirm_uninstall_title">Подтверждение удаления</string>
+    <string name="confirm_uninstall_title_with_filename">Удалить</string>
+    <string name="copy_failed">Ошибка копирования файла</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Ссылка скопирована в буфер обмена."</string>
+    <string name="current_slot">Текущий слот：%1$s </string>
+    <string name="currently_selected">В данный момент</string>
+    <string name="custom_settings">Другие уровни доступа</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Неправильный ввод"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Всплывающее окно"</string>
+    <string name="direct_install">Прямая установка (Рекомендуется)</string>
+    <string name="dpi_applied_success">DPI был установлен в %1$d, действующий после перезапуска приложения</string>
+    <string name="dpi_apply_settings">Применить настройки DPI</string>
+    <string name="dpi_confirm_message">Вы уверены, что хотите изменить DPI приложения с %1$d на %2$d?</string>
+    <string name="dpi_confirm_summary">Приложение должно быть перезапущено, чтобы применить новые настройки DPI, не влияет на системную строку состояния или другие приложения</string>
+    <string name="dpi_confirm_title">Подтвердите изменение DPI</string>
+    <string name="dpi_settings">Настройка DPI</string>
+    <string name="dpi_size_custom">настраиваемый</string>
+    <string name="dpi_size_extra_large"> огромный</string>
+    <string name="dpi_size_large">большой</string>
+    <string name="dpi_size_medium">средний</string>
+    <string name="dpi_size_small">маленький</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Раскрывающееся меню"</string>
+    <string name="dynamic_color_summary">Динамические цвета с использованием системных тем</string>
+    <string name="dynamic_color_title">Динамический цвет</string>
+    <string name="enable_web_debugging">Включить отладку WebView</string>
+    <string name="enable_web_debugging_summary">Используется для отладки WebUI. Пожалуйста, включайте только при необходимости.</string>
+    <string name="engine_auto_select">Автовыбор</string>
+    <string name="engine_force_ksu">KSU WebUI</string>
+    <string name="engine_force_webuix">WebUI X</string>
+    <string name="error_a11y_label">Ошибка: недопустимое значение</string>
+    <string name="error_code">код ошибки</string>
+    <string name="error_icon_content_description">Ошибка</string>
+    <string name="expand">Будьте в полном шаге</string>
+    <string name="exposed_dropdown_menu_content_description">Показать раскрывающееся меню</string>
+    <string name="failed_reboot">Не удалось перезагрузиться</string>
+    <string name="failed_to_update_app_profile">Не удалось обновить App Profile для %s</string>
+    <string name="failed_to_update_sepolicy">Не удалось обновить правила SELinux для %s</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Копировать ссылку"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Открыть в браузере"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Отправить ссылку"</string>
+    <string name="flash_failed">Установка не выполнена</string>
+    <string name="flash_failed_message">Установка не выполнена</string>
+    <string name="flash_option">Параметры прошивки</string>
+    <string name="flash_option_tip">Выберите файл для прошивки</string>
+    <string name="flash_success">Установка выполнена</string>
+    <string name="flashing">Установка</string>
+    <string formatted="false" name="force_stop_app">Остановить принудительно</string>
+    <string name="grant_root_failed">Не удалось выдать root!</string>
+    <string name="hide_kernel_kernelsu_version">Скрыть версию ядра</string>
+    <string name="hide_kernel_kernelsu_version_summary">Скрыть версию ядра</string>
+    <string name="hide_link_card">Скрыть статус карточки ссылки</string>
+    <string name="hide_link_card_summary">Скрыть информацию о карте ссылки на главной странице</string>
+    <string name="hide_other_info">Скрыть другую информацию</string>
+    <string name="hide_other_info_summary">Скрывает информацию о количестве суперпользователей, модулей и KPM-модулей на домашней странице</string>
+    <string name="hide_susfs_status">Скрыть статус SuSFS</string>
+    <string name="hide_susfs_status_summary">Скрыть информацию о статусе SuSFS на главной странице</string>
+    <string name="hide_system_apps">Скрыть системные приложения</string>
+    <string name="home">Главная</string>
+    <string name="home_ContributionCard_kernelsu">Будущее SukiSU Ultra</string>
+    <string name="home_android_version">Версия Android</string>
+    <string name="home_click_to_ContributionCard_kernelsu">В будущем SukiSU Ultra будет относительно независимым ответвлением KSU, но мы по-прежнему ценим официальный KernelSU и MKSU и т.д. за их вклад!</string>
+    <string name="home_click_to_install">Нажмите, чтобы установить</string>
+    <string name="home_click_to_learn_kernelsu">Узнайте, как установить KernelSU и использовать модули</string>
+    <string name="home_device_model">Модель устройства</string>
+    <string name="home_fingerprint">Подпись</string>
+    <string name="home_kernel">Ядро</string>
+    <string name="home_kpm_module">"Количество KPM-модулей: %d "</string>
+    <string name="home_kpm_version">Версия KPM</string>
+    <string name="home_learn_kernelsu">Узнайте о KernelSU</string>
+    <string name="home_learn_kernelsu_url">https://kernelsu.org/ru_RU/guide/what-is-kernelsu.html</string>
+    <string name="home_manager_version">Версия менеджера</string>
+    <string name="home_module_count">Модули: %d</string>
+    <string name="home_not_installed">Не установлен</string>
+    <string name="home_selinux_status">Состояние SELinux</string>
+    <string name="home_superuser_count">Суперпользователи: %d</string>
+    <string name="home_support_content">KernelSU был и всегда будет бесплатным и открытым проектом. Однако Вы всегда можете поддержать нас, отправив небольшое пожертвование.</string>
+    <string name="home_support_title">Поддержите нас</string>
+    <string name="home_susfs">SuSFS: %s</string>
+    <string name="home_susfs_sus_su">SuS SU</string>
+    <string name="home_susfs_version">Версия SuSFS</string>
+    <string name="home_unsupported">Не поддерживается</string>
+    <string name="home_unsupported_reason">Драйвера KernelSU не найдены в ядре, не то ядро?</string>
+    <string name="home_working">Работает</string>
+    <string name="home_working_version">Версия: %d</string>
+    <string name="horizon_cleaning_files">Очистка файлов…</string>
+    <string name="horizon_copy_failed">Копирование не удалось</string>
+    <string name="horizon_copying_files">Копирование файлов…</string>
+    <string name="horizon_extracting_tool">Извлечение флэш инструмента…</string>
+    <string name="horizon_flash_complete">Вспышка завершена</string>
+    <string name="horizon_flash_complete_status">Прошивка завершена</string>
+    <string name="horizon_flash_title">Мигание ядра</string>
+    <string name="horizon_flashing">Прошивка ядра…</string>
+    <string name="horizon_getting_original_slot">Получение оригинальной ячейки</string>
+    <string name="horizon_kernel">Install Anykernel3</string>
+    <string name="horizon_kernel_summary">Файл ядра Flash AnyKernel3</string>
+    <string name="horizon_logs_label">Логи:</string>
+    <string name="horizon_patching_script">Изменение флэш-скрипта…</string>
+    <string name="horizon_preparing">Подготовка…</string>
+    <string name="horizon_restoring_original_slot">Восстановить</string>
+    <string name="horizon_setting_target_slot">Установка указанного слота</string>
+    <string name="horizon_unknown_error">Неизвестная ошибка</string>
+    <string name="icon_content_description">Значок диалогового окна</string>
+    <string name="image_editor_hint">Используйте два пальца для увеличения изображения, и один палец для изменения положения</string>
+    <string name="image_editor_title">Настроить фоновое изображение</string>
+    <string msgid="6827826412747255547" name="in_progress">"Выполняется"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Отмечено частично"</string>
+    <string name="install">Установка</string>
+    <string name="install_inactive_slot">Установка в неактивный слот (После OTA)</string>
+    <string name="install_inactive_slot_warning">Ваше устройство будет **ПРИНУДИТЕЛЬНО** загружено в текущий неактивный слот после перезагрузки!
+\n Используйте эту опцию только после завершения OTA.
+\n Продолжить?</string>
+    <string name="install_next">Далее</string>
+    <string name="installing_module">Модуль устанавливается %1$d/%2$d</string>
+    <string name="invalid_file_type">Неверный тип файла! Пожалуйста, выберите .kpm файл.</string>
+    <string name="item_view_role_description">Вкладка</string>
+    <string name="kernel_flashing">Прошить ядро</string>
+    <string name="kernel_module_notice">Следующие модульные функции ядра были разработаны KernelPatch и изменены для включения в него функций модуля ядра SukiSU Ultra</string>
+    <string name="kernel_not_enabled">Ядро не настроено</string>
+    <string name="kernel_patched">Ядро не изменено</string>
+    <string name="kernel_version_log">Ядро</string>
+    <string name="kpm_args">Параметры</string>
+    <string name="kpm_author">Автор</string>
+    <string name="kpm_control">Выполнить</string>
+    <string name="kpm_control_failed">Провален</string>
+    <string name="kpm_control_success">Успешно</string>
+    <string name="kpm_empty">На данный момент нет установленных модулей ядра</string>
+    <string name="kpm_install">Установить</string>
+    <string name="kpm_install_failed">Ошибка загрузки модуля kpm</string>
+    <string name="kpm_install_mode">KPM Install</string>
+    <string name="kpm_install_mode_description">Пожалуйста, выберите %1\$s режим установки модуля \n\nЗагрузить: Временно загрузить модуль \nВстроенный: Окончательно установить в систему</string>
+    <string name="kpm_install_mode_embed">Код для вставки</string>
+    <string name="kpm_install_mode_load">Загрузить</string>
+    <string name="kpm_install_success">Модуль kpm успешно загружен</string>
+    <string name="kpm_invalid_file">Недопустимый файл KPM</string>
+    <string name="kpm_title">KPM</string>
+    <string name="kpm_uninstall">Удалить</string>
+    <string name="kpm_uninstall_failed">Не удалось удалить</string>
+    <string name="kpm_uninstall_success">Удаление завершено</string>
+    <string name="kpm_version">Версия</string>
+    <string name="language_changed">Язык изменён, перезапуск для применения изменений</string>
+    <string name="language_follow_system">Как в системе</string>
+    <string name="language_setting">Язык приложения</string>
+    <string name="launch_app">Запустить</string>
+    <string name="log_failed_to_check_module_file">Не удалось проверить наличие файла модуля</string>
+    <string name="log_saved">Логи сохранены</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Свернуть нижний экран"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Закрыть нижний экран"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Маркер перемещения"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Развернуть нижний экран"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Нижний экран"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Введенная дата"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Введенная дата: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"Дата не соответствует допустимому шаблону: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Недопустимая дата: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"Дата не входит в допустимый диапазон: %1$s–%2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Дата"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"Нет"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Выберите дату"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Выбранная дата"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Текущий выбор: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"Переход к %1$s году"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"Нет"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Прокрутите до более ранних лет"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Прокрутите до более поздних лет"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"Перейти в режим выбора даты"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Проведите по экрану, чтобы выбрать год, или нажмите, чтобы вернуться к выбору дня."</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"Перейти в режим ввода текста"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Перейти к следующему месяцу"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Перейти к предыдущему месяцу"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Перейти к выбору года"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Выберите дату"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"Сегодня"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Отображаемый выбор года"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"Указан недопустимый диапазон дат."</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Введите даты"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"День в диапазоне дат"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Конечная дата"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Прокрутите до следующего месяца"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Прокрутите до предыдущего месяца"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Начальная дата"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Выберите даты"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Диалоговое окно"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Свернуто"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Развернуто"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Показать или скрыть раскрывающееся меню"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Строка поиска"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Закрыть"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Подсказки показаны ниже"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"AM"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Часы"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d ч."</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Выбрать час"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d ч."</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"часы"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Минуты"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Выберите минуты"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d мин."</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"минуты"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Выбрать AM (до полудня) или PM (после полудня)"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Показать подсказку"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Подсказка"</string>
+    <string name="manual_hook">Подключено вручную</string>
+    <string name="material_clock_toggle_content_description">Выберите AM (до полудня) или PM (после полудня)</string>
+    <string name="material_hour_24h_suffix">%1$s ч.</string>
+    <string name="material_hour_selection">Выберите час</string>
+    <string name="material_hour_suffix">%1$s ч.</string>
+    <string name="material_minute_selection">Выберите минуты</string>
+    <string name="material_minute_suffix">%1$s мин.</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Чтобы ввести время, перейдите в режим часов.</string>
+    <string name="material_timepicker_hour">Час</string>
+    <string name="material_timepicker_minute">Минуты</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Выбор времени</string>
+    <string name="material_timepicker_text_input_mode_description">Чтобы ввести время, перейдите в режим ввода текста.</string>
+    <string msgid="2792228137354697160" name="mc2_snackbar_pane_title">"Оповещение"</string>
+    <string name="module">Модули</string>
+    <string name="module_author">Автор</string>
+    <string name="module_changelog">Список изменений</string>
+    <string name="module_changelog_failed">Не удалось получить список изменений: %s</string>
+    <string name="module_download_error">Ошибка загрузки модуля</string>
+    <string name="module_downloading">Скачивание модуля: %s</string>
+    <string name="module_empty">Нет установленных модулей</string>
+    <string name="module_failed_count">%d не удалось установить новый модуль</string>
+    <string name="module_failed_to_disable">Не удалось отключить модуль %s</string>
+    <string name="module_failed_to_enable">Не удалось включить модуль %s</string>
+    <string name="module_install">Установить</string>
+    <string name="module_install_confirm">подтвердите установку модуля %1$s?</string>
+    <string name="module_install_multiple_confirm">Вы уверены, что хотите установить выбранные модули %d?</string>
+    <string name="module_install_multiple_confirm_with_names">Уверены, что хотите установить следующие %1$d модули? \n\n%2$s</string>
+    <string name="module_magisk_conflict">Модули недоступны из-за конфликта с Magisk!</string>
+    <string name="module_sort_action_first">Сортировать (Сначала с действием)</string>
+    <string name="module_sort_enabled_first">Сортировать (Сначала включённые)</string>
+    <string name="module_start_downloading">Начало скачивания: %s</string>
+    <string name="module_uninstall_confirm">Вы уверены, что хотите удалить модуль %s?</string>
+    <string name="module_uninstall_failed">Не удалось удалить %s</string>
+    <string name="module_uninstall_success">%s удалён</string>
+    <string name="module_update">Обновить</string>
+    <string name="module_version">Версия</string>
+    <string name="more_settings">Доп. настройки</string>
+    <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
+    <string name="mtrl_checkbox_state_description_checked">Флажок установлен.</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Флажки установлены частично.</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Флажок не установлен.</string>
+    <string name="mtrl_chip_close_icon_content_description">Удалить \"%1$s\"</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Новых уведомлений больше %1$d</string>
+    <string name="mtrl_picker_a11y_next_month">Перейти к следующему месяцу</string>
+    <string name="mtrl_picker_a11y_prev_month">Перейти к предыдущему месяцу</string>
+    <string name="mtrl_picker_announce_current_range_selection">Выбранная дата начала: %1$s. Выбранная дата окончания: %2$s.</string>
+    <string name="mtrl_picker_announce_current_selection">Выбранный элемент: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">нет</string>
+    <string name="mtrl_picker_cancel">Отмена</string>
+    <string name="mtrl_picker_confirm">ОК</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Выберите дату</string>
+    <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">Дата окончания: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Недействительный формат.</string>
+    <string name="mtrl_picker_invalid_format_example">Пример: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Используйте: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Недопустимый диапазон.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Перейти к текущему году: %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Перейти к %1$d году</string>
+    <string name="mtrl_picker_out_of_range">Вне диапазона: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Дата начала – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – дата окончания</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Выберите диапазон дат</string>
+    <string name="mtrl_picker_range_header_unselected">Дата начала – дата окончания</string>
+    <string name="mtrl_picker_save">Сохранить</string>
+    <string name="mtrl_picker_start_date_description">Дата начала: %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Дата</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Дата окончания</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Дата начала</string>
+    <string name="mtrl_picker_text_input_day_abbr">д</string>
+    <string name="mtrl_picker_text_input_month_abbr">м</string>
+    <string name="mtrl_picker_text_input_year_abbr">г</string>
+    <string name="mtrl_picker_today_description">Сегодня: %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Перейти в режим выбора дней</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Нажмите, чтобы перейти к Календарю</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Перейти в режим ввода текста</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Нажмите, чтобы выбрать год</string>
+    <string name="mtrl_timepicker_cancel">Отмена</string>
+    <string name="mtrl_timepicker_confirm">ОК</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Меню навигации"</string>
+    <string name="new_version_available">Новая версия: %s доступна, нажмите чтобы скачать.</string>
+    <string name="no">Нет</string>
+    <string name="no_apps_found">Приложение не найдено</string>
+    <string msgid="6610465462668679431" name="not_selected">"Не выбрано"</string>
+    <string name="not_supported">Не поддерживается</string>
+    <string name="ok">Хорошо</string>
+    <string name="open">Открыть</string>
+    <string name="other_apps">Приложения со значениями по умолчанию</string>
+    <string name="password_toggle_content_description">Показать пароль</string>
+    <string name="profile_capabilities">Возможности</string>
+    <string name="profile_custom">Пользовательский</string>
+    <string name="profile_default">По умолчанию</string>
+    <string name="profile_groups">Группы</string>
+    <string name="profile_name">Название профиля</string>
+    <string name="profile_namespace">Монтировать пространство имен</string>
+    <string name="profile_namespace_global">Глобальный</string>
+    <string name="profile_namespace_individual">Индивидуальный</string>
+    <string name="profile_namespace_inherited">Унаследованный</string>
+    <string name="profile_selinux_context">Контекст SELinux</string>
+    <string name="profile_selinux_domain">Домен</string>
+    <string name="profile_selinux_rules">Правила</string>
+    <string name="profile_template">Шаблон</string>
+    <string name="profile_umount_modules">Размонтировать модули</string>
+    <string name="profile_umount_modules_disable">Отключить пользовательский модуль удаления</string>
+    <string name="profile_umount_modules_summary">Включение этой опции позволит KernelSU восстанавливать любые измененные модулями файлы для данного приложения.</string>
+    <string msgid="5941395253238309765" name="range_end">"Конец диапазона"</string>
+    <string msgid="7097486360902471446" name="range_start">"Начало диапазона"</string>
+    <string name="reboot">Перезагрузить</string>
+    <string name="reboot_bootloader">Перезагрузить в Bootloader</string>
+    <string name="reboot_complete_msg">Будет ли перезагрузка немедленно?</string>
+    <string name="reboot_complete_title">Скрабровка завершена</string>
+    <string name="reboot_download">Перезагрузить в Download</string>
+    <string name="reboot_edl">Перезагрузить в EDL</string>
+    <string name="reboot_recovery">Перезагрузить в Recovery</string>
+    <string name="reboot_to_apply">Перезагрузите, чтобы изменения вступили в силу</string>
+    <string name="reboot_userspace">Мягкая перезагрузка</string>
+    <string name="refresh">Обновить</string>
+    <string name="reprovision">Реализация</string>
+    <string name="requireNewVersion_cannot_load_webui">Невозможно загрузить WebUI</string>
+    <string name="requireNewVersion_refresh">Обновить</string>
+    <string name="requireNewVersion_require_text">требуется как минимум %1$s >=</string>
+    <string name="requireNewVersion_try_the_following">Попробуйте сделать следующее:</string>
+    <string name="requireNewVersion_try_the_following_one">Обновите %1$s до последней версии с Google Play или GitHub Releases.</string>
+    <string name="requireNewVersion_try_the_following_two">Обратитесь к разработчику модуля, чтобы узнать о возможном обходном пути.</string>
+    <string formatted="false" name="require_kernel_version">Текущая версия KernelSU %d слишком низкая для правильной работы менеджера. Пожалуйста, обновите до версии %d или выше!</string>
+    <string name="restart_app">Перезапустить</string>
+    <string name="restart_now">Перезапустить сейчас</string>
+    <string name="restore">Восстановить</string>
+    <string name="restore_allowlist">Восстановить список</string>
+    <string name="restore_confirm_message">Эта операция перезапишет все существующие модули. Продолжить?</string>
+    <string name="restore_confirm_title">Подтвердите восстановление модуля</string>
+    <string name="restore_failed">Ошибка восстановления: %1$s</string>
+    <string name="restore_modules">Восстановить модули</string>
+    <string name="restore_success">Модули восстановлены, требуется перезагрузка</string>
+    <string name="root_require_for_install">Требуется root-права</string>
+    <string name="root_required">Требуется root-права</string>
+    <string name="safe_mode">Безопасный режим</string>
+    <string name="save_log">Сохранить логи</string>
+    <string name="scd_list_dialog_max_choices" translatable="true">Выберите не более %1$d опций</string>
+    <string name="scd_list_dialog_min_choices" translatable="true">Выберите как минимум %1$d вариант(а)</string>
+    <string name="scroll_to_bottom">Снизу</string>
+    <string name="scroll_to_bottom_description">Прокрутить в конец страницы</string>
+    <string name="scroll_to_top">Лучшие</string>
+    <string name="scroll_to_top_description">Прокрутить к началу</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Поиск"</string>
+    <string name="searchview_clear_text_content_description">Очистить текстовое поле</string>
+    <string name="searchview_navigation_content_description">Назад</string>
+    <string name="select">опция</string>
+    <string name="select_file">Выбрать файл</string>
+    <string name="select_file_tip">%1$s образ раздела рекомендуется</string>
+    <string name="select_kmi">Выбрать KMI</string>
+    <string name="select_slot_description">Пожалуйста, выберите целевой слот для прошивки загрузки</string>
+    <string name="select_slot_title">Выбрать слот Flash</string>
+    <string name="selected">Выбранные</string>
+    <string name="selected_lkm">Выбран LKM: %s</string>
+    <string name="selected_slot">Выбран LKM: %1$s</string>
+    <string name="selinux">SELinux</string>
+    <string name="selinux_change_failed">Сбой изменения статуса SELinux</string>
+    <string name="selinux_disabled">Выключен</string>
+    <string name="selinux_disabled_toast">SELinux отключен</string>
+    <string name="selinux_enabled">Включено</string>
+    <string name="selinux_enabled_toast">SELinux включен</string>
+    <string name="selinux_status_disabled">Выключен</string>
+    <string name="selinux_status_enforcing">Принудительный</string>
+    <string name="selinux_status_permissive">Разрешающий</string>
+    <string name="selinux_status_unknown">Неизвестно</string>
+    <string name="send_log">Отправить логи</string>
+    <string name="settings">Настройки</string>
+    <string name="settings_card_alpha">Прозрачность панели навигации</string>
+    <string name="settings_card_dim">Корректировка \"Тьма Карты\"</string>
+    <string name="settings_check_update">Проверка обновлений</string>
+    <string name="settings_check_update_summary">Автоматическая проверка обновлений при открытии приложения</string>
+    <string name="settings_custom_background">Пользовательский фон приложения</string>
+    <string name="settings_custom_background_summary">Выберите изображение в качестве фона</string>
+    <string name="settings_disable_su">Отключить совместимость su</string>
+    <string name="settings_disable_su_summary">Временно отключить все приложения от получения привилегий суперпользователя через su команду (запущенные процессы с рут доступом не будут затронуты).</string>
+    <string name="settings_profile_template">Шаблон профиля приложения</string>
+    <string name="settings_profile_template_summary">Управление локальным и онлайн-шаблоном профиля приложения</string>
+    <string name="settings_restore_default">По умолчанию</string>
+    <string name="settings_restore_stock_image">Восстановить сток образ</string>
+    <string name="settings_restore_stock_image_message">Восстановить исходный заводской образ (если существует резервная копия), обычно используется перед OTA; если вам нужно удалить KernelSU, используйте «Удалить полностью».</string>
+    <string name="settings_susfs_toggle">Отключить kprobe хуки</string>
+    <string name="settings_susfs_toggle_summary">Отключите хуки kprobe, созданные KernelSU, используя встроенные хуки, которые похожи на метод расширения ядра вне GKI.</string>
+    <string name="settings_umount_modules_default">Размонтировать модули по умолчанию</string>
+    <string name="settings_umount_modules_default_summary">Глобальное значение по умолчанию для \"Размонтировать модули\" в профиле приложения. При включении будут удалены все модификации модулей в системе для приложений, у которых не задан профиль</string>
+    <string name="settings_uninstall">Удалить</string>
+    <string name="settings_uninstall_permanent">Удалить полностью</string>
+    <string name="settings_uninstall_permanent_message">Удалить KernelSU (рут и все модули) полностью.</string>
+    <string name="settings_uninstall_temporary">Удалить на время</string>
+    <string name="settings_uninstall_temporary_message">Временно удалить KernelSU, восстановить исходное состояние после следующей перезагрузки.</string>
+    <string name="show_kpm_info">Показать функцию KPM</string>
+    <string name="show_kpm_info_summary">Отображение информации и функции KPM в домашней и нижней панели (необходимо переоткрыть приложение)</string>
+    <string name="show_system_apps">Показать системные приложения</string>
+    <string name="side_sheet_accessibility_pane_title">Боковая панель</string>
+    <string name="simple_mode">Режим простоты</string>
+    <string name="simple_mode_summary">Скрывает ненужные карты при включении</string>
+    <string name="slot_a">Слот A</string>
+    <string name="slot_b">Слот B</string>
+    <string name="snackbar_failed_to_check_module_file">Не удалось проверить наличие файла модуля</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"Оповещение"</string>
+    <string msgid="4139871816613051306" name="state_empty">"Пусто"</string>
+    <string msgid="5834637030682409883" name="state_off">"Отключено"</string>
+    <string msgid="1490883874751719580" name="state_on">"Включено"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="status_not_supported">Не поддерживается</string>
+    <string name="status_supported">Поддерживается</string>
+    <string name="status_unknown">Неизвестно</string>
+    <string name="su_not_allowed">Предоставление %s суперпользователю не допускается</string>
+    <string name="superuser">Суперпользователь</string>
+    <string name="supported">Поддерживаемые</string>
+    <string name="sus_su_mode">SuS SU режим:</string>
+    <string name="susfs_disabled">SuSFS выключен</string>
+    <string name="susfs_enabled">SuSFS включен</string>
+    <string msgid="2561197295334830845" name="switch_role">"Переключатель"</string>
+    <string msgid="1672349317127674378" name="tab">"Вкладка"</string>
+    <string msgid="5946805113151406391" name="template_percent">"Процентов: <ns1:g id="PERCENTAGE">%1$d</ns1:g>."</string>
+    <string name="theme_color">Цвет Темы</string>
+    <string name="theme_dark">Тёмная</string>
+    <string name="theme_follow_system">Использовать системные настройки</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_mode">Тема</string>
+    <string name="tool_version_log">С помощью инструмента патрулирования：%1$s</string>
+    <string name="tools">Инструменты</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"Подсказка"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"Показать подсказку"</string>
+    <string name="unauthorized">неавторизован</string>
+    <string name="uninstall">Удалить</string>
+    <string name="unknown_error">Неизвестная ошибка</string>
+    <string name="unknown_module">неизвестный модуль</string>
+    <string name="use_webuix">Выбрать движок WebUi</string>
+    <string name="use_webuix_eruda">Вставить Eruda в WebUI X</string>
+    <string name="use_webuix_eruda_summary">Вставьте консоль отладки в WebUI X для упрощения отладки. Для этого требуется включение веб-отладки.</string>
+    <string name="using_mksu_manager">Вы используете менеджер SukiSU бета-версии</string>
+    <string name="yes">Да</string>
+</resources>

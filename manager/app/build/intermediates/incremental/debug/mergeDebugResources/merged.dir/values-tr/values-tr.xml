@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d yeni bildirim</item>
+    <item quantity="other">%d yeni bildirim</item>
+  </plurals>
+    <string name="GKI_install_methods">Flashing AnyKernel3</string>
+    <string name="Lkm_install_methods">LKM onarımı/yükle</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Eve gidiş yolunu göster"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Yukarı git"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Diğer seçenekler"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Bitti"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Tümünü göster"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Bir uygulama seçin"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"KAPAT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AÇ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"sil"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Üst Karakter+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"boşluk"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menü+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Ara…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Sorguyu temizle"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Arama sorgusu"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Ara"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Sorguyu gönder"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Sesli arama"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Şununla paylaş:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ile paylaş"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Daralt"</string>
+    <string name="about">Hakkında</string>
+    <string name="about_source_code"><![CDATA[Kaynak kodunu %1$s adresinde görüntüleyin<br/>%2$s kanalımıza katılın]]></string>
+    <string name="action">Action</string>
+    <string name="advanced_settings">Gelişmiş Ayarlar</string>
+    <string name="allowlist_backup_failed">İzin verilenler listesi yedekleme başarısız: %1$s</string>
+    <string name="allowlist_backup_success">İzin verilenler listesi yedekleme başarılı</string>
+    <string name="allowlist_restore_confirm_message">Bu işlem, mevcut İzin verilen listesinin üzerine yazacaktır. Devam etmek istiyor musunuz?</string>
+    <string name="allowlist_restore_confirm_title">İzin Verilenler Listesi Geri Yüklemeyi Onayla</string>
+    <string name="allowlist_restore_failed">İzin verilen listesi geri yükleme başarısız: %1$s</string>
+    <string name="allowlist_restore_success">İzin verilen listesi başarıyla geri yüklendi</string>
+    <string name="app_dpi_summary">Sadece geçerli uygulama için ekran görüntüleme yoğunluğunu ayarlayın</string>
+    <string name="app_dpi_title">Uygulanan DPI</string>
+    <string name="app_profile_export_to_clipboard">Pano\'ya dışa aktar</string>
+    <string name="app_profile_import_export">İçe/Dışa Aktar</string>
+    <string name="app_profile_import_from_clipboard">Pano\'dan içe aktar</string>
+    <string name="app_profile_template_create">Şablon oluştur</string>
+    <string name="app_profile_template_delete">Sil</string>
+    <string name="app_profile_template_description">Açıklama</string>
+    <string name="app_profile_template_edit">Şablonu düzenle</string>
+    <string name="app_profile_template_export_empty">Dışa aktarılacak yerel şablon bulunamadı!</string>
+    <string name="app_profile_template_id">Kimlik</string>
+    <string name="app_profile_template_id_exist">Şablon kimliği zaten var!</string>
+    <string name="app_profile_template_id_invalid">Geçersiz şablon kimliği</string>
+    <string name="app_profile_template_import_empty">Panodaki veri boş!</string>
+    <string name="app_profile_template_import_success">Başarıyla içe aktarıldı</string>
+    <string name="app_profile_template_name">Ad</string>
+    <string name="app_profile_template_readonly">Salt okunur</string>
+    <string name="app_profile_template_save">Kaydet</string>
+    <string name="app_profile_template_save_failed">Şablon kaydedilemedi</string>
+    <string name="app_profile_template_sync">Çevrimiçi şablonları senkronize et</string>
+    <string name="app_profile_template_view">Şablonu görüntüle</string>
+    <string name="app_settings">Uygulama Ayarları</string>
+    <string name="appearance_settings">Araç çubuğunu özelleştir</string>
+    <string name="apps_with_custom_profile">Özelleştirilmiş Yapılandırma Uygulaması</string>
+    <string name="apps_with_root">Root izinlerine sahip uygulamalar</string>
+    <string name="authorized">yetkilendirildi</string>
+    <string msgid="389117264260014992" name="autofill">"Otomatik doldurma"</string>
+    <string name="back">Geri</string>
+    <string name="background_image_error">Görüntü yüklenemedi</string>
+    <string name="background_removed">Özel arka planlar kaldırıldı</string>
+    <string name="background_set_success">Arka plan başarıyla ayarlandı</string>
+    <string name="backup">Yedekle</string>
+    <string name="backup_allowlist">İzin verilen listesini yedekle</string>
+    <string name="backup_failed">Yedekleme başarısız: %1$s</string>
+    <string name="backup_modules">Modülleri yedekle</string>
+    <string name="backup_success">Yedekleme başarılı (tar.gz)</string>
+    <string name="batch_authorization">yetkilendir</string>
+    <string name="batch_cancel_authorization">geri al</string>
+    <string name="bottomsheet_action_collapse">Alt sayfayı daralt</string>
+    <string name="bottomsheet_action_expand">Alt sayfayı genişlet</string>
+    <string name="bottomsheet_action_expand_halfway">Yarım genişlet</string>
+    <string name="bottomsheet_drag_handle_clicked">Sürükleme tutamacına iki kez dokunuldu</string>
+    <string name="bottomsheet_drag_handle_content_description">Sürükleme tutamacı</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Yanıtla"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Reddet"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Kapat"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Gelen arama"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Devam eden arama"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Gelen arama süzülüyor"</string>
+    <string name="cancel">İptal</string>
+    <string name="character_counter_content_description">Girilen karakter: %1$d / %2$d</string>
+    <string name="character_counter_overflowed_content_description">Karakter sınırı aşıldı %1$d / %2$d</string>
+    <string name="check_log">Lütfen günlüğü kontrol edin</string>
+    <string name="choose_theme_color">Bir tema rengi seçin</string>
+    <string name="clear">Kaldır</string>
+    <string name="clear_text_end_icon_content_description">Metni temizle</string>
+    <string name="close">Kapat</string>
+    <string msgid="406453423630273620" name="close_drawer">"Gezinme menüsünü kapat"</string>
+    <string name="close_notice">Kapat</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Sayfayı kapat"</string>
+    <string name="collapse">Kaldır</string>
+    <string name="color_default">Mavi</string>
+    <string name="color_gray">Gri</string>
+    <string name="color_green">Yeşil</string>
+    <string name="color_orange">Turuncu</string>
+    <string name="color_pink">Pembe</string>
+    <string name="color_purple">Mor</string>
+    <string name="color_yellow">Sarı</string>
+    <string name="command_execution_failed">Komut yürütme başarısız: %1$s</string>
+    <string name="configuration">Yapılandır</string>
+    <string name="confirm">Onayla</string>
+    <string name="confirm_uninstall_confirm">Kaldır</string>
+    <string name="confirm_uninstall_content">Aşağıdaki KPM kaldırılacak: %s</string>
+    <string name="confirm_uninstall_dismiss">İptal</string>
+    <string name="confirm_uninstall_title">Kaldırmayı onayla</string>
+    <string name="confirm_uninstall_title_with_filename">Kaldır</string>
+    <string name="copy_failed">Dosya Kopyalama Başarısız</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Bağlantı panoya kopyalandı"</string>
+    <string name="current_slot">Mevcut Yuva：%1$s </string>
+    <string name="currently_selected">Şu anda</string>
+    <string name="custom_settings">Özel ayarlar</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Geçersiz giriş"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Pop-up Pencere"</string>
+    <string name="direct_install">Doğrudan yükleme (Önerilen)</string>
+    <string name="dpi_applied_success">DPI %1$d olarak ayarlandı, uygulama yeniden başlatıldıktan sonra geçerli olur</string>
+    <string name="dpi_apply_settings">DPI ayarlarını uygula</string>
+    <string name="dpi_confirm_message">Uygulama DPI\'sini %1$d\'den %2$d\'ye değiştirmek istediğinizden emin misiniz?</string>
+    <string name="dpi_confirm_summary">Yeni DPI ayarlarını uygulamak için uygulamanın yeniden başlatılması gerekir, sistem durum çubuğunu veya diğer uygulamaları etkilemez</string>
+    <string name="dpi_confirm_title">DPI değişikliğini onayla</string>
+    <string name="dpi_settings">DPI ayarı</string>
+    <string name="dpi_size_custom">Özelleştirilebilir</string>
+    <string name="dpi_size_extra_large">Aşırı büyük</string>
+    <string name="dpi_size_large">Büyük</string>
+    <string name="dpi_size_medium">Orta</string>
+    <string name="dpi_size_small">Küçük</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Açılır menü"</string>
+    <string name="dynamic_color_summary">Sistem temaları kullanarak dinamik renkler</string>
+    <string name="dynamic_color_title">Dinamik renkler</string>
+    <string name="enable_web_debugging">WebView hata ayıklama etkinleştir</string>
+    <string name="enable_web_debugging_summary">WebUI\'yi hata ayıklamak için kullanılabilir. Sadece ihtiyaç duyulduğunda etkinleştirin.</string>
+    <string name="engine_auto_select">Otomatik Seçim</string>
+    <string name="engine_force_ksu">KSU WebUI kullanımını zorunlu kıl</string>
+    <string name="engine_force_webuix">WebUI X kullanımını zorla</string>
+    <string name="error_a11y_label">Hata: geçersiz</string>
+    <string name="error_code">hata kodu</string>
+    <string name="error_icon_content_description">Hata</string>
+    <string name="expand">Tamamen aç</string>
+    <string name="exposed_dropdown_menu_content_description">Açılır menüyü göster</string>
+    <string name="failed_reboot">Yeniden başlatma başarısız</string>
+    <string name="failed_to_update_app_profile">%s için Uygulama Profili güncellenemedi</string>
+    <string name="failed_to_update_sepolicy">%s için SELinux kuralları güncellenemedi</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Bağlantıyı kopyala"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Tarayıcıda aç"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Bağlantıyı paylaş"</string>
+    <string name="flash_failed">Kurulum başarısız</string>
+    <string name="flash_failed_message">Flash\'lama başarısız</string>
+    <string name="flash_option">Fırça Seçenekleri</string>
+    <string name="flash_option_tip">Yazılacak dosyayı seçin</string>
+    <string name="flash_success">Kurulum başarılı</string>
+    <string name="flashing">Kurulum işlemi</string>
+    <string formatted="false" name="force_stop_app">Zorla durdur</string>
+    <string name="grant_root_failed">Root yetkisi verilemedi!</string>
+    <string name="hide_kernel_kernelsu_version">Çekirdek sürümünü gizle</string>
+    <string name="hide_kernel_kernelsu_version_summary">Çekirdek sürümünü gizle</string>
+    <string name="hide_link_card">Bağlantı Kartı Durumunu Gizle</string>
+    <string name="hide_link_card_summary">Ana sayfadaki bağlantı kartı bilgilerini gizle</string>
+    <string name="hide_other_info">Diğer bilgileri gizle</string>
+    <string name="hide_other_info_summary">Ana sayfadaki süper kullanıcı sayısı, modüller ve KPM modülleri hakkındaki bilgileri gizler</string>
+    <string name="hide_susfs_status">SuSFS durumunu gizle</string>
+    <string name="hide_susfs_status_summary">Ana sayfadaki SuSFS durum bilgilerini gizle</string>
+    <string name="hide_system_apps">Sistem uygulamalarını gizle</string>
+    <string name="home">Ana Sayfa</string>
+    <string name="home_ContributionCard_kernelsu">SukiSU Ultra bekliyor</string>
+    <string name="home_android_version">Android sürümü</string>
+    <string name="home_click_to_ContributionCard_kernelsu">SukiSU Ultra, gelecekte KSU\'nun nispeten bağımsız bir dalı olacak, ancak yine de resmi KernelSU ve MKSU gibi katkılarından dolayı teşekkür ederiz!</string>
+    <string name="home_click_to_install">Yüklemek için tıklayın</string>
+    <string name="home_click_to_learn_kernelsu">KernelSU\'yu nasıl yükleyeceğinizi ve modülleri nasıl kullanacağınızı öğrenin</string>
+    <string name="home_device_model">Cihaz modeli</string>
+    <string name="home_fingerprint">Parmak izi</string>
+    <string name="home_kernel">Kernel sürümü</string>
+    <string name="home_kpm_module">"KPM modül sayısı: %d "</string>
+    <string name="home_kpm_version">KPM Sürümü</string>
+    <string name="home_learn_kernelsu">KernelSU\'yu öğrenin</string>
+    <string name="home_learn_kernelsu_url">https://kernelsu.org/guide/what-is-kernelsu.html</string>
+    <string name="home_manager_version">Yönetici sürümü</string>
+    <string name="home_module_count">Modüller: %d</string>
+    <string name="home_not_installed">Yüklü değil</string>
+    <string name="home_selinux_status">SELinux durumu</string>
+    <string name="home_superuser_count">SüperKullanıcılar: %d</string>
+    <string name="home_support_content">KernelSU, her zaman olduğu gibi ücretsiz ve açık kaynaklıdır. Ancak bir bağış yaparak bizi destekleyebilirsiniz.</string>
+    <string name="home_support_title">Bizi destekleyin</string>
+    <string name="home_susfs">SuSFS: %s</string>
+    <string name="home_susfs_sus_su">SuS SU</string>
+    <string name="home_susfs_version">SuSFS Sürümü</string>
+    <string name="home_unsupported">Desteklenmiyor</string>
+    <string name="home_unsupported_reason">Kernel\'inizde KernelSU sürücüsü algılanmadı, yanlış çekirdek mi?</string>
+    <string name="home_working">Çalışıyor</string>
+    <string name="home_working_version">Sürüm: %d</string>
+    <string name="horizon_cleaning_files">Dosyalar temizleniyor…</string>
+    <string name="horizon_copy_failed">Kopyalama başarısız</string>
+    <string name="horizon_copying_files">Dosyalar kopyalanıyor…</string>
+    <string name="horizon_extracting_tool">Yazma aracı çıkartılıyor…</string>
+    <string name="horizon_flash_complete">Flash\'lama Tamamlandı</string>
+    <string name="horizon_flash_complete_status">Yazma tamamlandı</string>
+    <string name="horizon_flash_title">Çekirdek Flash\'lama</string>
+    <string name="horizon_flashing">Çekirdek yazılıyor…</string>
+    <string name="horizon_getting_original_slot">Orijinal yuva alınıyor</string>
+    <string name="horizon_kernel">Anykernel3 yükle</string>
+    <string name="horizon_kernel_summary">AnyKernel3 çekirdek dosyasını yaz</string>
+    <string name="horizon_logs_label">Günlükler:</string>
+    <string name="horizon_patching_script">Yazma betiği yamalanıyor…</string>
+    <string name="horizon_preparing">Hazırlanıyor…</string>
+    <string name="horizon_restoring_original_slot">Varsayılan Yuvayı Geri Yükle</string>
+    <string name="horizon_setting_target_slot">Belirtilen yuva ayarlanıyor</string>
+    <string name="horizon_unknown_error">Bilinmeyen hata</string>
+    <string name="icon_content_description">İletişim kutusu simgesi</string>
+    <string name="image_editor_hint">Görüntüyü yaklaştırmak için iki parmağınızı kullanın ve bir parmağınızla sürükleyerek konumu ayarlayın</string>
+    <string name="image_editor_title">Arka plan görüntüsünü ayarla</string>
+    <string msgid="6827826412747255547" name="in_progress">"Devam ediyor"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Kısmi olarak kontrol edildi"</string>
+    <string name="install">Yükle</string>
+    <string name="install_inactive_slot">Etkin olmayan yuvaya yükle (OTA sonrası)</string>
+    <string name="install_inactive_slot_warning">Cihazınız, yeniden başlatma sonrasında **ZORUNLU** olarak mevcut etkin olmayan yuvaya önyükleme yapacaktır!\nSadece OTA tamamlandıktan sonra bu seçeneği kullanın.\nDevam etmek istiyor musunuz?</string>
+    <string name="install_next">İleri</string>
+    <string name="installing_module">Modül yükleniyor %1$d/%2$d</string>
+    <string name="invalid_file_type">Yanlış dosya türü! Lütfen .kpm dosyasını seçin.</string>
+    <string name="item_view_role_description">Sekme</string>
+    <string name="kernel_flashing">Kernel Flashing</string>
+    <string name="kernel_module_notice">Aşağıdaki çekirdek modül işlevleri KernelPatch tarafından geliştirilmiş ve SukiSU Ultra\'nın çekirdek modül işlevlerini içerecek şekilde değiştirilmiştir</string>
+    <string name="kernel_not_enabled">Çekirdek yapılandırılmadı</string>
+    <string name="kernel_patched">Çekirdek yamalanmadı</string>
+    <string name="kernel_version_log">Çekirdek sürümü：%1$s</string>
+    <string name="kpm_args">Parametreler</string>
+    <string name="kpm_author">Author</string>
+    <string name="kpm_control">Yürüt</string>
+    <string name="kpm_control_failed">Başarısız</string>
+    <string name="kpm_control_success">Başarılı</string>
+    <string name="kpm_empty">Şu anda yüklü çekirdek modülü yok</string>
+    <string name="kpm_install">Yükle</string>
+    <string name="kpm_install_failed">Kpm modülü yükleme başarısız</string>
+    <string name="kpm_install_mode">KPM Yükleme</string>
+    <string name="kpm_install_mode_description">Lütfen seçin: %1$s Modül Yükleme Modu \n\nYükle: Modülü geçici olarak yükle \nGömülü: Kalıcı olarak sisteme yükle</string>
+    <string name="kpm_install_mode_embed">Göm</string>
+    <string name="kpm_install_mode_load">Yükle</string>
+    <string name="kpm_install_success">Kpm modülü yükleme başarılı</string>
+    <string name="kpm_invalid_file">Geçersiz KPM dosyası</string>
+    <string name="kpm_title">KPM</string>
+    <string name="kpm_uninstall">Kaldır</string>
+    <string name="kpm_uninstall_failed">Kaldırılamadı</string>
+    <string name="kpm_uninstall_success">Başarıyla kaldırıldı</string>
+    <string name="kpm_version">Sürüm</string>
+    <string name="language_changed">Dil değiştirildi, değişiklikleri uygulamak için yeniden başlatılıyor</string>
+    <string name="language_follow_system">Sistemi takip et</string>
+    <string name="language_setting">Uygulama Dili</string>
+    <string name="launch_app">Başlat</string>
+    <string name="log_failed_to_check_module_file">Modül dosyasının varlığını kontrol etme başarısız</string>
+    <string name="log_saved">Günlükler kaydedildi</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Alt sayfayı daralt"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Alt sayfayı kapat"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Sürükleme tutamacı"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Alt sayfayı genişlet"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Alt Sayfa"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Girilen tarih"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Girilen tarih: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"Tarih, istenen biçimle eşleşmiyor: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Tarihe izin verilmiyor: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"Tarih, istenen %1$s-%2$s yıl aralığının dışında"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Tarih"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"Yok"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Tarih seç"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Seçilen tarih"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Geçerli seçim: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"%1$s yılına gidin"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"Yok"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Önceki yılları göstermek için kaydırın"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Sonraki yılları göstermek için kaydırın"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"Takvim giriş moduna geç"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Kaydırarak bir yıl seçin veya gün seçme bölümüne geri dönmek için dokunun"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"Metin giriş moduna geç"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Sonraki aya değiştir"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Önceki aya değiştir"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Yıl seçimine geç"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Tarih seç"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"Bugün"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Yıl seçici görünür durumda"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"Geçersiz tarih aralığı girişi"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Tarihleri girin"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"Aralıkta"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Bitiş tarihi"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Sonraki ayı göstermek için kaydırın"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Önceki ayı göstermek için kaydırın"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Başlangıç tarihi"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Tarihleri seçin"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Dialog"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Daraltıldı"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Genişletildi"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Açılır menüyü açın/kapatın"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Arama"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Kapat"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Önerileri aşağıda bulabilirsiniz"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"ÖÖ"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Saat"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d saat"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Saat seçin"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"Saat %1$d"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"saat"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Dakika"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Dakikayı seçin"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d dakika"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"dakika"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"ÖÖ veya ÖS\'yi seçin"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"ÖS"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Araç ipucunu göster"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"İpucu"</string>
+    <string name="manual_hook">Manuel Kanca</string>
+    <string name="material_clock_toggle_content_description">ÖÖ veya ÖS\'yi seçin</string>
+    <string name="material_hour_24h_suffix">%1$s saat</string>
+    <string name="material_hour_selection">Saat seçin</string>
+    <string name="material_hour_suffix">Saat %1$s</string>
+    <string name="material_minute_selection">Dakikayı seçin</string>
+    <string name="material_minute_suffix">%1$s dakika</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Zaman girişi için saat moduna geçin.</string>
+    <string name="material_timepicker_hour">Saat</string>
+    <string name="material_timepicker_minute">Dakika</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Zamanı seçin</string>
+    <string name="material_timepicker_text_input_mode_description">Zaman girişi için metin girişi moduna geçin.</string>
+    <string msgid="2792228137354697160" name="mc2_snackbar_pane_title">"Uyarı"</string>
+    <string name="module">Modül</string>
+    <string name="module_author">Author</string>
+    <string name="module_changelog">Değişiklik günlüğü</string>
+    <string name="module_changelog_failed">Değişiklik günlüğü alılamadı: %s</string>
+    <string name="module_download_error">Modül indirilemedi</string>
+    <string name="module_downloading">Modül indiriliyor: %s</string>
+    <string name="module_empty">Yüklü modül yok</string>
+    <string name="module_failed_count">Yeni bir modül yüklenemedi: %d başarısız</string>
+    <string name="module_failed_to_disable">Modül devre dışı bırakılamadı: %s</string>
+    <string name="module_failed_to_enable">Modül etkinleştirilemedi: %s</string>
+    <string name="module_install">Yükle</string>
+    <string name="module_install_confirm">%1$s modülünü yüklemek istediğinizden emin misiniz?</string>
+    <string name="module_install_multiple_confirm">Seçilen %d modülü yüklemek istediğinizden emin misiniz?</string>
+    <string name="module_install_multiple_confirm_with_names">Aşağıdaki %1$d modülü yüklemek istediğinizden emin misiniz? \n\n%2$s</string>
+    <string name="module_magisk_conflict">Magisk ile çakışma nedeniyle modüller kullanılamıyor!</string>
+    <string name="module_sort_action_first">Sırala (Action önce)</string>
+    <string name="module_sort_enabled_first">Sırala (Etkin önce)</string>
+    <string name="module_start_downloading">İndirme başlıyor: %s</string>
+    <string name="module_uninstall_confirm">%s modülünü kaldırmak istediğinizden emin misiniz?</string>
+    <string name="module_uninstall_failed">Kaldırılamadı: %s</string>
+    <string name="module_uninstall_success">%s kaldırıldı</string>
+    <string name="module_update">Güncelle</string>
+    <string name="module_version">Version</string>
+    <string name="more_settings">Daha fazla ayar</string>
+    <string name="mtrl_badge_numberless_content_description">Yeni bildirim</string>
+    <string name="mtrl_checkbox_state_description_checked">İşaretlendi</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Kısmi olarak işaretlendi</string>
+    <string name="mtrl_checkbox_state_description_unchecked">İşaretlenmedi</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s içeriğini kaldır</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">%1$d adetten fazla yeni bildirim</string>
+    <string name="mtrl_picker_a11y_next_month">Sonraki aya değiştir</string>
+    <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
+    <string name="mtrl_picker_announce_current_range_selection">Başlangıç tarihi seçimi: %1$s – Bitiş tarihi seçimi: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Geçerli seçim: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">yok</string>
+    <string name="mtrl_picker_cancel">İptal</string>
+    <string name="mtrl_picker_confirm">Tamam</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Tarih Seçin</string>
+    <string name="mtrl_picker_date_header_unselected">Seçilen tarih</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">Bitiş tarihi: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Geçersiz biçim.</string>
+    <string name="mtrl_picker_invalid_format_example">Örnek: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Tarih biçimi: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Geçersiz aralık.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Geçerli yıla (%1$d) git</string>
+    <string name="mtrl_picker_navigate_to_year_description">%1$d yılına git</string>
+    <string name="mtrl_picker_out_of_range">İzin verilen aralığın dışında: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Başlangıç tarihi – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Bitiş tarihi</string>
+    <string name="mtrl_picker_range_header_selected">%1$s-%2$s</string>
+    <string name="mtrl_picker_range_header_title">Aralık Seçin</string>
+    <string name="mtrl_picker_range_header_unselected">Başlangıç tarihi - Bitiş tarihi</string>
+    <string name="mtrl_picker_save">Kaydet</string>
+    <string name="mtrl_picker_start_date_description">Başlangıç tarihi: %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Tarih</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Bitiş tarihi</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Başlangıç tarihi</string>
+    <string name="mtrl_picker_text_input_day_abbr">g</string>
+    <string name="mtrl_picker_text_input_month_abbr">a</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_today_description">Bugün, %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Takvim giriş moduna geç</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Takvim görünümüne geçmek için dokunun</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Yıl görünümüne geçmek için dokunun</string>
+    <string name="mtrl_timepicker_cancel">İptal</string>
+    <string name="mtrl_timepicker_confirm">Tamam</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Gezinme menüsü"</string>
+    <string name="new_version_available">Yeni sürüm %s mevcut, güncellemek için tıklayın.</string>
+    <string name="no">Hayır</string>
+    <string name="no_apps_found">Uygulama bulunamadı</string>
+    <string msgid="6610465462668679431" name="not_selected">"Seçili değil"</string>
+    <string name="not_supported">Desteklenmiyor</string>
+    <string name="ok">Tamam</string>
+    <string name="open">Aç</string>
+    <string name="other_apps">Diğer Uygulamalar</string>
+    <string name="password_toggle_content_description">Şifreyi göster</string>
+    <string name="profile_capabilities">Yetenekler</string>
+    <string name="profile_custom">Özel</string>
+    <string name="profile_default">Varsayılan</string>
+    <string name="profile_groups">Gruplar</string>
+    <string name="profile_name">Profil adı</string>
+    <string name="profile_namespace">Bağlama adı alanı</string>
+    <string name="profile_namespace_global">Global</string>
+    <string name="profile_namespace_individual">Bireysel</string>
+    <string name="profile_namespace_inherited">Miras alınan</string>
+    <string name="profile_selinux_context">SELinux bağlamı</string>
+    <string name="profile_selinux_domain">Etki alanı</string>
+    <string name="profile_selinux_rules">Kurallar</string>
+    <string name="profile_template">Şablon</string>
+    <string name="profile_umount_modules">Modülleri bağlamayı kaldır</string>
+    <string name="profile_umount_modules_disable">Özel kaldırma modülünü devre dışı bırak</string>
+    <string name="profile_umount_modules_summary">Bu seçeneği etkinleştirmek, KernelSU\'nun bu uygulama için modüller tarafından değiştirilen dosyaları geri yüklemesine izin verecektir.</string>
+    <string msgid="5941395253238309765" name="range_end">"Aralık sonu"</string>
+    <string msgid="7097486360902471446" name="range_start">"Aralık başlangıcı"</string>
+    <string name="reboot">Yeniden başlat</string>
+    <string name="reboot_bootloader">Bootloader\'a yeniden başlat</string>
+    <string name="reboot_complete_msg">Hemen yeniden başlatmak istiyor musunuz?</string>
+    <string name="reboot_complete_title">Temizleme tamamlandı</string>
+    <string name="reboot_download">Download moduna yeniden başlat</string>
+    <string name="reboot_edl">EDL moduna yeniden başlat</string>
+    <string name="reboot_recovery">Kurtarma moduna yeniden başlat</string>
+    <string name="reboot_to_apply">Etkili olması için yeniden başlatın</string>
+    <string name="reboot_userspace">Yumuşak yeniden başlatma</string>
+    <string name="refresh">Yenile</string>
+    <string name="reprovision">Yeniden sağla</string>
+    <string formatted="false" name="require_kernel_version">Mevcut KernelSU sürümü %d, yöneticinin düzgün çalışması için çok düşük. Lütfen sürüm %d veya daha yüksek bir sürüme yükseltin!</string>
+    <string name="restart_app">Yeniden başlat</string>
+    <string name="restart_now">Şimdi yeniden başlat</string>
+    <string name="restore">Geri yükle</string>
+    <string name="restore_allowlist">İzin verilen listesini geri yükle</string>
+    <string name="restore_confirm_message">Bu işlem, mevcut tüm modülleri üzerine yazacaktır. Devam etmek istiyor musunuz?</string>
+    <string name="restore_confirm_title">Modül Geri Yüklemeyi Onayla</string>
+    <string name="restore_failed">Geri yükleme başarısız: %1$s</string>
+    <string name="restore_modules">Modülleri geri yükle</string>
+    <string name="restore_success">Modüller başarıyla geri yüklendi, yeniden başlatma gerekiyor</string>
+    <string name="root_require_for_install">Root ayrıcalıkları gerektirir</string>
+    <string name="root_required">Root ayrıcalıkları gerektirir</string>
+    <string name="safe_mode">Güvenli mod</string>
+    <string name="save_log">Günlükleri kaydet</string>
+    <string name="scd_list_dialog_max_choices" translatable="true">En fazla %1$d seçeneği seçin.</string>
+    <string name="scd_list_dialog_min_choices" translatable="true">En azından %1$d seçenek seçin.</string>
+    <string name="scroll_to_bottom">Alt</string>
+    <string name="scroll_to_bottom_description">En alta kaydır</string>
+    <string name="scroll_to_top">Üst</string>
+    <string name="scroll_to_top_description">En üste kaydır</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Ara"</string>
+    <string name="searchview_clear_text_content_description">Metni temizle</string>
+    <string name="searchview_navigation_content_description">Geri</string>
+    <string name="select">seçenek</string>
+    <string name="select_file">Yamalanacak bir görüntü seçin</string>
+    <string name="select_file_tip">%1$s bölüm görüntüsü önerilir</string>
+    <string name="select_kmi">KMI seçin</string>
+    <string name="select_slot_description">Lütfen boot yazma için hedef yuvayı seçin</string>
+    <string name="select_slot_title">Yazma Yuvası Seç</string>
+    <string name="selected">Seçildi</string>
+    <string name="selected_lkm">Seçilen LKM: %s</string>
+    <string name="selected_slot">Seçilen yuva: %1$s</string>
+    <string name="selinux">SELinux</string>
+    <string name="selinux_change_failed">SELinux Durumu değiştirilemedi</string>
+    <string name="selinux_disabled">Devre dışı</string>
+    <string name="selinux_disabled_toast">SELinux Devre Dışı</string>
+    <string name="selinux_enabled">Etkin</string>
+    <string name="selinux_enabled_toast">SELinux Etkin</string>
+    <string name="selinux_status_disabled">Devre dışı</string>
+    <string name="selinux_status_enforcing">Enfocing(Etkin)</string>
+    <string name="selinux_status_permissive">Permissive(Devre Dışı)</string>
+    <string name="selinux_status_unknown">Bilinmiyor</string>
+    <string name="send_log">Günlükleri gönder</string>
+    <string name="settings">Ayarlar</string>
+    <string name="settings_card_alpha">Geçiş çubuğu şeffaflığı</string>
+    <string name="settings_card_dim">Kart Karanlığını Ayarlama</string>
+    <string name="settings_check_update">Güncelleme kontrolü</string>
+    <string name="settings_check_update_summary">Uygulama açıldığında otomatik olarak güncellemeleri kontrol et</string>
+    <string name="settings_custom_background">Özel Uygulama Arka Planı</string>
+    <string name="settings_custom_background_summary">Bir görüntü seçin ve arka plan olarak ayarlayın</string>
+    <string name="settings_disable_su">Su uyumluluğunu devre dışı bırak</string>
+    <string name="settings_disable_su_summary">Geçici olarak herhangi bir uygulamanın su komutu aracılığıyla root ayrıcalıkları elde etmesini devre dışı bırakır (mevcut root işlemleri etkilenmez).</string>
+    <string name="settings_profile_template">Uygulama Profili Şablonu</string>
+    <string name="settings_profile_template_summary">Uygulama Profil Şablonunu yerel ve çevrimiçi olarak yönetin</string>
+    <string name="settings_restore_default">Varsayılana geri dön</string>
+    <string name="settings_restore_stock_image">Fabrika görüntüsünü geri yükle</string>
+    <string name="settings_restore_stock_image_message">Fabrika görüntüsünü geri yükleyin (yedek varsa), genellikle OTA öncesi kullanılır; KernelSU\'yu kaldırmak istiyorsanız lütfen \"Kalıcı olarak kaldır\" seçeneğini kullanın.</string>
+    <string name="settings_susfs_toggle">Kprobe kancalarını devre dışı bırak</string>
+    <string name="settings_susfs_toggle_summary">KernelSU tarafından oluşturulan kprobe kancalarını devre dışı bırakın, bunun yerine inline kancalar kullanın, bu da Non-GKI çekirdek kanca yöntemine benzer.</string>
+    <string name="settings_umount_modules_default">Modülleri varsayılan olarak bağlamayı kaldır</string>
+    <string name="settings_umount_modules_default_summary">Uygulama Profilindeki \"Modülleri bağlamayı kaldır\" için küresel varsayılan değer. Etkinleştirilirse, profil ayarlanmamış uygulamalar için sistemdeki tüm modül değişikliklerini kaldırır.</string>
+    <string name="settings_uninstall">Kaldır</string>
+    <string name="settings_uninstall_permanent">Kalıcı olarak kaldır</string>
+    <string name="settings_uninstall_permanent_message">KernelSU\'yu (Root ve tüm modüller) tamamen ve kalıcı olarak kaldırın.</string>
+    <string name="settings_uninstall_temporary">Geçici olarak kaldır</string>
+    <string name="settings_uninstall_temporary_message">KernelSU\'yu geçici olarak kaldırın, bir sonraki yeniden başlatmadan sonra orijinal duruma geri dönün.</string>
+    <string name="show_kpm_info">KPM İşlevini Görüntüle</string>
+    <string name="show_kpm_info_summary">Ana sayfa ve alt çubukta KPM bilgilerini ve İşlevini görüntüle (Uygulamayı yeniden açmanız gerekir)</string>
+    <string name="show_system_apps">Sistem uygulamalarını göster</string>
+    <string name="side_sheet_accessibility_pane_title">Yan Sayfa</string>
+    <string name="simple_mode">Basit mod</string>
+    <string name="simple_mode_summary">Açıldığında gereksiz kartları gizler</string>
+    <string name="slot_a">Yuva A</string>
+    <string name="slot_b">Yuva B</string>
+    <string name="snackbar_failed_to_check_module_file">Modül dosyasının varlığını kontrol edilemiyor</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"Uyarı"</string>
+    <string msgid="4139871816613051306" name="state_empty">"Boş"</string>
+    <string msgid="5834637030682409883" name="state_off">"Kapalı"</string>
+    <string msgid="1490883874751719580" name="state_on">"Açık"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_not_supported">Desteklenmiyor</string>
+    <string name="status_supported">Destekleniyor</string>
+    <string name="status_unknown">Bilinmiyor</string>
+    <string name="su_not_allowed">%s için süper kullanıcı yetkisi verilemiyor</string>
+    <string name="superuser">SüperKullanıcı</string>
+    <string name="supported">Destekleniyor</string>
+    <string name="sus_su_mode">SuS SU modu:</string>
+    <string name="susfs_disabled">SuSFS devre dışı</string>
+    <string name="susfs_enabled">SuSFS etkin</string>
+    <string msgid="2561197295334830845" name="switch_role">"Anahtar"</string>
+    <string msgid="1672349317127674378" name="tab">"Sekme"</string>
+    <string msgid="5946805113151406391" name="template_percent">"Yüzde <ns1:g id="PERCENTAGE">%1$d</ns1:g>."</string>
+    <string name="theme_color">Tema Rengi</string>
+    <string name="theme_dark">Koyu</string>
+    <string name="theme_follow_system">Sistemi takip et</string>
+    <string name="theme_light">Açık</string>
+    <string name="theme_mode">Tema</string>
+    <string name="tool_version_log">Kullanılan yama aracı：%1$s</string>
+    <string name="tools">Araçlar</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"ipucu"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"ipucunu göster"</string>
+    <string name="unauthorized">yetkilendirilmedi</string>
+    <string name="uninstall">Kaldır</string>
+    <string name="unknown_error">Bilinmeyen hata</string>
+    <string name="unknown_module">Bilinmeyen modül</string>
+    <string name="use_webuix">Kullanılacak WebUI motorunu seç</string>
+    <string name="use_webuix_eruda">WebUI X\'e Eruda enjekte et</string>
+    <string name="use_webuix_eruda_summary">WebUI X\'e bir hata ayıklama konsolu enjekte edin, böylece hata ayıklama daha kolay olur. Web hata ayıklamanın açık olması gerekir.</string>
+    <string name="using_mksu_manager">SukiSU Beta yöneticisini kullanıyorsunuz</string>
+    <string name="yes">Evet</string>
+</resources>

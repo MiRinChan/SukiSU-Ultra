@@ -1,0 +1,232 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sukisu.ultra"
+4    android:versionCode="12974"
+5    android:versionName="v3.1.4" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="36" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:5:5-67
+11-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:6:5-7:40
+12-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:6:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:8:5-9:40
+13-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:8:22-78
+14
+15    <permission
+15-->[androidx.core:core:1.15.0] /home/mirin/.gradle/caches/8.12.1/transforms/a8369140380cfcd85befc58643d312fd/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+16        android:name="com.sukisu.ultra.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+16-->[androidx.core:core:1.15.0] /home/mirin/.gradle/caches/8.12.1/transforms/a8369140380cfcd85befc58643d312fd/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+17        android:protectionLevel="signature" />
+17-->[androidx.core:core:1.15.0] /home/mirin/.gradle/caches/8.12.1/transforms/a8369140380cfcd85befc58643d312fd/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+18
+19    <uses-permission android:name="com.sukisu.ultra.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+19-->[androidx.core:core:1.15.0] /home/mirin/.gradle/caches/8.12.1/transforms/a8369140380cfcd85befc58643d312fd/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+19-->[androidx.core:core:1.15.0] /home/mirin/.gradle/caches/8.12.1/transforms/a8369140380cfcd85befc58643d312fd/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+20
+21    <application
+21-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:12:5-71:19
+22        android:name="com.sukisu.ultra.KernelSUApplication"
+22-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:13:9-44
+23        android:allowBackup="true"
+23-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:14:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.15.0] /home/mirin/.gradle/caches/8.12.1/transforms/a8369140380cfcd85befc58643d312fd/transformed/core-1.15.0/AndroidManifest.xml:28:18-86
+25        android:dataExtractionRules="@xml/data_extraction_rules"
+25-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:15:9-65
+26        android:debuggable="true"
+27        android:enableOnBackInvokedCallback="true"
+27-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:16:9-51
+28        android:extractNativeLibs="true"
+29        android:fullBackupContent="@xml/backup_rules"
+29-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:17:9-54
+30        android:icon="@mipmap/ic_launcher"
+30-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:18:9-43
+31        android:label="@string/app_name"
+31-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:19:9-41
+32        android:localeConfig="@xml/_generated_res_locale_config"
+33        android:networkSecurityConfig="@xml/network_security_config"
+33-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:20:9-69
+34        android:requestLegacyExternalStorage="true"
+34-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:23:9-52
+35        android:supportsRtl="true"
+35-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:21:9-35
+36        android:testOnly="true"
+37        android:theme="@style/Theme.KernelSU" >
+37-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:22:9-46
+38        <activity
+38-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:25:9-33:20
+39            android:name="com.sukisu.ultra.ui.MainActivity"
+39-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:26:13-44
+40            android:exported="true"
+40-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:27:13-36
+41            android:theme="@style/Theme.KernelSU" >
+41-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:28:13-50
+42            <intent-filter>
+42-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:29:13-32:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:30:17-69
+43-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:30:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:31:17-77
+45-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:31:27-74
+46            </intent-filter>
+47        </activity>
+48
+49        <activity-alias
+49-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:35:9-46:26
+50            android:name="com.sukisu.ultra.ui.MainActivityAlias"
+50-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:36:13-49
+51            android:enabled="false"
+51-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:38:13-36
+52            android:exported="true"
+52-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:37:13-36
+53            android:icon="@mipmap/ic_launcher_alt"
+53-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:39:13-51
+54            android:roundIcon="@mipmap/ic_launcher_alt_round"
+54-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:40:13-62
+55            android:targetActivity="com.sukisu.ultra.ui.MainActivity" >
+55-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:41:13-54
+56            <intent-filter>
+56-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:29:13-32:29
+57                <action android:name="android.intent.action.MAIN" />
+57-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:30:17-69
+57-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:30:25-66
+58
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:31:17-77
+59-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:31:27-74
+60            </intent-filter>
+61        </activity-alias>
+62
+63        <activity
+63-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:48:9-53:59
+64            android:name="com.sukisu.ultra.ui.webui.WebUIActivity"
+64-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:49:13-51
+65            android:autoRemoveFromRecents="true"
+65-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:50:13-49
+66            android:documentLaunchMode="intoExisting"
+66-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:51:13-54
+67            android:exported="false"
+67-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:52:13-37
+68            android:theme="@style/Theme.KernelSU.WebUI" />
+68-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:53:13-56
+69        <activity
+69-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:55:9-60:59
+70            android:name="com.sukisu.ultra.ui.webui.WebUIXActivity"
+70-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:56:13-52
+71            android:autoRemoveFromRecents="true"
+71-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:57:13-49
+72            android:documentLaunchMode="intoExisting"
+72-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:58:13-54
+73            android:exported="false"
+73-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:59:13-37
+74            android:theme="@style/Theme.KernelSU.WebUI" />
+74-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:60:13-56
+75
+76        <provider
+77            android:name="androidx.core.content.FileProvider"
+77-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:63:13-62
+78            android:authorities="com.sukisu.ultra.fileprovider"
+78-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:64:13-64
+79            android:exported="false"
+79-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:65:13-37
+80            android:grantUriPermissions="true" >
+80-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:66:13-47
+81            <meta-data
+81-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:67:13-69:53
+82                android:name="android.support.FILE_PROVIDER_PATHS"
+82-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:68:17-67
+83                android:resource="@xml/filepaths" />
+83-->/home/mirin/SukiSU-Ultra/manager/app/src/main/AndroidManifest.xml:69:17-50
+84        </provider>
+85
+86        <activity
+86-->[androidx.compose.ui:ui-tooling-android:1.8.2] /home/mirin/.gradle/caches/8.12.1/transforms/dfc0f00b624f1f405a92dc7f71e52ee6/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+87            android:name="androidx.compose.ui.tooling.PreviewActivity"
+87-->[androidx.compose.ui:ui-tooling-android:1.8.2] /home/mirin/.gradle/caches/8.12.1/transforms/dfc0f00b624f1f405a92dc7f71e52ee6/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+88            android:exported="true" />
+88-->[androidx.compose.ui:ui-tooling-android:1.8.2] /home/mirin/.gradle/caches/8.12.1/transforms/dfc0f00b624f1f405a92dc7f71e52ee6/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+89        <activity
+89-->[androidx.compose.ui:ui-test-manifest:1.8.2] /home/mirin/.gradle/caches/8.12.1/transforms/bd2a131b85cd3a30ae0bbdbbc9692e89/transformed/ui-test-manifest-1.8.2/AndroidManifest.xml:23:9-26:79
+90            android:name="androidx.activity.ComponentActivity"
+90-->[androidx.compose.ui:ui-test-manifest:1.8.2] /home/mirin/.gradle/caches/8.12.1/transforms/bd2a131b85cd3a30ae0bbdbbc9692e89/transformed/ui-test-manifest-1.8.2/AndroidManifest.xml:24:13-63
+91            android:exported="true"
+91-->[androidx.compose.ui:ui-test-manifest:1.8.2] /home/mirin/.gradle/caches/8.12.1/transforms/bd2a131b85cd3a30ae0bbdbbc9692e89/transformed/ui-test-manifest-1.8.2/AndroidManifest.xml:25:13-36
+92            android:theme="@android:style/Theme.Material.Light.NoActionBar" />
+92-->[androidx.compose.ui:ui-test-manifest:1.8.2] /home/mirin/.gradle/caches/8.12.1/transforms/bd2a131b85cd3a30ae0bbdbbc9692e89/transformed/ui-test-manifest-1.8.2/AndroidManifest.xml:26:13-76
+93
+94        <provider
+94-->[androidx.emoji2:emoji2:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/40b5cfbd29fd17c2a9c353f69684def0/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+95            android:name="androidx.startup.InitializationProvider"
+95-->[androidx.emoji2:emoji2:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/40b5cfbd29fd17c2a9c353f69684def0/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+96            android:authorities="com.sukisu.ultra.androidx-startup"
+96-->[androidx.emoji2:emoji2:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/40b5cfbd29fd17c2a9c353f69684def0/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+97            android:exported="false" >
+97-->[androidx.emoji2:emoji2:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/40b5cfbd29fd17c2a9c353f69684def0/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+98            <meta-data
+98-->[androidx.emoji2:emoji2:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/40b5cfbd29fd17c2a9c353f69684def0/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+99                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+99-->[androidx.emoji2:emoji2:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/40b5cfbd29fd17c2a9c353f69684def0/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+100                android:value="androidx.startup" />
+100-->[androidx.emoji2:emoji2:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/40b5cfbd29fd17c2a9c353f69684def0/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+101            <meta-data
+101-->[androidx.lifecycle:lifecycle-process:2.9.0] /home/mirin/.gradle/caches/8.12.1/transforms/82b8a423f0c0ff88f249c2a9624b6dc2/transformed/lifecycle-process-2.9.0/AndroidManifest.xml:29:13-31:52
+102                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+102-->[androidx.lifecycle:lifecycle-process:2.9.0] /home/mirin/.gradle/caches/8.12.1/transforms/82b8a423f0c0ff88f249c2a9624b6dc2/transformed/lifecycle-process-2.9.0/AndroidManifest.xml:30:17-78
+103                android:value="androidx.startup" />
+103-->[androidx.lifecycle:lifecycle-process:2.9.0] /home/mirin/.gradle/caches/8.12.1/transforms/82b8a423f0c0ff88f249c2a9624b6dc2/transformed/lifecycle-process-2.9.0/AndroidManifest.xml:31:17-49
+104            <meta-data
+104-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/02471bb7ce634d54a96c04fd27638e92/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+105                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+105-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/02471bb7ce634d54a96c04fd27638e92/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+106                android:value="androidx.startup" />
+106-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/02471bb7ce634d54a96c04fd27638e92/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+107        </provider>
+108
+109        <receiver
+109-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/02471bb7ce634d54a96c04fd27638e92/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+110            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+110-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/02471bb7ce634d54a96c04fd27638e92/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+111            android:directBootAware="false"
+111-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/02471bb7ce634d54a96c04fd27638e92/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+112            android:enabled="true"
+112-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/02471bb7ce634d54a96c04fd27638e92/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+113            android:exported="true"
+113-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/02471bb7ce634d54a96c04fd27638e92/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+114            android:permission="android.permission.DUMP" >
+114-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/02471bb7ce634d54a96c04fd27638e92/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+115            <intent-filter>
+115-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/02471bb7ce634d54a96c04fd27638e92/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+116                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+116-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/02471bb7ce634d54a96c04fd27638e92/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+116-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/02471bb7ce634d54a96c04fd27638e92/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+117            </intent-filter>
+118            <intent-filter>
+118-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/02471bb7ce634d54a96c04fd27638e92/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+119                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+119-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/02471bb7ce634d54a96c04fd27638e92/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+119-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/02471bb7ce634d54a96c04fd27638e92/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+120            </intent-filter>
+121            <intent-filter>
+121-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/02471bb7ce634d54a96c04fd27638e92/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+122                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+122-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/02471bb7ce634d54a96c04fd27638e92/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+122-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/02471bb7ce634d54a96c04fd27638e92/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+123            </intent-filter>
+124            <intent-filter>
+124-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/02471bb7ce634d54a96c04fd27638e92/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+125                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+125-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/02471bb7ce634d54a96c04fd27638e92/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+125-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/mirin/.gradle/caches/8.12.1/transforms/02471bb7ce634d54a96c04fd27638e92/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+126            </intent-filter>
+127        </receiver>
+128    </application>
+129
+130</manifest>

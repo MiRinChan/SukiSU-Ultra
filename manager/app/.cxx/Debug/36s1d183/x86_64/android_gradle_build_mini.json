@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/home/mirin/SukiSU-Ultra/manager/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/mirin/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/mirin/SukiSU-Ultra/manager/app/.cxx/Debug/36s1d183/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/mirin/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/mirin/SukiSU-Ultra/manager/app/.cxx/Debug/36s1d183/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "zako::@6890427a1f51a3e7e1df": {
+      "artifactName": "zako",
+      "abi": "x86_64",
+      "output": "/home/mirin/SukiSU-Ultra/manager/app/build/intermediates/cxx/Debug/36s1d183/obj/x86_64/libzako.so",
+      "runtimeFiles": []
+    }
+  }
+}

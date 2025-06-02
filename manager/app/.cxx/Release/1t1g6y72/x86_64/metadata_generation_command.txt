@@ -1,0 +1,26 @@
+                        -H/home/mirin/SukiSU-Ultra/manager/app/src/main/cpp
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=26
+-DANDROID_PLATFORM=android-26
+-DANDROID_ABI=x86_64
+-DCMAKE_ANDROID_ARCH_ABI=x86_64
+-DANDROID_NDK=/home/mirin/Android/Sdk/ndk/28.0.13004108
+-DCMAKE_ANDROID_NDK=/home/mirin/Android/Sdk/ndk/28.0.13004108
+-DCMAKE_TOOLCHAIN_FILE=/home/mirin/Android/Sdk/ndk/28.0.13004108/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/home/mirin/Android/Sdk/cmake/3.22.1/bin/ninja
+-DCMAKE_C_FLAGS=-std=c2x -Wall -Qunused-arguments -fno-rtti -fvisibility=hidden -fvisibility-inlines-hidden -fno-exceptions -fno-stack-protector -fomit-frame-pointer -Wno-builtin-macro-redefined -Wno-unused-value -D__FILE__=__FILE_NAME__ -flto -ffunction-sections -fdata-sections -Wl,--gc-sections -fno-unwind-tables -fno-asynchronous-unwind-tables -Wl,--exclude-libs,ALL
+-DCMAKE_CXX_FLAGS=-std=c++2b -Wall -Qunused-arguments -fno-rtti -fvisibility=hidden -fvisibility-inlines-hidden -fno-exceptions -fno-stack-protector -fomit-frame-pointer -Wno-builtin-macro-redefined -Wno-unused-value -D__FILE__=__FILE_NAME__ -flto -ffunction-sections -fdata-sections -Wl,--gc-sections -fno-unwind-tables -fno-asynchronous-unwind-tables -Wl,--exclude-libs,ALL
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/mirin/SukiSU-Ultra/manager/app/build/intermediates/cxx/Release/1t1g6y72/obj/x86_64
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/home/mirin/SukiSU-Ultra/manager/app/build/intermediates/cxx/Release/1t1g6y72/obj/x86_64
+-DCMAKE_FIND_ROOT_PATH=/home/mirin/SukiSU-Ultra/manager/app/.cxx/Release/1t1g6y72/prefab/x86_64/prefab
+-B/home/mirin/SukiSU-Ultra/manager/app/.cxx/Release/1t1g6y72/x86_64
+-GNinja
+-DANDROID_CCACHE=/usr/bin/ccache
+-DANDROID_STL=none
+-DCMAKE_BUILD_TYPE=Release
+-DCMAKE_CXX_FLAGS_RELEASE=-Oz -DNDEBUG
+-DCMAKE_C_FLAGS_RELEASE=-Oz -DNDEBUG
+-DDEBUG_SYMBOLS_PATH=/home/mirin/SukiSU-Ultra/manager/build/symbols
+                        Build command args: []
+                        Version: 2

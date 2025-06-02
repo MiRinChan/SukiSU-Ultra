@@ -1,0 +1,141 @@
+The C compiler identification could not be found in "/home/mirin/SukiSU-Ultra/manager/app/.cxx/Release/1t1g6y72/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.o"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /home/mirin/Android/Sdk/ndk/28.0.13004108/toolchains/llvm/prebuilt/linux-x86_64/bin/clang 
+Build flags: -g;-DANDROID;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-D_FORTIFY_SOURCE=2;-march=armv7-a;-mthumb;-Wformat;-Werror=format-security;-std=c2x;-Wall;-Qunused-arguments;-fno-rtti;-fvisibility=hidden;-fvisibility-inlines-hidden;-fno-exceptions;-fno-stack-protector;-fomit-frame-pointer;-Wno-builtin-macro-redefined;-Wno-unused-value;-D__FILE__=__FILE_NAME__;-flto;-ffunction-sections;-fdata-sections;-Wl,--gc-sections;-fno-unwind-tables;-fno-asynchronous-unwind-tables;-Wl,--exclude-libs,ALL
+Id flags:  
+
+The output was:
+1
+error: unknown target CPU 'armv7-a'
+note: valid target CPU values are: nocona, core2, penryn, bonnell, atom, silvermont, slm, goldmont, goldmont-plus, tremont, nehalem, corei7, westmere, sandybridge, corei7-avx, ivybridge, core-avx-i, haswell, core-avx2, broadwell, skylake, skylake-avx512, skx, cascadelake, cooperlake, cannonlake, icelake-client, rocketlake, icelake-server, tigerlake, sapphirerapids, alderlake, raptorlake, meteorlake, arrowlake, arrowlake-s, lunarlake, gracemont, pantherlake, sierraforest, grandridge, graniterapids, graniterapids-d, emeraldrapids, clearwaterforest, knl, knm, k8, athlon64, athlon-fx, opteron, k8-sse3, athlon64-sse3, opteron-sse3, amdfam10, barcelona, btver1, btver2, bdver1, bdver2, bdver3, bdver4, znver1, znver2, znver3, znver4, x86-64, x86-64-v2, x86-64-v3, x86-64-v4
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /home/mirin/Android/Sdk/ndk/28.0.13004108/toolchains/llvm/prebuilt/linux-x86_64/bin/clang 
+Build flags: -g;-DANDROID;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-D_FORTIFY_SOURCE=2;-march=armv7-a;-mthumb;-Wformat;-Werror=format-security;-std=c2x;-Wall;-Qunused-arguments;-fno-rtti;-fvisibility=hidden;-fvisibility-inlines-hidden;-fno-exceptions;-fno-stack-protector;-fomit-frame-pointer;-Wno-builtin-macro-redefined;-Wno-unused-value;-D__FILE__=__FILE_NAME__;-flto;-ffunction-sections;-fdata-sections;-Wl,--gc-sections;-fno-unwind-tables;-fno-asynchronous-unwind-tables;-Wl,--exclude-libs,ALL
+Id flags: -c 
+
+The output was:
+1
+error: unknown target CPU 'armv7-a'
+note: valid target CPU values are: nocona, core2, penryn, bonnell, atom, silvermont, slm, goldmont, goldmont-plus, tremont, nehalem, corei7, westmere, sandybridge, corei7-avx, ivybridge, core-avx-i, haswell, core-avx2, broadwell, skylake, skylake-avx512, skx, cascadelake, cooperlake, cannonlake, icelake-client, rocketlake, icelake-server, tigerlake, sapphirerapids, alderlake, raptorlake, meteorlake, arrowlake, arrowlake-s, lunarlake, gracemont, pantherlake, sierraforest, grandridge, graniterapids, graniterapids-d, emeraldrapids, clearwaterforest, knl, knm, k8, athlon64, athlon-fx, opteron, k8-sse3, athlon64-sse3, opteron-sse3, amdfam10, barcelona, btver1, btver2, bdver1, bdver2, bdver3, bdver4, znver1, znver2, znver3, znver4, x86-64, x86-64-v2, x86-64-v3, x86-64-v4
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /home/mirin/Android/Sdk/ndk/28.0.13004108/toolchains/llvm/prebuilt/linux-x86_64/bin/clang 
+Build flags: -g;-DANDROID;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-D_FORTIFY_SOURCE=2;-march=armv7-a;-mthumb;-Wformat;-Werror=format-security;-std=c2x;-Wall;-Qunused-arguments;-fno-rtti;-fvisibility=hidden;-fvisibility-inlines-hidden;-fno-exceptions;-fno-stack-protector;-fomit-frame-pointer;-Wno-builtin-macro-redefined;-Wno-unused-value;-D__FILE__=__FILE_NAME__;-flto;-ffunction-sections;-fdata-sections;-Wl,--gc-sections;-fno-unwind-tables;-fno-asynchronous-unwind-tables;-Wl,--exclude-libs,ALL
+Id flags: -Aa 
+
+The output was:
+1
+error: unknown target CPU 'armv7-a'
+note: valid target CPU values are: nocona, core2, penryn, bonnell, atom, silvermont, slm, goldmont, goldmont-plus, tremont, nehalem, corei7, westmere, sandybridge, corei7-avx, ivybridge, core-avx-i, haswell, core-avx2, broadwell, skylake, skylake-avx512, skx, cascadelake, cooperlake, cannonlake, icelake-client, rocketlake, icelake-server, tigerlake, sapphirerapids, alderlake, raptorlake, meteorlake, arrowlake, arrowlake-s, lunarlake, gracemont, pantherlake, sierraforest, grandridge, graniterapids, graniterapids-d, emeraldrapids, clearwaterforest, knl, knm, k8, athlon64, athlon-fx, opteron, k8-sse3, athlon64-sse3, opteron-sse3, amdfam10, barcelona, btver1, btver2, bdver1, bdver2, bdver3, bdver4, znver1, znver2, znver3, znver4, x86-64, x86-64-v2, x86-64-v3, x86-64-v4
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /home/mirin/Android/Sdk/ndk/28.0.13004108/toolchains/llvm/prebuilt/linux-x86_64/bin/clang 
+Build flags: -g;-DANDROID;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-D_FORTIFY_SOURCE=2;-march=armv7-a;-mthumb;-Wformat;-Werror=format-security;-std=c2x;-Wall;-Qunused-arguments;-fno-rtti;-fvisibility=hidden;-fvisibility-inlines-hidden;-fno-exceptions;-fno-stack-protector;-fomit-frame-pointer;-Wno-builtin-macro-redefined;-Wno-unused-value;-D__FILE__=__FILE_NAME__;-flto;-ffunction-sections;-fdata-sections;-Wl,--gc-sections;-fno-unwind-tables;-fno-asynchronous-unwind-tables;-Wl,--exclude-libs,ALL
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+error: unknown target CPU 'armv7-a'
+note: valid target CPU values are: nocona, core2, penryn, bonnell, atom, silvermont, slm, goldmont, goldmont-plus, tremont, nehalem, corei7, westmere, sandybridge, corei7-avx, ivybridge, core-avx-i, haswell, core-avx2, broadwell, skylake, skylake-avx512, skx, cascadelake, cooperlake, cannonlake, icelake-client, rocketlake, icelake-server, tigerlake, sapphirerapids, alderlake, raptorlake, meteorlake, arrowlake, arrowlake-s, lunarlake, gracemont, pantherlake, sierraforest, grandridge, graniterapids, graniterapids-d, emeraldrapids, clearwaterforest, knl, knm, k8, athlon64, athlon-fx, opteron, k8-sse3, athlon64-sse3, opteron-sse3, amdfam10, barcelona, btver1, btver2, bdver1, bdver2, bdver3, bdver4, znver1, znver2, znver3, znver4, x86-64, x86-64-v2, x86-64-v3, x86-64-v4
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /home/mirin/Android/Sdk/ndk/28.0.13004108/toolchains/llvm/prebuilt/linux-x86_64/bin/clang 
+Build flags: -g;-DANDROID;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-D_FORTIFY_SOURCE=2;-march=armv7-a;-mthumb;-Wformat;-Werror=format-security;-std=c2x;-Wall;-Qunused-arguments;-fno-rtti;-fvisibility=hidden;-fvisibility-inlines-hidden;-fno-exceptions;-fno-stack-protector;-fomit-frame-pointer;-Wno-builtin-macro-redefined;-Wno-unused-value;-D__FILE__=__FILE_NAME__;-flto;-ffunction-sections;-fdata-sections;-Wl,--gc-sections;-fno-unwind-tables;-fno-asynchronous-unwind-tables;-Wl,--exclude-libs,ALL
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+ld.lld: error: unable to find library -lc
+ld.lld: error: unable to find library -lm
+ld.lld: error: cannot open /home/mirin/Android/Sdk/ndk/28.0.13004108/toolchains/llvm/prebuilt/linux-x86_64/bin/../lib/clang-runtimes/arm-arm-none-eabi/lib/libclang_rt.builtins.a: No such file or directory
+clang: error: ld.lld command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /home/mirin/Android/Sdk/ndk/28.0.13004108/toolchains/llvm/prebuilt/linux-x86_64/bin/clang 
+Build flags: -g;-DANDROID;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-D_FORTIFY_SOURCE=2;-march=armv7-a;-mthumb;-Wformat;-Werror=format-security;-std=c2x;-Wall;-Qunused-arguments;-fno-rtti;-fvisibility=hidden;-fvisibility-inlines-hidden;-fno-exceptions;-fno-stack-protector;-fomit-frame-pointer;-Wno-builtin-macro-redefined;-Wno-unused-value;-D__FILE__=__FILE_NAME__;-flto;-ffunction-sections;-fdata-sections;-Wl,--gc-sections;-fno-unwind-tables;-fno-asynchronous-unwind-tables;-Wl,--exclude-libs,ALL
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+1
+error: unknown target CPU 'armv7-a'
+note: valid target CPU values are: nocona, core2, penryn, bonnell, atom, silvermont, slm, goldmont, goldmont-plus, tremont, nehalem, corei7, westmere, sandybridge, corei7-avx, ivybridge, core-avx-i, haswell, core-avx2, broadwell, skylake, skylake-avx512, skx, cascadelake, cooperlake, cannonlake, icelake-client, rocketlake, icelake-server, tigerlake, sapphirerapids, alderlake, raptorlake, meteorlake, arrowlake, arrowlake-s, lunarlake, gracemont, pantherlake, sierraforest, grandridge, graniterapids, graniterapids-d, emeraldrapids, clearwaterforest, knl, knm, k8, athlon64, athlon-fx, opteron, k8-sse3, athlon64-sse3, opteron-sse3, amdfam10, barcelona, btver1, btver2, bdver1, bdver2, bdver3, bdver4, znver1, znver2, znver3, znver4, x86-64, x86-64-v2, x86-64-v3, x86-64-v4
+
+
+The CXX compiler identification could not be found in "/home/mirin/SukiSU-Ultra/manager/app/.cxx/Release/1t1g6y72/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /home/mirin/Android/Sdk/ndk/28.0.13004108/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ 
+Build flags: -g;-DANDROID;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-D_FORTIFY_SOURCE=2;-march=armv7-a;-mthumb;-Wformat;-Werror=format-security;-nostdinc++;-std=c++2b;-Wall;-Qunused-arguments;-fno-rtti;-fvisibility=hidden;-fvisibility-inlines-hidden;-fno-exceptions;-fno-stack-protector;-fomit-frame-pointer;-Wno-builtin-macro-redefined;-Wno-unused-value;-D__FILE__=__FILE_NAME__;-flto;-ffunction-sections;-fdata-sections;-Wl,--gc-sections;-fno-unwind-tables;-fno-asynchronous-unwind-tables;-Wl,--exclude-libs,ALL
+Id flags:  
+
+The output was:
+1
+error: unknown target CPU 'armv7-a'
+note: valid target CPU values are: nocona, core2, penryn, bonnell, atom, silvermont, slm, goldmont, goldmont-plus, tremont, nehalem, corei7, westmere, sandybridge, corei7-avx, ivybridge, core-avx-i, haswell, core-avx2, broadwell, skylake, skylake-avx512, skx, cascadelake, cooperlake, cannonlake, icelake-client, rocketlake, icelake-server, tigerlake, sapphirerapids, alderlake, raptorlake, meteorlake, arrowlake, arrowlake-s, lunarlake, gracemont, pantherlake, sierraforest, grandridge, graniterapids, graniterapids-d, emeraldrapids, clearwaterforest, knl, knm, k8, athlon64, athlon-fx, opteron, k8-sse3, athlon64-sse3, opteron-sse3, amdfam10, barcelona, btver1, btver2, bdver1, bdver2, bdver3, bdver4, znver1, znver2, znver3, znver4, x86-64, x86-64-v2, x86-64-v3, x86-64-v4
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /home/mirin/Android/Sdk/ndk/28.0.13004108/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ 
+Build flags: -g;-DANDROID;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-D_FORTIFY_SOURCE=2;-march=armv7-a;-mthumb;-Wformat;-Werror=format-security;-nostdinc++;-std=c++2b;-Wall;-Qunused-arguments;-fno-rtti;-fvisibility=hidden;-fvisibility-inlines-hidden;-fno-exceptions;-fno-stack-protector;-fomit-frame-pointer;-Wno-builtin-macro-redefined;-Wno-unused-value;-D__FILE__=__FILE_NAME__;-flto;-ffunction-sections;-fdata-sections;-Wl,--gc-sections;-fno-unwind-tables;-fno-asynchronous-unwind-tables;-Wl,--exclude-libs,ALL
+Id flags: -c 
+
+The output was:
+1
+error: unknown target CPU 'armv7-a'
+note: valid target CPU values are: nocona, core2, penryn, bonnell, atom, silvermont, slm, goldmont, goldmont-plus, tremont, nehalem, corei7, westmere, sandybridge, corei7-avx, ivybridge, core-avx-i, haswell, core-avx2, broadwell, skylake, skylake-avx512, skx, cascadelake, cooperlake, cannonlake, icelake-client, rocketlake, icelake-server, tigerlake, sapphirerapids, alderlake, raptorlake, meteorlake, arrowlake, arrowlake-s, lunarlake, gracemont, pantherlake, sierraforest, grandridge, graniterapids, graniterapids-d, emeraldrapids, clearwaterforest, knl, knm, k8, athlon64, athlon-fx, opteron, k8-sse3, athlon64-sse3, opteron-sse3, amdfam10, barcelona, btver1, btver2, bdver1, bdver2, bdver3, bdver4, znver1, znver2, znver3, znver4, x86-64, x86-64-v2, x86-64-v3, x86-64-v4
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /home/mirin/Android/Sdk/ndk/28.0.13004108/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ 
+Build flags: -g;-DANDROID;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-D_FORTIFY_SOURCE=2;-march=armv7-a;-mthumb;-Wformat;-Werror=format-security;-nostdinc++;-std=c++2b;-Wall;-Qunused-arguments;-fno-rtti;-fvisibility=hidden;-fvisibility-inlines-hidden;-fno-exceptions;-fno-stack-protector;-fomit-frame-pointer;-Wno-builtin-macro-redefined;-Wno-unused-value;-D__FILE__=__FILE_NAME__;-flto;-ffunction-sections;-fdata-sections;-Wl,--gc-sections;-fno-unwind-tables;-fno-asynchronous-unwind-tables;-Wl,--exclude-libs,ALL
+Id flags: --c++ 
+
+The output was:
+1
+clang++: error: unknown argument: '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /home/mirin/Android/Sdk/ndk/28.0.13004108/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ 
+Build flags: -g;-DANDROID;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-D_FORTIFY_SOURCE=2;-march=armv7-a;-mthumb;-Wformat;-Werror=format-security;-nostdinc++;-std=c++2b;-Wall;-Qunused-arguments;-fno-rtti;-fvisibility=hidden;-fvisibility-inlines-hidden;-fno-exceptions;-fno-stack-protector;-fomit-frame-pointer;-Wno-builtin-macro-redefined;-Wno-unused-value;-D__FILE__=__FILE_NAME__;-flto;-ffunction-sections;-fdata-sections;-Wl,--gc-sections;-fno-unwind-tables;-fno-asynchronous-unwind-tables;-Wl,--exclude-libs,ALL
+Id flags: --ec++ 
+
+The output was:
+1
+clang++: error: unknown argument: '--ec++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /home/mirin/Android/Sdk/ndk/28.0.13004108/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ 
+Build flags: -g;-DANDROID;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-D_FORTIFY_SOURCE=2;-march=armv7-a;-mthumb;-Wformat;-Werror=format-security;-nostdinc++;-std=c++2b;-Wall;-Qunused-arguments;-fno-rtti;-fvisibility=hidden;-fvisibility-inlines-hidden;-fno-exceptions;-fno-stack-protector;-fomit-frame-pointer;-Wno-builtin-macro-redefined;-Wno-unused-value;-D__FILE__=__FILE_NAME__;-flto;-ffunction-sections;-fdata-sections;-Wl,--gc-sections;-fno-unwind-tables;-fno-asynchronous-unwind-tables;-Wl,--exclude-libs,ALL
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+ld.lld: error: unable to find library -lc++
+ld.lld: error: unable to find library -lc++abi
+ld.lld: error: unable to find library -lunwind
+ld.lld: error: unable to find library -lc
+ld.lld: error: unable to find library -lm
+ld.lld: error: cannot open /home/mirin/Android/Sdk/ndk/28.0.13004108/toolchains/llvm/prebuilt/linux-x86_64/bin/../lib/clang-runtimes/arm-arm-none-eabi/lib/libclang_rt.builtins.a: No such file or directory
+clang++: error: ld.lld command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /home/mirin/Android/Sdk/ndk/28.0.13004108/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ 
+Build flags: -g;-DANDROID;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-D_FORTIFY_SOURCE=2;-march=armv7-a;-mthumb;-Wformat;-Werror=format-security;-nostdinc++;-std=c++2b;-Wall;-Qunused-arguments;-fno-rtti;-fvisibility=hidden;-fvisibility-inlines-hidden;-fno-exceptions;-fno-stack-protector;-fomit-frame-pointer;-Wno-builtin-macro-redefined;-Wno-unused-value;-D__FILE__=__FILE_NAME__;-flto;-ffunction-sections;-fdata-sections;-Wl,--gc-sections;-fno-unwind-tables;-fno-asynchronous-unwind-tables;-Wl,--exclude-libs,ALL
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+1
+error: unknown target CPU 'armv7-a'
+note: valid target CPU values are: nocona, core2, penryn, bonnell, atom, silvermont, slm, goldmont, goldmont-plus, tremont, nehalem, corei7, westmere, sandybridge, corei7-avx, ivybridge, core-avx-i, haswell, core-avx2, broadwell, skylake, skylake-avx512, skx, cascadelake, cooperlake, cannonlake, icelake-client, rocketlake, icelake-server, tigerlake, sapphirerapids, alderlake, raptorlake, meteorlake, arrowlake, arrowlake-s, lunarlake, gracemont, pantherlake, sierraforest, grandridge, graniterapids, graniterapids-d, emeraldrapids, clearwaterforest, knl, knm, k8, athlon64, athlon-fx, opteron, k8-sse3, athlon64-sse3, opteron-sse3, amdfam10, barcelona, btver1, btver2, bdver1, bdver2, bdver3, bdver4, znver1, znver2, znver3, znver4, x86-64, x86-64-v2, x86-64-v3, x86-64-v4
+
+
